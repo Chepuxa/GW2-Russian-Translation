@@ -1,0 +1,22 @@
+{
+  "format": 1,
+  "name": "Русский локальный перевод",
+  "glyph": {
+    "translate": false,
+    "upload": false,
+    "autocollect": false,
+    "seed_decode": true,
+    "autoupdate": false,
+    "ui_lang": "ru",
+    "glyph_custom": true,
+    "glyph_size": 90,
+    "glyph_baseline": 80
+  },
+  "translator": {
+    "threads": 2,
+    "pause_refreshes": true,
+    "refresh_debounce_secs": 1,
+    "remote_updates": false,
+    "editor_port": 0
+  }
+}

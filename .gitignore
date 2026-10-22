@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+dist/
+*.db
+*.db-wal
+*.db-shm
+*.log
+*.exe
+*.dll
+.venv/
+.artifacts/
+.build-env/
+target/
+*.zip
+# Personal contribution queues, credentials, and browser launch state.
+**/RU/contributions/
+**/panel-state.json

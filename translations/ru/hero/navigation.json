@@ -1,0 +1,168 @@
+{
+  "$schema": "../../../schema/catalog.schema.json",
+  "format": 1,
+  "language": "ru",
+  "section": "hero/navigation",
+  "strings": [
+    {
+      "id": 46243,
+      "en": "Equipment",
+      "ru": "Снаряжение",
+      "context": "Название основного раздела в заголовке",
+      "src_hash": "8bdb2a437092ab4c",
+      "status": "reviewed",
+      "evidence": "onscreen-id",
+      "verification": "First contextual review, 2026-10-22; representative screens checked in-game."
+    },
+    {
+      "id": 47153,
+      "en": "Achievements",
+      "ru": "Достижения",
+      "context": "Основной раздел достижений",
+      "src_hash": "dfa8287fdcc7dc29",
+      "status": "reviewed",
+      "evidence": "onscreen-id",
+      "verification": "First contextual review, 2026-10-22; representative screens checked in-game."
+    },
+    {
+      "id": 47325,
+      "en": "Level %num1% %str1%",
+      "ru": "Уровень %num1% · %str1%",
+      "context": "Подпись уровня и профессии рядом с именем персонажа",
+      "src_hash": "87cc853cf7f1c9a4",
+      "status": "reviewed",
+      "evidence": "onscreen-id",
+      "verification": "First contextual review, 2026-10-22; representative screens checked in-game."
+    },
+    {
+      "id": 47855,
+      "en": "Hero",
+      "ru": "Герой",
+      "context": "Общий заголовок окна и кнопка верхнего меню",
+      "src_hash": "1cf94521bda482b6",
+      "status": "reviewed",
+      "evidence": "onscreen-id",
+      "verification": "First contextual review, 2026-10-22; representative screens checked in-game."
+    },
+    {
+      "id": 48546,
+      "en": "Crafting",
+      "ru": "Ремёсла",
+      "context": "Основной раздел ремесленных рецептов",
+      "src_hash": "a4b07231effd21bb",
+      "status": "reviewed",
+      "evidence": "onscreen-id",
+      "verification": "First contextual review, 2026-10-22; representative screens checked in-game."
+    },
+    {
+      "id": 59788,
+      "en": "Search...",
+      "ru": "Поиск...",
+      "context": "Поле поиска в окне героя",
+      "src_hash": "417397e5e3591602",
+      "status": "reviewed",
+      "evidence": "onscreen-id",
+      "verification": "First contextual review, 2026-10-22; representative screens checked in-game."
+    },
+    {
+      "id": 182392,
+      "en": "Story Journal",
+      "ru": "Журнал истории",
+      "context": "Основной раздел сюжетных глав",
+      "src_hash": "f98983af3c08e179",
+      "status": "reviewed",
+      "evidence": "onscreen-id",
+      "verification": "First contextual review, 2026-10-22; representative screens checked in-game."
+    },
+    {
+      "id": 187902,
+      "en": "Life Force Pool",
+      "ru": "Запас жизненной силы",
+      "context": "Первая строка справа: ресурс некроманта, а не здоровье",
+      "src_hash": "9e83941ef1e38fa7",
+      "status": "reviewed",
+      "evidence": "onscreen-text-exact",
+      "verification": "First contextual review, 2026-10-22; representative screens checked in-game."
+    },
+    {
+      "id": 241999,
+      "en": "Combines item defense and toughness; reduces incoming damage",
+      "ru": "Сумма защиты снаряжения и стойкости. Снижает получаемый урон.",
+      "context": "Подсказка суммарной брони",
+      "src_hash": "a1ec57ea8f3e8426",
+      "status": "reviewed",
+      "evidence": "onscreen-text-exact",
+      "verification": "First contextual review, 2026-10-22; representative screens checked in-game."
+    },
+    {
+      "id": 296280,
+      "en": "Return to the previous menu.",
+      "ru": "Вернуться в предыдущее меню.",
+      "context": "Подсказка кнопки возврата в главное меню",
+      "src_hash": "36fcb58f495ab638",
+      "status": "reviewed",
+      "evidence": "onscreen-id",
+      "verification": "First contextual review, 2026-10-22; representative screens checked in-game."
+    },
+    {
+      "id": 296288,
+      "en": "Manage your armor, weapons, and other equipment.",
+      "ru": "Выбор брони, оружия и другого снаряжения.",
+      "context": "Подсказка пункта «Снаряжение»",
+      "src_hash": "d4ffb4233c781cc5",
+      "status": "reviewed",
+      "evidence": "onscreen-id",
+      "verification": "First contextual review, 2026-10-22; representative screens checked in-game."
+    },
+    {
+      "id": 296329,
+      "en": "Amulets",
+      "ru": "Амулеты",
+      "context": "Категория аксессуаров: амулеты",
+      "src_hash": "78a2cca815c1376b",
+      "status": "reviewed",
+      "evidence": "onscreen-id",
+      "verification": "First contextual review, 2026-10-22; representative screens checked in-game."
+    },
+    {
+      "id": 296330,
+      "en": "Rings",
+      "ru": "Кольца",
+      "context": "Категория аксессуаров: кольца",
+      "src_hash": "81a2a4190b742e89",
+      "status": "reviewed",
+      "evidence": "onscreen-id",
+      "verification": "First contextual review, 2026-10-22; representative screens checked in-game."
+    },
+    {
+      "id": 296331,
+      "en": "Accessories",
+      "ru": "Аксессуары",
+      "context": "Категория аксессуаров для двух отдельных слотов",
+      "src_hash": "ca3ee46b761d06cd",
+      "status": "reviewed",
+      "evidence": "onscreen-id",
+      "verification": "First contextual review, 2026-10-22; representative screens checked in-game."
+    },
+    {
+      "id": 296332,
+      "en": "Gathering Tools",
+      "ru": "Инструменты для сбора",
+      "context": "Категория инструментов для добычи ресурсов",
+      "src_hash": "2984ec4acf955d02",
+      "status": "reviewed",
+      "evidence": "onscreen-id",
+      "verification": "First contextual review, 2026-10-22; representative screens checked in-game."
+    },
+    {
+      "id": 544123,
+      "en": "Masteries",
+      "ru": "Мастерства",
+      "context": "Основной раздел мастерств; термин пока сохранён из текущего словаря",
+      "src_hash": "623e500178f03eaf",
+      "status": "reviewed",
+      "evidence": "onscreen-id",
+      "verification": "First contextual review, 2026-10-22; representative screens checked in-game."
+    }
+  ]
+}

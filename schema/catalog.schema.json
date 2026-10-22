@@ -1,0 +1,33 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Contextual Guild Wars 2 translation catalog",
+  "type": "object",
+  "required": ["format", "language", "section", "strings"],
+  "properties": {
+    "$schema": {"type": "string"},
+    "format": {"const": 1},
+    "language": {"const": "ru"},
+    "section": {"type": "string", "minLength": 1},
+    "strings": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["id", "en", "ru", "context", "src_hash", "status", "evidence"],
+        "properties": {
+          "id": {"type": "integer", "minimum": 1, "maximum": 4294967295},
+          "en": {"type": "string", "minLength": 1},
+          "ru": {"type": "string"},
+          "context": {"type": "string", "minLength": 1},
+          "src_hash": {"type": "string", "pattern": "^[0-9a-f]{16}$"},
+          "status": {"enum": ["draft", "reviewed"]},
+          "evidence": {"type": "string", "minLength": 1},
+          "verification": {"type": "string"},
+          "notes": {"type": "string"},
+          "api_ref": {"type": "string"}
+        },
+        "allOf": [{"if": {"properties": {"status": {"const": "reviewed"}}},
+          "then": {"properties": {"ru": {"minLength": 1}}}}]
+      }
+    }
+  }
+}

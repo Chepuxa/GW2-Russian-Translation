@@ -1,0 +1,348 @@
+{
+  "$schema": "../../../schema/catalog.schema.json",
+  "format": 1,
+  "language": "ru",
+  "section": "hero/attributes",
+  "strings": [
+    {
+      "id": 46379,
+      "en": "Armor",
+      "ru": "Броня",
+      "context": "Характеристики: вторая строка справа, суммарная защита",
+      "src_hash": "d866c6044b75f7af",
+      "status": "reviewed",
+      "evidence": "onscreen-id",
+      "verification": "First contextual review, 2026-10-22; representative screens checked in-game."
+    },
+    {
+      "id": 46903,
+      "en": "Precision",
+      "ru": "Точность",
+      "context": "Характеристики: четвёртая строка слева, значок прицела",
+      "src_hash": "e2e0d760ca0ca2b0",
+      "status": "reviewed",
+      "evidence": "onscreen-id",
+      "verification": "First contextual review, 2026-10-22; representative screens checked in-game."
+    },
+    {
+      "id": 46935,
+      "en": "Power",
+      "ru": "Сила",
+      "context": "Характеристики: первая строка слева, значок меча",
+      "src_hash": "845e31b40bb4fbbc",
+      "status": "reviewed",
+      "evidence": "onscreen-id",
+      "verification": "First contextual review, 2026-10-22; representative screens checked in-game."
+    },
+    {
+      "id": 47022,
+      "en": "Increases maximum health",
+      "ru": "Повышает максимальный запас здоровья.",
+      "context": "Подсказка характеристики «Живучесть»",
+      "src_hash": "0829ddce2e01d00f",
+      "status": "reviewed",
+      "evidence": "onscreen-id",
+      "verification": "First contextual review, 2026-10-22; representative screens checked in-game."
+    },
+    {
+      "id": 47309,
+      "en": "Health",
+      "ru": "Здоровье",
+      "context": "Характеристики: третья строка справа, значок креста",
+      "src_hash": "b9ee1325e0f6aae3",
+      "status": "reviewed",
+      "evidence": "onscreen-id",
+      "verification": "First contextual review, 2026-10-22; representative screens checked in-game."
+    },
+    {
+      "id": 47419,
+      "en": "Attributes",
+      "ru": "Характеристики",
+      "context": "Заголовок блока характеристик справа от персонажа",
+      "src_hash": "fb3e6501601d484f",
+      "status": "reviewed",
+      "evidence": "onscreen-id",
+      "verification": "First contextual review, 2026-10-22; representative screens checked in-game."
+    },
+    {
+      "id": 47474,
+      "en": "Toughness",
+      "ru": "Стойкость",
+      "context": "Характеристики: вторая строка слева, значок щита",
+      "src_hash": "5d937a8e4ae81bff",
+      "status": "reviewed",
+      "evidence": "onscreen-id",
+      "verification": "First contextual review, 2026-10-22; representative screens checked in-game."
+    },
+    {
+      "id": 47784,
+      "en": "Increases attack",
+      "ru": "Повышает силу атаки.",
+      "context": "Подсказка характеристики «Сила»",
+      "src_hash": "add834d5552eb646",
+      "status": "reviewed",
+      "evidence": "onscreen-id",
+      "verification": "First contextual review, 2026-10-22; representative screens checked in-game."
+    },
+    {
+      "id": 47843,
+      "en": "Critical Chance",
+      "ru": "Шанс критического удара",
+      "context": "Характеристики: четвёртая строка справа, процент",
+      "src_hash": "bf783cf74c85bc04",
+      "status": "reviewed",
+      "evidence": "onscreen-id",
+      "verification": "First contextual review, 2026-10-22; representative screens checked in-game."
+    },
+    {
+      "id": 48026,
+      "en": "Increases armor",
+      "ru": "Повышает броню.",
+      "context": "Подсказка характеристики «Стойкость»",
+      "src_hash": "5625188ff72b5609",
+      "status": "reviewed",
+      "evidence": "onscreen-text-exact",
+      "verification": "First contextual review, 2026-10-22; representative screens checked in-game."
+    },
+    {
+      "id": 48084,
+      "en": "Vitality",
+      "ru": "Живучесть",
+      "context": "Характеристики: третья строка слева, значок сердца",
+      "src_hash": "e2737c330d0c9dc5",
+      "status": "reviewed",
+      "evidence": "onscreen-id",
+      "verification": "First contextual review, 2026-10-22; representative screens checked in-game."
+    },
+    {
+      "id": 48891,
+      "en": "Increases critical-hit chance",
+      "ru": "Повышает шанс критического удара.",
+      "context": "Подсказка характеристики «Точность»",
+      "src_hash": "1d92b2fdb2303d58",
+      "status": "reviewed",
+      "evidence": "onscreen-id",
+      "verification": "First contextual review, 2026-10-22; representative screens checked in-game."
+    },
+    {
+      "id": 49691,
+      "en": "Healing Power",
+      "ru": "Сила лечения",
+      "context": "Характеристики: шестая строка справа",
+      "src_hash": "c19525881802ac39",
+      "status": "reviewed",
+      "evidence": "onscreen-id",
+      "verification": "First contextual review, 2026-10-22; representative screens checked in-game."
+    },
+    {
+      "id": 49692,
+      "en": "Condition Damage",
+      "ru": "Урон состояниями",
+      "context": "Характеристики: шестая строка слева",
+      "src_hash": "27e4f3b577aa6334",
+      "status": "reviewed",
+      "evidence": "onscreen-id",
+      "verification": "First contextual review, 2026-10-22; representative screens checked in-game."
+    },
+    {
+      "id": 49696,
+      "en": "Increases condition damage",
+      "ru": "Повышает урон от состояний.",
+      "context": "Подсказка характеристики урона состояниями",
+      "src_hash": "62cc15abf67ea46e",
+      "status": "reviewed",
+      "evidence": "onscreen-text-exact",
+      "verification": "First contextual review, 2026-10-22; representative screens checked in-game."
+    },
+    {
+      "id": 49698,
+      "en": "Increases healing power",
+      "ru": "Повышает эффективность лечения.",
+      "context": "Подсказка характеристики силы лечения",
+      "src_hash": "70343f66f21be338",
+      "status": "reviewed",
+      "evidence": "onscreen-text-exact",
+      "verification": "First contextual review, 2026-10-22; representative screens checked in-game."
+    },
+    {
+      "id": 187876,
+      "en": "Boon Duration",
+      "ru": "Длительность благословений",
+      "context": "Характеристики: восьмая строка справа, процент",
+      "src_hash": "9a08e38519b7448f",
+      "status": "reviewed",
+      "evidence": "onscreen-id",
+      "verification": "First contextual review, 2026-10-22; representative screens checked in-game."
+    },
+    {
+      "id": 187877,
+      "en": "Condition Duration",
+      "ru": "Длительность состояний",
+      "context": "Характеристики: седьмая строка справа, процент",
+      "src_hash": "a91a07ffa3c35b1d",
+      "status": "reviewed",
+      "evidence": "onscreen-id",
+      "verification": "First contextual review, 2026-10-22; representative screens checked in-game."
+    },
+    {
+      "id": 231491,
+      "en": "Agony Resistance",
+      "ru": "Сопротивление агонии",
+      "context": "Характеристики: девятая строка слева",
+      "src_hash": "a3ed4ecf68aa18e3",
+      "status": "reviewed",
+      "evidence": "onscreen-id",
+      "verification": "First contextual review, 2026-10-22; representative screens checked in-game."
+    },
+    {
+      "id": 239143,
+      "en": "Increased by vitality",
+      "ru": "Увеличивается за счёт живучести.",
+      "context": "Подсказка максимального запаса здоровья",
+      "src_hash": "c659627ac96dedcc",
+      "status": "reviewed",
+      "evidence": "onscreen-text-exact",
+      "verification": "First contextual review, 2026-10-22; representative screens checked in-game."
+    },
+    {
+      "id": 242000,
+      "en": "Chance to deal critical-hit damage",
+      "ru": "Вероятность нанести критический удар.",
+      "context": "Подсказка шанса критического удара",
+      "src_hash": "3c35db5c427a3fb8",
+      "status": "reviewed",
+      "evidence": "onscreen-id",
+      "verification": "First contextual review, 2026-10-22; representative screens checked in-game."
+    },
+    {
+      "id": 242001,
+      "en": "Increases duration of your applied conditions",
+      "ru": "Продлевает действие накладываемых вами состояний.",
+      "context": "Подсказка длительности состояний",
+      "src_hash": "31da8f2e23de514e",
+      "status": "reviewed",
+      "evidence": "onscreen-id",
+      "verification": "First contextual review, 2026-10-22; representative screens checked in-game."
+    },
+    {
+      "id": 242002,
+      "en": "Increases duration of your applied boons",
+      "ru": "Продлевает действие даруемых вами благословений.",
+      "context": "Подсказка длительности благословений",
+      "src_hash": "917143eb30cb0a6e",
+      "status": "reviewed",
+      "evidence": "onscreen-text-exact",
+      "verification": "First contextual review, 2026-10-22; representative screens checked in-game."
+    },
+    {
+      "id": 242003,
+      "en": "Reduces agony damage",
+      "ru": "Снижает урон от агонии.",
+      "context": "Подсказка сопротивления агонии",
+      "src_hash": "04897fecc032c8df",
+      "status": "reviewed",
+      "evidence": "onscreen-id",
+      "verification": "First contextual review, 2026-10-22; representative screens checked in-game."
+    },
+    {
+      "id": 242664,
+      "en": "Increases chance to find rare items",
+      "ru": "Повышает шанс найти редкие предметы.",
+      "context": "Подсказка характеристики поиска редкостей",
+      "src_hash": "1f320b343f0f332a",
+      "status": "reviewed",
+      "evidence": "onscreen-text-exact",
+      "verification": "First contextual review, 2026-10-22; representative screens checked in-game."
+    },
+    {
+      "id": 242665,
+      "en": "Magic Find",
+      "ru": "Поиск редкостей",
+      "context": "Характеристики: девятая строка справа, значок клевера",
+      "src_hash": "7d1a4a92724e657a",
+      "status": "reviewed",
+      "evidence": "onscreen-id",
+      "verification": "First contextual review, 2026-10-22; representative screens checked in-game."
+    },
+    {
+      "id": 296134,
+      "en": "Increases critical damage.",
+      "ru": "Повышает критический урон.",
+      "context": "Подсказка характеристики «Свирепость»",
+      "src_hash": "82cce1f6bd13fedc",
+      "status": "reviewed",
+      "evidence": "onscreen-text-exact",
+      "verification": "First contextual review, 2026-10-22; representative screens checked in-game."
+    },
+    {
+      "id": 296149,
+      "en": "Ferocity",
+      "ru": "Свирепость",
+      "context": "Характеристики: пятая строка слева, скрещённые мечи",
+      "src_hash": "41740ce64d2ce5fa",
+      "status": "reviewed",
+      "evidence": "onscreen-id",
+      "verification": "First contextual review, 2026-10-22; representative screens checked in-game."
+    },
+    {
+      "id": 296150,
+      "en": "Critical Damage",
+      "ru": "Критический урон",
+      "context": "Характеристики: пятая строка справа, процент",
+      "src_hash": "8423f0d0aea59b2d",
+      "status": "reviewed",
+      "evidence": "onscreen-id",
+      "verification": "First contextual review, 2026-10-22; representative screens checked in-game."
+    },
+    {
+      "id": 296151,
+      "en": "Percentage of additional damage inflicted by dealing a critical hit.",
+      "ru": "Дополнительный урон от критического удара, в процентах.",
+      "context": "Подсказка критического урона; числовую формулу игры не меняем",
+      "src_hash": "4ee9380f3dc14d7d",
+      "status": "reviewed",
+      "evidence": "onscreen-text-exact",
+      "verification": "First contextual review, 2026-10-22; representative screens checked in-game."
+    },
+    {
+      "id": 558994,
+      "en": "Concentration",
+      "ru": "Концентрация",
+      "context": "Характеристики: восьмая строка слева, песочные часы",
+      "src_hash": "4215fe01047d9746",
+      "status": "reviewed",
+      "evidence": "onscreen-id",
+      "verification": "First contextual review, 2026-10-22; representative screens checked in-game."
+    },
+    {
+      "id": 559199,
+      "en": "Increases Your Boon Duration",
+      "ru": "Продлевает действие даруемых вами благословений.",
+      "context": "Подсказка характеристики «Концентрация»",
+      "src_hash": "95cdb1962af1ab25",
+      "status": "reviewed",
+      "evidence": "onscreen-text-exact",
+      "verification": "First contextual review, 2026-10-22; representative screens checked in-game."
+    },
+    {
+      "id": 559644,
+      "en": "Expertise",
+      "ru": "Экспертность",
+      "context": "Характеристики: седьмая строка слева; термин пока сохранён из текущего словаря",
+      "src_hash": "f339d511f25c62e9",
+      "status": "reviewed",
+      "evidence": "onscreen-id",
+      "verification": "First contextual review, 2026-10-22; representative screens checked in-game."
+    },
+    {
+      "id": 561181,
+      "en": "Increases Your Condition Duration",
+      "ru": "Продлевает действие накладываемых вами состояний.",
+      "context": "Подсказка характеристики «Экспертность»",
+      "src_hash": "e77988921fd737af",
+      "status": "reviewed",
+      "evidence": "onscreen-id",
+      "verification": "First contextual review, 2026-10-22; representative screens checked in-game."
+    }
+  ]
+}

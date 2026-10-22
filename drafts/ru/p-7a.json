@@ -1,0 +1,6451 @@
+{
+  "format": 1,
+  "language": "ru",
+  "kind": "source-drafts",
+  "strings": [
+    {
+      "key": "7a007990faba5540",
+      "en": "Matches will begin once the minimum-player count is met.",
+      "ru": "",
+      "status": "draft",
+      "origin": "corpus",
+      "ids": [
+        252365
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a00a8a0047a3814",
+      "en": "3%% Magic Find While under the Effect of a Boon\n+10%% Experience from Kills",
+      "ru": "",
+      "status": "draft",
+      "origin": "corpus",
+      "ids": [
+        300843
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a02252be3897cda",
+      "en": "Time Trial: Labyrinth Lunatic",
+      "ru": "Судебное разбирательство во времени: Лабиринт Лунатик",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        945377,
+        952354
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a024c75611b00eb",
+      "en": "Hidden Supplies",
+      "ru": "Скрытые предметы снабжения",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        853576
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a02c6d38054ee0a",
+      "en": "Fall Red",
+      "ru": "Красный",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        163336
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a02ceb536d69f38",
+      "en": "Expel spores from your cap, launching you to a target point.",
+      "ru": "",
+      "status": "draft",
+      "origin": "corpus",
+      "ids": [
+        625098,
+        627833
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a02f19f8a18bb60",
+      "en": "A recipe to make an ascended hammer with Giver's (+Toughness, +Healing, and +Concentration) stats.",
+      "ru": "",
+      "status": "draft",
+      "origin": "corpus",
+      "ids": [
+        860411
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a038f942a9deb47",
+      "en": "Now that you've reached level 15, enjoy this free World vs. World XP Booster with our compliments as you take part in warfare on an epic scale!\nTo access WvW, press [lbracket]B[rbracket] and select which world you wish to enter, or hop through the asura gates in Lion's Arch that lead to the WvW borderlands. We'll see you on the battlefield!",
+      "ru": "",
+      "status": "draft",
+      "origin": "corpus",
+      "ids": [
+        276992
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a03ed9c4ee35d1a",
+      "en": "Hylek Orange Hue Potion[s]",
+      "ru": "Хилек Оранжевое хвойное зелье",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        209108
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a0431089c19e345",
+      "en": "Jormag's Insight Skin[s]",
+      "ru": "Инквизиционные шкуры Джормага",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        1049346
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a048c9b237f62c2",
+      "en": "Cleric's Mithril Rifle",
+      "ru": "Винтовка Митрила",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        640738
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a05485e81344ba5",
+      "en": "Applied conditions last 3%% longer.",
+      "ru": "Applied conditions last 3%% longer.",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        886130
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a05e944394f8a06",
+      "en": "Glittering Axe Skin[s]",
+      "ru": "Сияющие шкуры топора",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        621804
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a0706264556f1be",
+      "en": "Cold-Forged Weapons",
+      "ru": "Холодное боевое оружие",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        767043
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a071f9e948dec8c",
+      "en": "Toxic Cape now available!",
+      "ru": "Токсичный Кейп теперь доступен!",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        959983
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a074bf63aea2021",
+      "en": "Exalted Portal to East Plaza",
+      "ru": "Возвышенный портал до Ист Плаза",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        629903
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a07fd946ba5ee92",
+      "en": "<c=@abilitytype>Chain.</c> Bleed your foe.",
+      "ru": "<c=@abilitytype>Цепь. </c> пролила кровь на твоего врага.",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        49413,
+        224489
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a08c1ee90322eab",
+      "en": "Blighting Tree",
+      "ru": "Древесина",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        613287
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a0910e54fdb6863",
+      "en": "If dealing with plants isn't your style, Gentle Heron always has his hands full feeding the villagers. I think he'd appreciate assistance in making meals for the hungry.",
+      "ru": "",
+      "status": "draft",
+      "origin": "corpus",
+      "ids": [
+        1100715
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a092c3cab8e355f",
+      "en": "Barrier Increase per Interval",
+      "ru": "Увеличение барьера на Интервал",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        1077586
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a095976723a8747",
+      "en": "Occam's Carrion Inscription[s]",
+      "ru": "Записи оккама",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        272567
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a0a0cd23bb022d0",
+      "en": "%str1%%str2%Aetherized Scepter%str3%%str4%",
+      "ru": "%str1%%str2%Эфиризированный скипетр%str3%%str4%",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        294420
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a0af30665095628",
+      "en": "%str1%%str2%Priory's Historical Staff%str3%%str4%",
+      "ru": "%str1%%str2%Исторический персонал монастыря%str3%%str4%",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        295688
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a0b3dff9d1848ed",
+      "en": "Volcanic Throne[s]",
+      "ru": "Вулканические престолы",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        996910,
+        997737
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a0b5640014659c8",
+      "en": "Hero's Origin: Plains of Ashford",
+      "ru": "Происхождение героя: Площади Эшфорда",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        1097815
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a0b9e7c87e159ac",
+      "en": "%str1%%str2%Slumbering Obsidian Rifle%str3%%str4%",
+      "ru": "%str1%%str2%Обезжиренные винтовки%str3%%str4%",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        910106
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a0be97ffe59c0f4",
+      "en": "Recipe[s]: Morbach's Masque",
+      "ru": "Рецепт[pl:\"Рецепты\"]: Маск Морбаха",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        274941
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a0c04e803c68b41",
+      "en": "Major Rune[s] of the Guardian",
+      "ru": "Основные руны Страж",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        100704
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a0c75910d19bbb8",
+      "en": "Click this button to open your wallet and view more info about your currencies.",
+      "ru": "",
+      "status": "draft",
+      "origin": "corpus",
+      "ids": [
+        583717
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a0d25aad8963741",
+      "en": "Black Lion Arsenal—Sword",
+      "ru": "Черный львиный арсенал—Меч",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        833538
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a0db6b26c36001f",
+      "en": "Unusual Altar",
+      "ru": "Необычный алтарь",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        1160101
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a0de5e111d911ab",
+      "en": "Zodiac Heavy Warplate[s]",
+      "ru": "Зодиаковые тяжелые военные плиты",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        289820
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a0f53862786f3a6",
+      "en": "earn influence and guild privileges.",
+      "ru": "Заслужить влияние и гильдийные привилегии.",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        216389
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a0f6e9af9debcc1",
+      "en": "Crystal Corral: Silver",
+      "ru": "Кристальная Корраль: Серебро",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        860424,
+        867225
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a0f87443142dff2",
+      "en": "Lake Doric Insight: Watcher's Hollow",
+      "ru": "Озеро &lt; &lt; Понимание &gt; &gt;: Смотреть \"Холве\"",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        780854
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a0fcd15b1e8d11d",
+      "en": "Orange Lucky Rabbit's Foot",
+      "ru": "Апельсиновая Счастливая Кролика",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        25466
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a105a18267b39e9",
+      "en": "Niamh of the Grove",
+      "ru": "Ниф Грова",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        305518,
+        403824
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a109baa6a5cbab9",
+      "en": "((1056204))",
+      "ru": "",
+      "status": "draft",
+      "origin": "corpus",
+      "ids": [
+        1056204
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a10b6f498b2fc6b",
+      "en": "Lemon Tint Dye[s]",
+      "ru": "Лемон Тин Дьес",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        25166
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a1170d8b35571ee",
+      "en": "Increases Melee Damage",
+      "ru": "Увеличивает повреждения Мели",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        46527
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a11caccb723f0e0",
+      "en": "%str1%%str2%Prototype Gloves%str3%%str4%",
+      "ru": "%str1%%str2%Прототип перчаток%str3%%str4%",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        293404
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a133785280f70ee",
+      "en": "You helped Jenrys.",
+      "ru": "Ты помог Дженрису.",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        27490
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a1362549b897385",
+      "en": "Holographic Howl",
+      "ru": "Голографический вой",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        934144
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a13b424db959eee",
+      "en": "Ms. Jeeves needs someone with excellent hearing and night vision, as well as a loud howl.",
+      "ru": "",
+      "status": "draft",
+      "origin": "corpus",
+      "ids": [
+        1120759
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a144a11af24faaa",
+      "en": "Course Favorite: Grothmar Valley",
+      "ru": "Любимый курс: Гротмарская долина",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        1021494
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a155cb7d77d2cbb",
+      "en": "Visit Divinity's Reach and enjoy Wintersday activities.",
+      "ru": "",
+      "status": "draft",
+      "origin": "corpus",
+      "ids": [
+        317390
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a15aa5271d8215f",
+      "en": "Altrumm Mines",
+      "ru": "Горнорудные шахты",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        1028013
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a163f54e9064e14",
+      "en": "Downed",
+      "ru": "Утонувшие",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        22857,
+        239350,
+        388258
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a1743ec7af60b22",
+      "en": "Garden Blackberry Seed",
+      "ru": "Семена черноберри в саду",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        867553
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a1793a61447bb1a",
+      "en": "((299390))",
+      "ru": "",
+      "status": "draft",
+      "origin": "corpus",
+      "ids": [
+        299390
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a17f53a44f9b08b",
+      "en": "Recipe[s]: Canthan Trader Cart",
+      "ru": "Рецепт[pl:\"Рецепты\"]: Canthan Tradeer Cart",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        1200463
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a1802bd7c883d8e",
+      "en": "Resilient Li'l Letter Opener",
+      "ru": "Устойчивый Li'l Letter Opener",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        298381
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a18b0ecf509f2ba",
+      "en": "Throw Water",
+      "ru": "Бросить воду",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        36142,
+        36273,
+        241840,
+        372413,
+        392019,
+        418087,
+        520644,
+        703037,
+        704580,
+        754749,
+        761775,
+        810865,
+        862669,
+        981722,
+        1030767,
+        1062424,
+        1069676,
+        1101493,
+        1139004,
+        1161187,
+        1166188
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a18b296d1267a1d",
+      "en": "Discover why denizens of the Underworld have infiltrated Tyria.",
+      "ru": "",
+      "status": "draft",
+      "origin": "corpus",
+      "ids": [
+        859247
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a1a0b669357d3d5",
+      "en": "This will refund all spent World Ability Points so you can reassign them. All purchased abilities will be refunded and inactive after the points are reset.",
+      "ru": "",
+      "status": "draft",
+      "origin": "corpus",
+      "ids": [
+        248023
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a1a919e7a1b1a57",
+      "en": "Asthenes",
+      "ru": "Асфины",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        1064165
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a1afc249059b379",
+      "en": "Recipe[s]: Wupwup Cloth Breather",
+      "ru": "Рецепт[pl:\"Рецепты\"]: Вупьюп Клот Бридер",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        577327
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a1b01db48c1dcc1",
+      "en": "%str1%%str2%Destroyer Shield%str3%%str4%",
+      "ru": "%str1%%str2%Уничтожение щита%str3%%str4%",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        294578
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a1b05bfaef72e6d",
+      "en": "Glyphic Longbow Skin[s]",
+      "ru": "Глифические длинные кожаные шкуры",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        255732
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a1b0a5b725a43dc",
+      "en": "Complete 10 Events",
+      "ru": "Завершение 10 мероприятий",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        1070406
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a1b2f7a0302cc82",
+      "en": "Two-step Shield",
+      "ru": "Двухэтапный щит",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        326708,
+        480930
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a1b47235844b7f4",
+      "en": "%str1%%str2%Triumphant Masque%str3%%str4%",
+      "ru": "%str1%%str2%Триумфальный макский%str3%%str4%",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        694535
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a1c20e743a3a2c8",
+      "en": "Clam Cake[s]",
+      "ru": "Кексы с клюшкой",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        50731
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a1c7df594450a12",
+      "en": "Recipe Unlock: Double-click to unlock the recipe for a Karka Toughness Station.",
+      "ru": "",
+      "status": "draft",
+      "origin": "corpus",
+      "ids": [
+        1132620
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a1cc9747352f17e",
+      "en": "Total Number of Spawns: %num1%",
+      "ru": "Общее число лап: %num1%",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        49792
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a1cf0a1757f14e8",
+      "en": "Warden Jabari's Deadhouse is well defended by necromantic weaponry and Awakened guards.",
+      "ru": "",
+      "status": "draft",
+      "origin": "corpus",
+      "ids": [
+        845979
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a1cfc55df70a492",
+      "en": "Freed Inquest test subjects before experiments could commence.",
+      "ru": "",
+      "status": "draft",
+      "origin": "corpus",
+      "ids": [
+        1167323
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a1d0e7f501314b3",
+      "en": "Enchanted Colorful Snowball[s] (Blue)",
+      "ru": "Зачарованные цветные снежинки (голубые)",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        871148
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a1d7e41557717c8",
+      "en": "Monarch's Leap",
+      "ru": "Лип монарха",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        415629
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a1de665c47c0316",
+      "en": "%str1%%str2%Scientific Focus%str3%%str4%",
+      "ru": "%str1%%str2%Научный фокус%str3%%str4%",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        567678
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a1e7b98682b89c2",
+      "en": "Discussion",
+      "ru": "Обсуждение",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [],
+      "context": ""
+    },
+    {
+      "key": "7a1ee72a171d2872",
+      "en": "Mabon's Resolve",
+      "ru": "Решение мабонов",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        1075472
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a1fa4c23f1acc00",
+      "en": "Lumber Mill",
+      "ru": "Металлозаборник",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        327898,
+        1125033,
+        1154828
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a20b582059355c5",
+      "en": "—Tournament Master",
+      "ru": "—Мастер турнира",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [],
+      "context": ""
+    },
+    {
+      "key": "7a20bfc5c44de6ee",
+      "en": "Onyx and Gold Lion Weapon Choice[s]",
+      "ru": "Оникс и выбор оружия Золотого Льва",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        901210
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a210381a40be83a",
+      "en": "Ogre Relic",
+      "ru": "Огровая реликвия",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        195845
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a22178899b8ca4f",
+      "en": "Modniir Harpoon Gun Skin[s]",
+      "ru": "Кожа пушки Моднира",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        985817
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a2315ec8e482568",
+      "en": "Yellow Mushrooms Eaten",
+      "ru": "Желтые грибы",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        588040
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a23c260135848e5",
+      "en": "Double-click to open. Right-click to preview.",
+      "ru": "Двойной щелчок для открытия. Правый щелчок для просмотра.",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [],
+      "context": ""
+    },
+    {
+      "key": "7a23c886f2c83b7b",
+      "en": "Constructing a Portal Back Door",
+      "ru": "Строительство задней двери портала",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        269619
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a2403e6b86a78bf",
+      "en": "Boxing Gloves",
+      "ru": "Боксовые перчатки",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        31636,
+        1173118
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a24189a80d45970",
+      "en": "Daily Tier 3 Aquatic Ruins",
+      "ru": "Ежедневно 3-й уровень акватических повреждений",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        693520
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a24d695b9c13371",
+      "en": "Copy Fashion Template",
+      "ru": "Скопировать модель моды",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        1168307
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a24f48921278935",
+      "en": "Healer's White Mantle Pistol",
+      "ru": "Белый мантел \"Исцелитель\"",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [],
+      "context": ""
+    },
+    {
+      "key": "7a268e702a5df4fe",
+      "en": "Elonian Weapon Box",
+      "ru": "Элонская оружейная ячейка",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        777368
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a27275d8463de15",
+      "en": "A faint avian scent emanates from the bottle. Use its self-replenishing contents to transform into...something.",
+      "ru": "",
+      "status": "draft",
+      "origin": "corpus",
+      "ids": [
+        843876
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a27665a922ca325",
+      "en": "Form follows function with this blindfold, designed both to cover a revenant's eyes and help punch through the barriers that conceal the unseen.",
+      "ru": "",
+      "status": "draft",
+      "origin": "corpus",
+      "ids": [],
+      "context": ""
+    },
+    {
+      "key": "7a281aa216a711dc",
+      "en": "Inquest Technician",
+      "ru": "Техник по проведению расследований",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        69623
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a288e7eaa3b5c1b",
+      "en": "Visage[s] of Balthazar",
+      "ru": "Визы Бальтазара",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        627403
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a28d57ace701795",
+      "en": "Intriguing",
+      "ru": "Заманчиво",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        758974
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a29448328248fe3",
+      "en": "Magitech Jerkin Skin[s]",
+      "ru": "Магитекские шкуры Йеркин",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        263522
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a29a09428308f3b",
+      "en": "Complete the Aquatic Ruins Fractal",
+      "ru": "Завершить фрактальный разрушитель вод",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        1083382
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a2a1ddeb439d258",
+      "en": "Gain protection when activating a <c=@abilitytype>Stance</c>. Activate Lesser Stone Resonance when using an elite skill.",
+      "ru": "",
+      "status": "draft",
+      "origin": "corpus",
+      "ids": [
+        737783
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a2a6268c7ccf515",
+      "en": "The tectonic thumper is losing synchonization and the mission will fail if it fully depletes. Reclaim base camp before it's too late.",
+      "ru": "",
+      "status": "draft",
+      "origin": "corpus",
+      "ids": [
+        1128057
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a2b3f294e057739",
+      "en": "Bava Nisos Hoard[s]",
+      "ru": "Bava Nisos Hards",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        1147647
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a2c315ae5e5a37e",
+      "en": "<c=@flavor>Double-click to choose an account-bound reward.</c>",
+      "ru": "",
+      "status": "draft",
+      "origin": "corpus",
+      "ids": [
+        1049447,
+        1057095,
+        1073531,
+        1075363,
+        1123323,
+        1125971,
+        1132298,
+        1134887,
+        1142890,
+        1145823,
+        1161541,
+        1164479,
+        1164973,
+        1171098,
+        1174102,
+        1174312,
+        1176980,
+        1177480,
+        1181241,
+        1186644,
+        1187863,
+        1188151,
+        1193015,
+        1195993,
+        1199852,
+        1202014
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a2c6f3154260b68",
+      "en": "Groove #5",
+      "ru": "Грув #5",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        185085
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a2cea4f05ecafc4",
+      "en": "Tasting Platter of Orange Clove Cheesecake",
+      "ru": "Попробуй блюдо оранжевого колокола",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        944658
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a2cf672fbfc470a",
+      "en": "Laranthir's Revolver",
+      "ru": "Революция Ларантира",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        609431,
+        1180073
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a2d14c5b7bdf8c9",
+      "en": "Disrupt Attunement",
+      "ru": "Неподходящее расположение",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        1069472
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a2d158cf2f5e1b4",
+      "en": "Shroud skill 1 inflicts burning on your target.",
+      "ru": "Умение сломать 1 вызывает сожжение вашей цели.",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        583075
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a2dceb4c06ba4fb",
+      "en": "Ice Mirror",
+      "ru": "Зеркало льда",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        238707
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a2f05234baadc3c",
+      "en": "You assisted Laborer Cardy.",
+      "ru": "Ты помогала работнику Карди.",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        148085
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a30573ae6109bcf",
+      "en": "Tentacle",
+      "ru": "Стекло",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        175058
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a30e7d439949335",
+      "en": "A humming emanates from this orb. It could be amplified with an additional source of Chaotic Radiation.\nDouble-click to show.",
+      "ru": "",
+      "status": "draft",
+      "origin": "corpus",
+      "ids": [
+        255355
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a30fb10fd2bd84c",
+      "en": "Very Enthusiastic about Wrestling",
+      "ru": "Очень энтузиаст по поводу борьбы",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        1124795
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a31e6abbd65a04f",
+      "en": "Star Caller Warhorn Skin[s]",
+      "ru": "Звездный Звездный Звездный Корн Кожа",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        1057073
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a32ca81de9f065a",
+      "en": "Scholar of Secrets",
+      "ru": "Ученые секретов",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        632160
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a335d8a52538c28",
+      "en": "Powerful Potion[s] of Centaur Slaying",
+      "ru": "Мощные зелье кентавра",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        222420
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a34438c16c62340",
+      "en": "Small Bag[s] of Bandit Crests",
+      "ru": "Маленькие мешки с бандитскими крестами",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        558898
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a3456239cceea86",
+      "en": "Kharkaris",
+      "ru": "Харкари",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        815308
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a34960ee7191b49",
+      "en": "Snow Garden Short Bow Skin[s]",
+      "ru": "Снежный сад Короткие кожаные шкуры",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        1048672
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a349665f320d35a",
+      "en": "Unable to use tactic. Recharging.",
+      "ru": "Невозможно использовать тактику. Подзарядка.",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        623473
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a34fcadd31b6480",
+      "en": "Barracks",
+      "ru": "Барака",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        35505,
+        901715
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a3507eef0082f07",
+      "en": "Rox: Avenger of the Dispossessed",
+      "ru": "Рокс: Мститель развязанных",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        132060
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a35574d9a2166a1",
+      "en": "Unlock the Exotic tier of this item to purchase this.",
+      "ru": "Откройте эстетический ярус этого предмета, чтобы купить это.",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        840554,
+        841753,
+        841790,
+        842584,
+        844107,
+        844456,
+        845873,
+        845921,
+        846161,
+        846366,
+        847716,
+        847996,
+        848900,
+        849644,
+        849893,
+        850122,
+        853381,
+        853430,
+        854172,
+        854594,
+        854602,
+        855064,
+        855571,
+        856420,
+        856481,
+        856915
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a35b62820325957",
+      "en": "The Great Dragon",
+      "ru": "Великий Дракон",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        1104895
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a35c588ce267ba7",
+      "en": "Defense",
+      "ru": "Защита",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        46386,
+        49608,
+        169792,
+        179993,
+        296543,
+        318213,
+        423073,
+        426927,
+        438636,
+        612790,
+        699863,
+        749265,
+        749479,
+        1168827
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a36cc5a1d370b28",
+      "en": "As a guardian, complete the Ministry of Security story instance or strike.",
+      "ru": "",
+      "status": "draft",
+      "origin": "corpus",
+      "ids": [
+        1036279
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a36f184433d309e",
+      "en": "You're leaving the puzzle area!",
+      "ru": "Ты покидаешь паззл!",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        1169808,
+        1183222
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a378afc56160900",
+      "en": "Officer's Remnant Sword",
+      "ru": "Меч офицера",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        1085635
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a37c9766816af37",
+      "en": "PvP rank points can be earned by participating in PvP matches.",
+      "ru": "",
+      "status": "draft",
+      "origin": "corpus",
+      "ids": [
+        1070036
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a384012a4eb54c4",
+      "en": "This item cannot be used while dead.",
+      "ru": "Этот предмет не может быть использован во время смерти.",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        908921
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a386a6a7a668f1b",
+      "en": "Spirit Banner",
+      "ru": "Бэннер духов",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        935460
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a388c4ae640992a",
+      "en": "+7%% Damage vs. Flame Legion",
+      "ru": "+7%% Damage vs. Flame Legion",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [],
+      "context": ""
+    },
+    {
+      "key": "7a3929db5d08090a",
+      "en": "%str1%%str2%Decade's Saga%str3%%str4%",
+      "ru": "%str1%%str2%«Сага десятилетия»%str3%%str4%",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        1047171
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a392f7497a359b1",
+      "en": "Burn a Heart of an Ember",
+      "ru": "Сжечь сердце эмбера",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        609132
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a398e96f8ced798",
+      "en": "Austria",
+      "ru": "Австрия",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        49123
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a3c796055e9d510",
+      "en": "You must unlock the Boneskinner's Rib in the wardrobe to purchase this.",
+      "ru": "",
+      "status": "draft",
+      "origin": "corpus",
+      "ids": [
+        962399,
+        976224,
+        1186421
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a3cc92b2ca55341",
+      "en": "Ley Line Short Bow Skin[s]",
+      "ru": "Короткие шкуры из линейной линии",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        215356
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a3ce2b17b4df398",
+      "en": "HOPE Vol. 3",
+      "ru": "НАДЕЖНЫЙ Vol. 3",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        634022
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a3dcb31dc3abb36",
+      "en": "Snow Garden Dagger",
+      "ru": "Снежный кинжал",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        1049376
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a3e3d019b10903b",
+      "en": "C.L.E.A.N. Researcher Borpp",
+      "ru": "С.Л.Е.Н. Исследователь Борп",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        169715
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a3e9a1427209081",
+      "en": "Contains Pieces of Rare Unidentified Gear and a chest to pick your choice of items.\n\n<c=@flavor>No tectonic thumper needed to draw these titans out, just a large tasty bloodstone.</c>",
+      "ru": "",
+      "status": "draft",
+      "origin": "corpus",
+      "ids": [
+        1145189
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a3f5b1b787da53d",
+      "en": "Allies within target area receive stability, protection, and aegis.",
+      "ru": "",
+      "status": "draft",
+      "origin": "corpus",
+      "ids": [
+        1086977
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a3fdcfda446af06",
+      "en": "Bag[s] of Shimmering Blotting Powder",
+      "ru": "Мешки с щебенькой порошком",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        589052
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a406b03745ca496",
+      "en": "%str1%%str2%Kodan Mace%str3%%str4%",
+      "ru": "%str1%%str2%Кодан Мейс%str3%%str4%",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        295120
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a40dfe57005700e",
+      "en": "Use low-quality morphological antialiasing. Removes jagged edges without losing detail in textures.",
+      "ru": "",
+      "status": "draft",
+      "origin": "corpus",
+      "ids": [
+        129945
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a40f48f194ae03e",
+      "en": "New Kaineng Staff",
+      "ru": "Новый штаб в Кайненге",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        1043288
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a40fd27b3a2e63b",
+      "en": "Aurora Blessed Canthan Raptor",
+      "ru": "Аврора Блаженный Кантан Раптор",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        1046358
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a41e73297955227",
+      "en": "Bonus Event: World Boss Rush",
+      "ru": "Благодарное событие: Мировой босс Раш",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        934178
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a41fa8e280c58e6",
+      "en": "Tahkayun's Blade",
+      "ru": "Клинок Тахкайуна",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        1006378
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a4215ee4f3b014c",
+      "en": "Jormag's Flight Skin[s]",
+      "ru": "Полетные кожики Jormag",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        1048752
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a424fdfe166ef97",
+      "en": "Hint: Adores cats.",
+      "ru": "Подвеска: Обожаю кошек.",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        1037382
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a42ae11865e2cea",
+      "en": "Meal Feast: Double-click to set out a Feast of Sesame-Roasted Dinners to share with anyone in the area. Feast stays active for 5 minutes.",
+      "ru": "",
+      "status": "draft",
+      "origin": "corpus",
+      "ids": [
+        336423
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a42b7519915c4b1",
+      "en": "Yuhwa's Diary, Page 3",
+      "ru": "Дневник Юхвы, страница 3",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        1026768
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a43056b760d5b1d",
+      "en": "24-Slot Nomad's Pannier",
+      "ru": "24-Slot Nomad's Pannier",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        797178
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a4313446f8051d3",
+      "en": "Milton's Golden Apple Corer",
+      "ru": "Золотой яблоко Милтона",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        73835
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a431f707205281a",
+      "en": "Found in bodies of saltwater all across the world.<br>Fishing Hole: Any, Open Water<br>Favored Bait: Any<br>Time of Day: Any",
+      "ru": "",
+      "status": "draft",
+      "origin": "corpus",
+      "ids": [
+        1035546,
+        1035548,
+        1035571,
+        1035590,
+        1035690,
+        1035871,
+        1035902,
+        1035933,
+        1035942,
+        1035966,
+        1036048,
+        1036058,
+        1036326,
+        1036417
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a43f4b2201aaa83",
+      "en": "Cast out a towline and drag your foe toward you.",
+      "ru": "Вытащи своего врага к себе.",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        876276
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a4462e5f2e6942f",
+      "en": "Verata-Stiefelhose",
+      "ru": "Вера-Стифелоуз",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [],
+      "context": ""
+    },
+    {
+      "key": "7a446ff147ae1633",
+      "en": "You regenerate health.",
+      "ru": "Ты восстанавливаешь здоровье.",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        30443
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a4493319d6a4f3c",
+      "en": "<c=@abilitytype>Morph.</c> Spin around a hunk of metal, then finish with a forward smash.",
+      "ru": "",
+      "status": "draft",
+      "origin": "corpus",
+      "ids": [
+        1150923
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a4509e715af2210",
+      "en": "Recipe[s]: Coalforge's Rampager Inscription",
+      "ru": "Рецепт[pl:\"Рецепты\"]: Рампаджер \"Коулфорж\"",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        271638
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a457e5a99da5ef8",
+      "en": "Adept Daredevil",
+      "ru": "Приветливый Спаситель",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        628275
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a4581c6f881ff63",
+      "en": "Path of the Gods",
+      "ru": "Путь богов",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        793672
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a465acfe437408e",
+      "en": "Glory!",
+      "ru": "Слава!",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        1108957,
+        1149342
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a46d9d562c71150",
+      "en": "Defiant Glass Hammer Skin[s]",
+      "ru": "Стеклянные молниеносные шкуры",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        922750
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a46df8fd2b8980b",
+      "en": "Retro-Forged Dagger",
+      "ru": "Ретрофированный кинжал",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        1073730
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a46e0c74e442260",
+      "en": "Master Forager: Vegetables",
+      "ru": "Мастер Фораджер: Овощи",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        1124707
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a46ec7107653735",
+      "en": "Elder's Respite",
+      "ru": "Перепад старика",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        613392
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a47214c56e37e5a",
+      "en": "Unable to swap pets while cooldown is active.",
+      "ru": "Невозможно поменяться животными, пока охлаждение работает.",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        942022
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a48214e14f835cb",
+      "en": "Togo's Epaulets",
+      "ru": "Тогойские эпоулеты",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        1009963
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a487a500a0c87ed",
+      "en": "Phalanx Heavy-Armor Skin[s]",
+      "ru": "Шкуры с тяжелым армором",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        84859
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a4895ce962eb689",
+      "en": "Return to Leivas to purchase an uncharged fragment.",
+      "ru": "Возвращайся в Лейвас, чтобы купить незаряженный фрагмент.",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        1045348,
+        1049053,
+        1049234,
+        1051549,
+        1052405,
+        1052420
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a48fe0c4d2bcdb9",
+      "en": "Laranthir of the Wild (Return to Heart of Thorns)",
+      "ru": "Ларантир из Диких (Возвращение в Сердце Торнов)",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        1124287
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a491a0e8ee10bfe",
+      "en": "What she lost would be gained in other ways.",
+      "ru": "То, что она потеряла, было бы приобретено другими способами.",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [],
+      "context": ""
+    },
+    {
+      "key": "7a496400d8d98082",
+      "en": "Dismiss Cyclone Bow",
+      "ru": "Убрать циклона",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        1162979
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a4a4a9b5366f298",
+      "en": "%str1%%str2%Adamant Guard Torch%str3%%str4%",
+      "ru": "%str1%%str2%Факел гвардии Адама%str3%%str4%",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        294944
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a4a6abda9bc95b9",
+      "en": "Large Spiritwood Haft[s]",
+      "ru": "Большие спиритские гавани",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        271816
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a4a7b7f5f0ae7ca",
+      "en": "Double-click to acquire a random assortment of bait.<br><br><c=@flavor>\"Guaranteed to give you something creepy, something crawly, or both!\"</c>",
+      "ru": "",
+      "status": "draft",
+      "origin": "corpus",
+      "ids": [
+        1041752
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a4b1a566089d000",
+      "en": "Exotic Obsidian Weapons",
+      "ru": "Экзотическое обрезание",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        872807,
+        873547
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a4bb0405aa98bcd",
+      "en": "* Consortium Harvesting Sickle",
+      "ru": "* Консорциум по сбору окуней",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [],
+      "context": ""
+    },
+    {
+      "key": "7a4bbd9a1c3afff3",
+      "en": "Restful Hammock Chair[s]",
+      "ru": "Отдохнувшие стулья Хаммок",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        1078509
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a4beeed9fd3850b",
+      "en": "Special Mission: Pillage the Overlook",
+      "ru": "Специальная миссия: Переоценить",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        969892
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a4d03eb5bb7841d",
+      "en": "Tengu Weapon Etchings",
+      "ru": "Тенгу Оружие этингов",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        963773
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a4d6fecbfe8b719",
+      "en": "Unlock 8 or more Luxon Hunter weapon skins and complete the Special Ops Basic Course 1, 2, and 3 achievements to purchase.",
+      "ru": "",
+      "status": "draft",
+      "origin": "corpus",
+      "ids": [
+        1080276
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a4d85372dc6372a",
+      "en": "Holographic Track Upward Right Curve[s]",
+      "ru": "Голографическая дорожка вверх по правым кривым",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        1047276
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a4ea3e73ddb8ca5",
+      "en": "Osprey Pillars",
+      "ru": "Оспрейские столбы",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        705937
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a4ecdcca3d9c90d",
+      "en": "Threat detected! Claw of Jormag attacks in 10 minutes.",
+      "ru": "Угроза обнаружена! Коготь Джормага атакует через 10 минут.",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        909205
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a4f6dcf3787a98a",
+      "en": "Wurmslayer's Pauldrons",
+      "ru": "Полдроны убийцы",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        284819
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a4f8697120a759e",
+      "en": "Sheaf[pl:\"Sheaves\"] of Recipes: Dragon's Horn",
+      "ru": "Шейфы реципиентов: Рога дракона",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        1016913
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a502652ed25b9ae",
+      "en": "Tongue Swipe",
+      "ru": "Языковая сверка",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        628430
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a50c0ffd7f3dab2",
+      "en": "Help Follower Xunn collect Forgotten Glyphs for decoding.",
+      "ru": "",
+      "status": "draft",
+      "origin": "corpus",
+      "ids": [
+        784785
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a50e6ebb34349f7",
+      "en": "of Hologram Slaying",
+      "ru": "Голограммы",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        935776,
+        935874,
+        936839,
+        941285
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a516d2b50ddf247",
+      "en": "Branded Relic Backpiece",
+      "ru": "Заклейменный реликвический бэктер",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        931013
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a51f11045f7b71d",
+      "en": "Arguably Foodlike",
+      "ru": "Спорим, что она похожа на еду",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        844253
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a525d1883cedd4f",
+      "en": "Holding: Ripe Fruit",
+      "ru": "Хранение: Порви фрукт",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        811468
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a52ccdacd018069",
+      "en": "A recipe to make an exotic sword with Dragon's (+Power, +Ferocity, +Precision, and +Vitality) stats.",
+      "ru": "",
+      "status": "draft",
+      "origin": "corpus",
+      "ids": [
+        1009358
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a53a48bb270c259",
+      "en": "Canthan talisman that exclusively contains End of Dragons attribute combos.<br><c=@flavor>Usage of enchanted jade has grown popular in the Mists.</c>",
+      "ru": "",
+      "status": "draft",
+      "origin": "corpus",
+      "ids": [
+        1048643
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a54caba15e040ea",
+      "en": "Icebone Staff",
+      "ru": "Персонал льда",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        1187154
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a54d6c97f32a0fe",
+      "en": "Stab your foe, inflicting bleeding. Inflict vulnerability if your target is focused.",
+      "ru": "",
+      "status": "draft",
+      "origin": "corpus",
+      "ids": [
+        1101326
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a54e900ae569e44",
+      "en": "Nadijeh's Leggings",
+      "ru": "Леггинги Надиджи",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        854407
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a5556b612ab31b2",
+      "en": "<c=@flavor>\"A single blast can rally the troops.\"</c>",
+      "ru": "<c=@flavor>\"Единственный взрыв может сплотить войска\"</c>",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        217732
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a55c8c615a30624",
+      "en": "Soup Feast: Double-click to set out a Pot of Kale Soup to share with anyone in the area. Pot stays active for 5 minutes.",
+      "ru": "",
+      "status": "draft",
+      "origin": "corpus",
+      "ids": [
+        337068
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a55f24428c3b438",
+      "en": "%str1%%str2%Experimental Envoy Pants%str3%%str4%",
+      "ru": "%str1%%str2%Экспериментальный посланник%str3%%str4%",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        693240
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a574a87fde632f0",
+      "en": "Zhaitan's Argument Skin[s]",
+      "ru": "Шкуры Жайтана",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        1045428
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a57a3d2772fc713",
+      "en": "Lake Doric Insight: Lakeside Bazaar",
+      "ru": "Озеро &lt; &lt; Понимание &gt; &gt;: Базар Озерный",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        777768
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a57a844b4fd3262",
+      "en": "Commander,\n\nI've done some off-the-clock investigating of the entity we encountered in the Gyala mines. Let's just say there's a frustratingly sparse collection of studies on the subject, most of which haven't been academically vetted. Figures.\n\nThat said, if you're interested, I recommend less conventional methods for finding answers. The fractals have no shortage of anomalous activity, and while the historical accuracy of these \"slices of time\" are inconsistent at best, we might make some surprising discoveries! In the meantime, I'll continue digging through these outmoded \"publications.\"\n\nBest of luck,\nGorrik\n\nPS: You know I prefer comms, but Rama wisely suggested that I reacquaint myself with all forms of communication. It's important that Brim and Scarab be able to service the broadest possible client base, even the technologically challenged.",
+      "ru": "",
+      "status": "draft",
+      "origin": "corpus",
+      "ids": [
+        1084374
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a57b1034ba90775",
+      "en": "%str1%%str2%Protector's Footgear%str3%%str4%",
+      "ru": "%str1%%str2%Футгейр Защитника%str3%%str4%",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        293522
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a58008803246430",
+      "en": "Demigod of the Arena",
+      "ru": "Деми Бог Арены",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        934651
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a581849fb74f7fd",
+      "en": "High C",
+      "ru": "Высокий C",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        398545
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a583f0b05b1408a",
+      "en": "Spinel Lump[s]",
+      "ru": "Спинел",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        72634
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a5912dc5fb0e9d7",
+      "en": "Help the quaggan farmers harvest food in Bitterfrost Frontier.",
+      "ru": "",
+      "status": "draft",
+      "origin": "corpus",
+      "ids": [
+        829018
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a59139a3d160cbc",
+      "en": "Lornar's Pass: The Thunderhorns",
+      "ru": "Пасха Лорнара: Громовые горны",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        575552
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a5961b5774c08b8",
+      "en": "Agent Carter is grateful for your help.",
+      "ru": "Агент Картер благодарен за вашу помощь.",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        137744
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a5975ea91d5d936",
+      "en": "Wayfinder (Level 65)",
+      "ru": "Путеводитель (уровень 65)",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        297245
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a59c37b30a6640a",
+      "en": "Antigua",
+      "ru": "Антигуа",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        49295
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a5a2c9b9d879ad1",
+      "en": "Porsul Ret",
+      "ru": "Порсуль Рет",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        1191520
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a5a47d062ce7d66",
+      "en": "Tormented Shield",
+      "ru": "Пытливый щит",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        59613
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a5bcd789db007dc",
+      "en": "Intelligence: %num1%",
+      "ru": "Разведка: %num1%",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        48659
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a5c2e8a45dc6749",
+      "en": "Defeat Zipp",
+      "ru": "Отключить Зипп",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        1183694
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a5c45c3ef6ab566",
+      "en": "Blessing[s] of the Jade Empress",
+      "ru": "Благословения императрицы-нефритов",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        1015936
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a5d3f11ce629743",
+      "en": "Remove debris from the river and repair broken fishing traps: %num1%/%num2%",
+      "ru": "",
+      "status": "draft",
+      "origin": "corpus",
+      "ids": [
+        1101611
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a5d600472acdc20",
+      "en": "Flyweight Hatchling[s]",
+      "ru": "Взвешенные шляпы",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        931811
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a5e37eedc09ef84",
+      "en": "Grawl Snowman Potion",
+      "ru": "Зелье снежного человека",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [],
+      "context": ""
+    },
+    {
+      "key": "7a5e3a3b730743a4",
+      "en": "Wins",
+      "ru": "Победа",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        640327
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a5fb0db693115c0",
+      "en": "((247790))",
+      "ru": "",
+      "status": "draft",
+      "origin": "corpus",
+      "ids": [
+        247790
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a5fce052236e6ff",
+      "en": "Somewhere in the Wayfarer Foothills.",
+      "ru": "Где-то в Путеводительских Футиллах.",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        263674,
+        1047860,
+        1048354,
+        1048499
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a5fd9b3af71fda7",
+      "en": "Charged Quartz Orichalcum Ring",
+      "ru": "Квартира-Кольца Орихалкум",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        263338,
+        592069,
+        628379
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a602c1530ac12a2",
+      "en": "Recipe[s]: Wupwup Doublet",
+      "ru": "Рецепт[pl:\"Рецепты\"]: Двойной Вупвуп",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        274828
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a6041044f25e9d5",
+      "en": "<c=#ff6a00>Enemy Target:</c> Shadowstep away from your target and launch a shot that immobilizes enemies.",
+      "ru": "",
+      "status": "draft",
+      "origin": "corpus",
+      "ids": [
+        1035586
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a614c3d0302eb38",
+      "en": "• 100 Icy Runestones",
+      "ru": "• 100 ледяных кранов",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [],
+      "context": ""
+    },
+    {
+      "key": "7a61cdb093ad403f",
+      "en": "Recover the fragment of guilt.",
+      "ru": "Возвращайся к части вины.",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        1150743
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a61eec48af67235",
+      "en": "Mordremoth's influence has waned in this area of the canopy.",
+      "ru": "",
+      "status": "draft",
+      "origin": "corpus",
+      "ids": [
+        632009
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a61f380e6648e5d",
+      "en": "Jungle Shark Finisher Box[pl:\"Boxes\"]",
+      "ru": "Коробки для финиша акул",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        587425
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a62710dba99e1ac",
+      "en": "Branching Out",
+      "ru": "Отключиться",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        1593
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a62d65cf076ea66",
+      "en": "Legacy Rewards",
+      "ru": "Награда за наследие",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        1069667
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a62de61c0c653eb",
+      "en": "Trainer's Terrace",
+      "ru": "Терраса тренера",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        197462
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a6370a6dc4c6e2c",
+      "en": "Box[pl:\"Boxes\"] of Recipes: Rage",
+      "ru": "Ящики реципиентов: Гнев",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        610386
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a63db718bb9481e",
+      "en": "You must be on a roller beetle, out of combat, and not have recently consumed a roller beetle treat to use this treat.",
+      "ru": "",
+      "status": "draft",
+      "origin": "corpus",
+      "ids": [
+        886335
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a641af9ce7ad1b6",
+      "en": "Relics—Core Set 2",
+      "ru": "Реликвии—Ключевой набор 2",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        1145342
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a6423b1c097f1f2",
+      "en": "Remove a condition from affected allies after using a <c=@abilitytype>shout</c> skill.",
+      "ru": "",
+      "status": "draft",
+      "origin": "corpus",
+      "ids": [
+        1079526,
+        1103332
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a6488d8da8d740e",
+      "en": "Your explosions do more damage and inflict burning.",
+      "ru": "Ваши взрывы наносят больше вреда и причиняют горение.",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        1045765
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a64c798e9903dfb",
+      "en": "Throw the snowball.",
+      "ru": "Бросай снежный шар.",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        38851,
+        421920
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a65200b4a9bfec4",
+      "en": "Platinum Invader",
+      "ru": "Платиновый впускник",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        266276
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a652bd70b0aa31d",
+      "en": "Chak Killer—Expert",
+      "ru": "Чак Убийца—Эксперт",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        617200
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a65da770fb24e26",
+      "en": "Tröstet den genesenden Welpen in der Tundra.",
+      "ru": "Трёсте ден генсенден Вельпен в дер Тундра.",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [],
+      "context": ""
+    },
+    {
+      "key": "7a66381c3e30bdf6",
+      "en": "Strangers among Lands",
+      "ru": "Незнакомцы среди земель",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        1116376,
+        1181595
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a664f1399deb24b",
+      "en": "By king's order, augmented.  ",
+      "ru": "По приказу короля, увеличенному.",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [],
+      "context": ""
+    },
+    {
+      "key": "7a66610c4f8e909a",
+      "en": "Baroness Jasmina",
+      "ru": "Баронесса Джасмина",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        567373
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a66ca8e79594329",
+      "en": "My memories of Castora are vexingly tenuous; so much has changed. But you might try searching these areas.",
+      "ru": "",
+      "status": "draft",
+      "origin": "corpus",
+      "ids": [
+        1172693
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a66f80033a45bd8",
+      "en": "Djinn Bottler",
+      "ru": "Джинн Боттер",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        821520
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a6756e33e089819",
+      "en": "Wanted: Troopmarshal Olori Ogun",
+      "ru": "Захотелось: Военнослужащий Олори Огун",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        874054
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a67898fec75ac1d",
+      "en": "Golden",
+      "ru": "Золото",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        168229,
+        829726
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a683bbc59424c2a",
+      "en": "Trade Commissioner Ilaldi",
+      "ru": "Торговый уполномоченный Илалди",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        768526
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a689f395f3fd37a",
+      "en": "Lettuce Seed Pouch[pl:\"Pouches\"]",
+      "ru": "Салат-латук",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        869935
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a69ce03597df258",
+      "en": "Jackal Pup Backpack[s]",
+      "ru": "Пакеты для шакалов",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        842731
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a6a4cb4a898e1c4",
+      "en": "Defeat the Avatar of Gluttony before it absorbs the knowledge of Amnytas.",
+      "ru": "",
+      "status": "draft",
+      "origin": "corpus",
+      "ids": [
+        1075256
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a6ac7d09ff57cce",
+      "en": "Throw Balloon",
+      "ru": "Бросить шарик",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        61532,
+        879641
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a6af0191f37600a",
+      "en": "Recipe[s]: Gold Greer Trophy",
+      "ru": "Рецепт[pl:\"Рецепты\"]: Золотой Грир Трофи",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        1133130
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a6b6af96e6a615e",
+      "en": "Mini Sand Eel",
+      "ru": "Мини-Песчаный угрь",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        817126
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a6b8177167d481d",
+      "en": "All of the torches are lit. Dispatch the Eater of Souls to reclaim the statue.",
+      "ru": "",
+      "status": "draft",
+      "origin": "corpus",
+      "ids": [
+        842779
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a6b836056a18f79",
+      "en": "Recipe[s]: Meat Carver",
+      "ru": "Рецепт[pl:\"Рецепты\"]: Мясной карвер",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        146578
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a6b9aafcb621f4a",
+      "en": "Summon Kryptis Turret",
+      "ru": "Вызов Криптиса Туррета",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        1134978,
+        1164849,
+        1165398
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a6cbfbd6f071728",
+      "en": "Bouquet Smash",
+      "ru": "Букет Смэш",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        238118
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a6de9146378855b",
+      "en": "%str1%: %num1%%%",
+      "ru": "",
+      "status": "draft",
+      "origin": "corpus",
+      "ids": [
+        47397
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a6deae3c6b00aba",
+      "en": "Anvil Rock",
+      "ru": "Злой камень",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        132073
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a6ebe88297e08b0",
+      "en": "Pound on your foe's armor with a series of punches.",
+      "ru": "Поставь на доспехи своих врагов серией ударов.",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [],
+      "context": ""
+    },
+    {
+      "key": "7a6eccc338a5b094",
+      "en": "Make Your Voice Heard—Vote!",
+      "ru": "Слышите ваш голос—Голосуйте!",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        1070221
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a6efacad8600d6e",
+      "en": "Bandit Mine",
+      "ru": "Бандит Мой",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        210180,
+        266872
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a7004e1238d4df5",
+      "en": "%str1%%str2%Bronze Rifle%str3%%str4%",
+      "ru": "%str1%%str2%Бронзовая винтовка%str3%%str4%",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        294736
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a7103276f350a92",
+      "en": "Adept's Bag[s] of Crafting Supplies",
+      "ru": "Приветственные мешки с припасами",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        300046
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a7127dad45a78c3",
+      "en": "Kookoochoo the Infuriated",
+      "ru": "Коокоху разъяренный",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        880413
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a7150693913dd1a",
+      "en": "%str1%%str2%Glyphic Spear%str3%%str4%",
+      "ru": "%str1%%str2%Глифический копье%str3%%str4%",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        295910
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a72a49808b5b137",
+      "en": "Kinfall",
+      "ru": "Конфолт",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        1141642,
+        1144160,
+        1166328,
+        1166952
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a72ea35cab81ce9",
+      "en": "Talk to Cymbel at Cymbel's Rescue in the Fields of Ruin after completing any event involving her hounds.",
+      "ru": "",
+      "status": "draft",
+      "origin": "corpus",
+      "ids": [
+        704322
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a733b208e7f57c2",
+      "en": "301st day, 1093 AE",
+      "ru": "301-й день, 1093 AE",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [],
+      "context": ""
+    },
+    {
+      "key": "7a73403138492136",
+      "en": "Key Lime",
+      "ru": "Ключ",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        17215,
+        247758
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a7396a4f278ff02",
+      "en": "%num1%/%num2% Completed",
+      "ru": "%num1%/%num2% Завершено",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        41832,
+        133034,
+        396520,
+        597777,
+        862945,
+        1078912,
+        1079046,
+        1079210,
+        1080304,
+        1163945
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a73fb4205d89169",
+      "en": "The Sword Regrown",
+      "ru": "Меч перерос",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        762720
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a7403b86a8d0185",
+      "en": "Collect the sheet music for the Coddler's Song from the Coddler's Cove chest in Timberline Falls.",
+      "ru": "",
+      "status": "draft",
+      "origin": "corpus",
+      "ids": [
+        617046
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a75f1c1f00c4114",
+      "en": "Destroy the final undead swarm.",
+      "ru": "Уничтожить последний немертвый рой.",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        313669
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a760c489ab4c148",
+      "en": "Hide in Plain Sight",
+      "ru": "Скрыться в простом виде",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        50953
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a7612b93d9d4709",
+      "en": "Recipe[s]: Stormforged Longbow",
+      "ru": "Рецепт[pl:\"Рецепты\"]: Шторм зажатый длинный ботинок",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        1081877
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a7619a408d8ed1e",
+      "en": "The number of kegs you've retrieved.",
+      "ru": "Количество бочонок, которые вы получили.",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [],
+      "context": ""
+    },
+    {
+      "key": "7a76511c671c91ef",
+      "en": "On the Zhaitan Disaster\n\nWe're just about finished archiving all the names of those lost during the Zhaitan Disaster. Thousands confirmed dead or missing... So many families broken, lost. It was only a hundred years ago; can you believe that?\n\nI've filled piles of journals with stories that I've collected—mostly passed down from parents and grandparents—trying to get the most accurate description of what happened that day. What really happened.\n\nMost often, people speak of another wave rising from the bay—they watched it crash into the tsunami before it could completely engulf the coast. The creature that lurked beneath the waves...\n\nIt's no longer legend, but fact.\n\nDespite this, some still deny what happened. They refuse to leave our fate in the hands of...beasts. They plead that it was Dwayna who cracked open the sky and struck down the wave with a beam of light. Some say it was Lyssa. Though, those versions of the tale aren't very popular these days. The gods are less relevant now. Less needed here.\n\nNo matter how many ways the story is told, no matter how far we sway from the truth...we were given hope. Stories have that power.",
+      "ru": "",
+      "status": "draft",
+      "origin": "corpus",
+      "ids": [
+        1010276
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a7698475cefb4cb",
+      "en": "Treacherous Path Waypoint",
+      "ru": "Тщательный путь",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        618142
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a76a0897be5e2df",
+      "en": "Arid Devourer[s]",
+      "ru": "Аридные Девуреры",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        180318
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a76a88196713502",
+      "en": "Defeat the Legendary Forged Demolisher near the Mouth of Torment.",
+      "ru": "",
+      "status": "draft",
+      "origin": "corpus",
+      "ids": [
+        1083192
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a76e459be546031",
+      "en": "Homestead Recipe[s]: Statue of Joko the Victorious",
+      "ru": "Домашние реципиенты: Статуя Джоко Победительница",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        1140458
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a7884f7c2de02ef",
+      "en": "After using an elite skill, launch icicles that inflict chilled at nearby enemies.",
+      "ru": "",
+      "status": "draft",
+      "origin": "corpus",
+      "ids": [
+        1081736,
+        1104351
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a799233d5259295",
+      "en": "Filled with all the nutrients a growing warclaw needs! Double-click to feed this to your warclaw.\n\nGives bonus Mastery experience once per day.",
+      "ru": "",
+      "status": "draft",
+      "origin": "corpus",
+      "ids": [
+        1123590
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a7a92331cf3bb1b",
+      "en": "Stone-Growth Dagger Skin[s]",
+      "ru": "Кожаные кинжалы каменной толпы",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        1156626
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a7bba84e0c42787",
+      "en": "Double-click to open. Contains gloves that are more powerful than standard level 5 gloves.",
+      "ru": "",
+      "status": "draft",
+      "origin": "corpus",
+      "ids": [
+        961027
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a7bc8bcf7e76783",
+      "en": "Razor Knuckles",
+      "ru": "Бритвые ножки",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        287928
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a7c02fd9e088d1e",
+      "en": "Serve Emote now available!",
+      "ru": "Служите Эмоту!",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        1067002
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a7c2a2388169734",
+      "en": "—Awakened Servant Tooraj",
+      "ru": "—Пробужденный Служитель Торадж",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [],
+      "context": ""
+    },
+    {
+      "key": "7a7c8b4a5563dc62",
+      "en": "%str1%%str2%King Toad's Sword%str3%%str4%",
+      "ru": "%str1%%str2%Меч короля Жаба%str3%%str4%",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        296089
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a7cac061e25818f",
+      "en": "%str1%%str2%Zenith Ward%str3%%str4%",
+      "ru": "%str1%%str2%Зенит Уорд%str3%%str4%",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        294493
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a7cd988a4ed7012",
+      "en": "Redreave Cloth Helm",
+      "ru": "Перекройте хельм",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        169565,
+        441314
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a7dbade7777d2b0",
+      "en": "Your offering has been spoiled by toxic spores.",
+      "ru": "Твоё приношение было испорчено токсичными спорами.",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        942233
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a7deb4f60263a65",
+      "en": "Fractal Bonus Box of Goods",
+      "ru": "Фракталовая бонусная коробка товаров",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        983092
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a7e56617929f45a",
+      "en": "Foefire Legwraps Skin now available!",
+      "ru": "Кожа костей теперь доступна!",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        1028913
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a7f4cd9b4eefbca",
+      "en": "Parasitic Siphon",
+      "ru": "Паразитный сифон",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        179152
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a7fe6ae22aa9a8b",
+      "en": "You and your krewe are prepared to extract Doxa from the MIG, but it won't be easy...or safe. So many things could go wrong: Doxa could die, the MIG could run amok again, or the Inquest could storm in and ruin everything. Still, if geniuses avoided conducting experiments that could blow up in their faces, there'd never be any progress. Onward!",
+      "ru": "",
+      "status": "draft",
+      "origin": "corpus",
+      "ids": [
+        261664
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a814ced31556db1",
+      "en": "Beastslayer Hammer Skin[s]",
+      "ru": "Охотничьи шкуры",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        798240
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a816ecd18735037",
+      "en": "Track[s] 36: Terror from the Mists",
+      "ru": "Дорожки 36: Террор из \"Мистиков\"",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        1203859
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a81c12906cd82c5",
+      "en": "Plush Moto Backpack Cover[s]",
+      "ru": "Плюс рюкзаки Moto",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        275701
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a81fa6c7dcbf51f",
+      "en": "Sunspear Cache #25",
+      "ru": "Солнечный кэш #25",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        866288
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a824da2588319e3",
+      "en": "Aetherized Short Bow",
+      "ru": "Эфиризированная короткая кость",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        244518,
+        320662
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a8266ea2cc95c32",
+      "en": "Recipe Unlocked: Superior Rune of the Berserker",
+      "ru": "Неоткрытая сумма: Высший Рун Берсеркера",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        633318,
+        783079
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a830a8af2a46396",
+      "en": "Your Glowing Purple Mask",
+      "ru": "Твоя сияющая пурпурная маска",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        931709
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a83e5ded7bc82c9",
+      "en": "You hit %str1% for %str2% using %str3%.",
+      "ru": "Вы попали в %str1% для %str2% с помощью %str3%.",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        114793
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a846ffab7de0a30",
+      "en": "Leather Patrol Coat",
+      "ru": "Кожаный патруль",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        166844
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a85018434ba1f80",
+      "en": "Statues of Grenth",
+      "ru": "Статуи Грента",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        1152018,
+        1179029
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a852650c8cf6b02",
+      "en": "Xera's Chest",
+      "ru": "Грудь Ксеры",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        708057
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a864115d90b4653",
+      "en": "Prologue: On the Sly",
+      "ru": "Пролог: На слайде",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        1133165
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a867fbb35a8012d",
+      "en": "Cleansing Lotus",
+      "ru": "Очистка лотоса",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        426057
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a8699d389cc3dc5",
+      "en": "Copper Tiger Chest",
+      "ru": "Медная грудная клетка",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        327185
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a87004a4b94b28f",
+      "en": "Wurm Unarmed",
+      "ru": "Невооруженный ворм",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        22723,
+        399241
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a8740d94b49aec5",
+      "en": "5c. Get a musical instrument for Liz from Dampfur in the village.",
+      "ru": "",
+      "status": "draft",
+      "origin": "corpus",
+      "ids": [
+        1162681
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a87513bfd78d48e",
+      "en": "Hellmouth Falls",
+      "ru": "Адский мутный водопад",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        170582
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a87af23cb4c0a7d",
+      "en": "Ceremony Survivor",
+      "ru": "Церемония выживших",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        1045910
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a88ee96b1066bc7",
+      "en": "Living World Journal Functionality",
+      "ru": "Функциональность &lt; &lt; Живого мира &gt; &gt;",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        538674
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a89e77fccb8e146",
+      "en": "Resource camps are how supplies are created and moved though the Mists.",
+      "ru": "",
+      "status": "draft",
+      "origin": "corpus",
+      "ids": [
+        84279,
+        196995,
+        240505,
+        240533,
+        540393
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a89f8789661ab49",
+      "en": "Fumble",
+      "ru": "Фумбл",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        187880
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a8abbe17fc9a6a6",
+      "en": "Crafted or purchased from the Black Lion Trading Post.",
+      "ru": "Сдано или куплено на \"Чёрном льве\".",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        955169
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a8bd8fe0295197a",
+      "en": "%str1%%str2%Ursan Ornamented Rifle%str3%%str4%",
+      "ru": "%str1%%str2%Урсан Орнаментированный Винтовка%str3%%str4%",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        1103811
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a8c4ae8a56bfd23",
+      "en": "Iron Door[s]",
+      "ru": "Железные двери",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        1180510
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a8cb1c9692d2c2a",
+      "en": "Tahlkora's Coat",
+      "ru": "Пальто Тахлкоры",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        180888
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a8cd4a22f3f4526",
+      "en": "Desert King Reliquary",
+      "ru": "Король пустыни",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        899875
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a8d133176c2dde6",
+      "en": "Allows the guild to build Guild Challenge missions.",
+      "ru": "Позволяет гильдии строить миссии по решению проблем Гильдии.",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        248199
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a8d959b8d05fe38",
+      "en": "Clear all location markers in the current map.",
+      "ru": "Очистить все маркеры местоположения на текущей карте.",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        690373
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a8e6d0f46e735ea",
+      "en": "Master Harbinger's Trinket",
+      "ru": "Мастера Харбингера",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        1036468
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a8e857ce0b656d2",
+      "en": "Qadim is preparing to ignite the final platform!",
+      "ru": "Кадим готовится зажечь финальную платформу!",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        893911
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a8f75499b5a839b",
+      "en": "Legendary Boneskinner",
+      "ru": "Легендарный Костиннер",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        928413
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a8f91b290159476",
+      "en": "Forged Matrix[pl:\"Matrices\"]",
+      "ru": "Поддельные матрицы",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        817011
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a8fb8df0573c0b2",
+      "en": "This steward has already been escorted. Locate another steward to escort.",
+      "ru": "",
+      "status": "draft",
+      "origin": "corpus",
+      "ids": [
+        1184850
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a8fc775c60cab02",
+      "en": "%str1%%str2%Sclerite Sword%str3%%str4%",
+      "ru": "%str1%%str2%Меч склерита%str3%%str4%",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        294488
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a90fd36de05b058",
+      "en": "The earth trembles, and the wind goes cold. Dragonstorm will begin in 10 minutes.",
+      "ru": "",
+      "status": "draft",
+      "origin": "corpus",
+      "ids": [
+        1009007
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a91db2c3b9a2c9b",
+      "en": "((263583))",
+      "ru": "",
+      "status": "draft",
+      "origin": "corpus",
+      "ids": [
+        263583
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a92c8c53bc265e0",
+      "en": "Nice Ride",
+      "ru": "Красивый ход",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        250499
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a92e583f38ce30a",
+      "en": "Hint: Near an entrance to Arborstone",
+      "ru": "Подвеска: У входа в Арборстоун",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        1038167
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a93167747747de4",
+      "en": "Blightbob[pl:\"Blightbob\"]",
+      "ru": "Бламбоб",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        1096841
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a9316d4730ea5c9",
+      "en": "+10%% Damage vs. Sons of Svanir\n-10%% Damage from Sons of Svanir\n+10%% Experience from Kills",
+      "ru": "",
+      "status": "draft",
+      "origin": "corpus",
+      "ids": [
+        300787
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a9372a2984914a3",
+      "en": "Masteries that can be trained in Heart of Thorns maps.",
+      "ru": "Мастерские, которые могут быть обучены картам Сердца Торнов.",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        613268
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a937c3d92fa7476",
+      "en": "Snow Garden Warhorn Skin[s]",
+      "ru": "Снежный сад Сорн",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        1048720
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a93bd21c2399ee4",
+      "en": "Herald of Aurene Mining Tool",
+      "ru": "Добыча полезных ископаемых &lt; &lt; Геральд Орен &gt; &gt;",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        1053542,
+        1119253
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a93e80df88e3628",
+      "en": "Track[pl:\"Copies of Track\"] 4: Army of the War God",
+      "ru": "Копии варианта 4: Армия Бога войны",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        1170844
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a94662563268066",
+      "en": "Fortunate Sword",
+      "ru": "К счастью, меч",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        1103195
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a94a4ed474cc5d3",
+      "en": "Spirits' Refuge",
+      "ru": "Убежище духов",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        940720
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a94dd03332606bc",
+      "en": "League Slayer—Conquest Season Thirty-Three",
+      "ru": "Истребительница Лиги—Тридцатый сезон",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        1048736
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a9565a0376931f9",
+      "en": "Your custom arena, %str1%, will expire in %str2% if no time is added.",
+      "ru": "",
+      "status": "draft",
+      "origin": "corpus",
+      "ids": [
+        132673
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a95779e67987854",
+      "en": "Corrupted Branded Magic",
+      "ru": "Коррумпированная магия",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        1000623
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a95c6606cdb781d",
+      "en": "Records of the Deaths of the Elder Dragons",
+      "ru": "Отчеты о смерти старших драконов",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        1087641
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a95e0932d093a5e",
+      "en": "Visit scenic Ember Bay.",
+      "ru": "Посетите живописный залив Эмбер.",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        1013477
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a96187d5a39a56e",
+      "en": "Any Sufficiently Advanced Science",
+      "ru": "Любая достаточно продвинутая наука",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        29396,
+        29397,
+        33095
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a9645a33f2a6316",
+      "en": "We have someone in charge of lowering Inquest morale. Bet you'll have fun with that one.",
+      "ru": "",
+      "status": "draft",
+      "origin": "corpus",
+      "ids": [
+        1189289
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a96799c5f80492d",
+      "en": "Claw Slash",
+      "ru": "Когти",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        26433,
+        324535
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a96b0f54a960972",
+      "en": "Prank Smodur",
+      "ru": "Шутка Смодур",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        607226
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a9753c29bb28f72",
+      "en": "<c=@flavor>\"Knowledge of these dangers is the only path to true victory. Many have died for what we have learned.\"\n—Scholar Daphne</c>",
+      "ru": "",
+      "status": "draft",
+      "origin": "corpus",
+      "ids": [
+        316184
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a9770bec10d83d0",
+      "en": "ERROR: SIGNAL LOST",
+      "ru": "ТЕРРОРИЗМ: ПОДПИСАНИЕ Упущений",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        861932
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a9821018510f43d",
+      "en": "A recipe to make ascended heavy gloves with Sinister (+Condition Damage, +Power, and +Precision) stats.",
+      "ru": "",
+      "status": "draft",
+      "origin": "corpus",
+      "ids": [
+        304744
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a995fb654948c8f",
+      "en": "Block attacks. Explodes when it ends.",
+      "ru": "Блокированные атаки. Взрывается, когда всё закончится.",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        189291
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a9994aa0897e1c6",
+      "en": "Prismatic Postpile",
+      "ru": "Призматичный столб",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        615563
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a9a8b28a6eda19d",
+      "en": "Survive Toypocalypse with at least one living gift dolyak. Achievement can be completed once per year.",
+      "ru": "",
+      "status": "draft",
+      "origin": "corpus",
+      "ids": [
+        873055
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a9aac7d6071ecd4",
+      "en": "Harvested from the Arctic Jellyfish of Frostgorge Sound, Snowden Drifts, and Lornar's Pass.",
+      "ru": "",
+      "status": "draft",
+      "origin": "corpus",
+      "ids": [
+        618948
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a9b20a7e647d2ab",
+      "en": "Stowed inside Dwayna's sunken ship.",
+      "ru": "Запрятан в затонувшем корабле Дуайны.",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        838640
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a9c966ae3b5388e",
+      "en": "You will get an hourly reminder to take a break.",
+      "ru": "Вы получите почасовое напоминание о перерыве.",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        942366,
+        946405
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a9c9ba93355fc4c",
+      "en": "Temple of Febe: Legendary Cerus",
+      "ru": "Храм Фебы: Легендарный церус",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        1177839
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a9c9feb69cb6040",
+      "en": "Survivor's Elkslayer",
+      "ru": "Элкслоубейца выжившего",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        298569
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a9cd602276e0f77",
+      "en": "Nothorium Hammer Mace",
+      "ru": "Ноторий молоткий мейс",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        1117220
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a9ce8b8dcf1242c",
+      "en": "Master Raider",
+      "ru": "Мастер Райдер",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        36874
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a9d2bccb1efe839",
+      "en": "**Plan C preparations. Necessary.",
+      "ru": "** Подготовка плана С. Нужна.",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [],
+      "context": ""
+    },
+    {
+      "key": "7a9d533bf8f04fc0",
+      "en": "Special Ops Medium Pauldrons Skin[s]",
+      "ru": "Специальная средняя опера",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        1077152
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a9dd4f1f4cf5649",
+      "en": "Tyrian Melodist",
+      "ru": "Тайриан Мелодист",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        1180853
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a9e12a3b80b6a31",
+      "en": "Shard of Jormag #11",
+      "ru": "Осколок Джормага #11",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        962849
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a9ecf5af6877b5a",
+      "en": "Seething Bloodthirst Stone[s]",
+      "ru": "Видеть что-нибудь из самых кровавых камней",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        976948
+      ],
+      "context": ""
+    },
+    {
+      "key": "7a9f65a3fbdcb3bb",
+      "en": "1. Watch the Kryptis play hide-and-seek.",
+      "ru": "1. Смотри, как Крипты играют в прятки.",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        1119513
+      ],
+      "context": ""
+    },
+    {
+      "key": "7aa00ebd06738102",
+      "en": "Genuine Imposter",
+      "ru": "Настоящий импостер",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        971980
+      ],
+      "context": ""
+    },
+    {
+      "key": "7aa0a9a421d84046",
+      "en": "QA Burn 4",
+      "ru": "QA Ожог 4",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        40647
+      ],
+      "context": ""
+    },
+    {
+      "key": "7aa0b18b905bbd92",
+      "en": "Midnight Appearance Pack",
+      "ru": "Полночь Внешность",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        1067209
+      ],
+      "context": ""
+    },
+    {
+      "key": "7aa1bb7711f3fa91",
+      "en": "Double-click to open.\nChoose an account-bound Alliance Field Operative's Helmet.",
+      "ru": "",
+      "status": "draft",
+      "origin": "corpus",
+      "ids": [
+        1153365
+      ],
+      "context": ""
+    },
+    {
+      "key": "7aa3394842351f57",
+      "en": "Your settings have changed.\nDo you want to keep these changes?",
+      "ru": "",
+      "status": "draft",
+      "origin": "corpus",
+      "ids": [
+        49140
+      ],
+      "context": ""
+    },
+    {
+      "key": "7aa35b76072cda75",
+      "en": "Detonate Essence of Liquid Wrath",
+      "ru": "Взрыв жидкого гнева",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        1093596
+      ],
+      "context": ""
+    },
+    {
+      "key": "7aa39409d5897737",
+      "en": "Hail, Quester of Legends!",
+      "ru": "Слава Богу, Крепкий Легенда!",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [],
+      "context": ""
+    },
+    {
+      "key": "7aa437ef37fa3f97",
+      "en": "Rytlock Brimstone is itching for some action, so he's joining you on the hunt for your father's treasure. With the tribune by your side, any Grendich Ruins ghosts that stand in your way are in for the fight of their afterlives.",
+      "ru": "",
+      "status": "draft",
+      "origin": "corpus",
+      "ids": [
+        29009
+      ],
+      "context": ""
+    },
+    {
+      "key": "7aa4ed30e423c85c",
+      "en": "500 Airship Parts[pl:\"Parts\"]",
+      "ru": "500 Запчасти для воздушных судов",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        874946
+      ],
+      "context": ""
+    },
+    {
+      "key": "7aa53645b0dc1ad8",
+      "en": "Endless Fallen Aetherblade Captain Combat Tonic[s]",
+      "ru": "Бесконечное падение эфирбладов Капитан Боевые Тоники",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        1041459
+      ],
+      "context": ""
+    },
+    {
+      "key": "7aa58e1a2877b507",
+      "en": "Recipe[s]: Blattellidae",
+      "ru": "Рецепт[pl:\"Рецепты\"]: Блаттеллидае",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        215233
+      ],
+      "context": ""
+    },
+    {
+      "key": "7aa6135b75d9b87e",
+      "en": "Tour of the Labyrinth",
+      "ru": "Поездка в Лабиринт",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        858141
+      ],
+      "context": ""
+    },
+    {
+      "key": "7aa62e7fc34a9724",
+      "en": "Larva Conservationist",
+      "ru": "Ларва Консервационист",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        766223
+      ],
+      "context": ""
+    },
+    {
+      "key": "7aa7681db6e68554",
+      "en": "Team %str1% vs. Team %str2%",
+      "ru": "Команда %str1% против команды %str2%",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [],
+      "context": ""
+    },
+    {
+      "key": "7aa7a799986b1e3c",
+      "en": "Jahai Bluffs Griffon Master: Gold",
+      "ru": "Джахай Блаффс Гриффон Мастер: Золото",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        892468,
+        894014
+      ],
+      "context": ""
+    },
+    {
+      "key": "7aa8d404129b2cce",
+      "en": "Word has it that a skilled armorsmith who served Joko has taken shelter in Sun's Refuge.",
+      "ru": "",
+      "status": "draft",
+      "origin": "corpus",
+      "ids": [
+        908307
+      ],
+      "context": ""
+    },
+    {
+      "key": "7aa916ed7dc12dae",
+      "en": "Battleground Ramparts",
+      "ru": "Боевые снаряды",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        887423
+      ],
+      "context": ""
+    },
+    {
+      "key": "7aa943824ed28213",
+      "en": "Invalid item type",
+      "ru": "Неверный тип продукта",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        49065
+      ],
+      "context": ""
+    },
+    {
+      "key": "7aa97f525c580396",
+      "en": "Your concentration is increased.",
+      "ru": "Твоя концентрация возросла.",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        609908
+      ],
+      "context": ""
+    },
+    {
+      "key": "7aaa6fa97bb62417",
+      "en": "Tangerine",
+      "ru": "Тангерин",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        17336,
+        740312
+      ],
+      "context": ""
+    },
+    {
+      "key": "7aaae77f623ea42c",
+      "en": "Examine the Rot on the Ground.",
+      "ru": "Изучите гниль на земле.",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        1102971
+      ],
+      "context": ""
+    },
+    {
+      "key": "7aab34ed4306ad9f",
+      "en": "Sea Breeze Dye[s]",
+      "ru": "Морской вздох",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        221598
+      ],
+      "context": ""
+    },
+    {
+      "key": "7aab4848043122aa",
+      "en": "In which Mad King Thorn is scattered to the four winds and departs for the Underworld.",
+      "ru": "",
+      "status": "draft",
+      "origin": "corpus",
+      "ids": [
+        836444
+      ],
+      "context": ""
+    },
+    {
+      "key": "7aabdd24d14db79f",
+      "en": "Turai Ossa was first ruler of a united Elona since the Primeval Kings. His soul was trapped in the Crystal Desert, along with those of his followers, to await the day Turai can ascend and pass into the Hall of Heroes.",
+      "ru": "",
+      "status": "draft",
+      "origin": "corpus",
+      "ids": [
+        572356
+      ],
+      "context": ""
+    },
+    {
+      "key": "7aacc692589e0118",
+      "en": "Complete Academic Arch[pl:\"Arches\"]",
+      "ru": "Полные академические арки",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        1090463
+      ],
+      "context": ""
+    },
+    {
+      "key": "7aad011287947dd6",
+      "en": "Burning Oil Mastery II: Increase Damage",
+      "ru": "Мастерство горения нефти II: Увеличить ущерб",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        168487
+      ],
+      "context": ""
+    },
+    {
+      "key": "7aad18433138f3e5",
+      "en": "<c=@flavor>Perfectly symmetrical and utterly captivating.<c>",
+      "ru": "",
+      "status": "draft",
+      "origin": "corpus",
+      "ids": [
+        622802
+      ],
+      "context": ""
+    },
+    {
+      "key": "7aae5ab4e67989ab",
+      "en": "•Kodan",
+      "ru": "• Кодан",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [],
+      "context": ""
+    },
+    {
+      "key": "7aae9d4d74632b61",
+      "en": "Spectral Prison",
+      "ru": "Спектральная тюрьма",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        577566,
+        1108531
+      ],
+      "context": ""
+    },
+    {
+      "key": "7aaf602df794febe",
+      "en": "+5 Condition Damage\n+2 Precision",
+      "ru": "",
+      "status": "draft",
+      "origin": "corpus",
+      "ids": [
+        318312
+      ],
+      "context": ""
+    },
+    {
+      "key": "7aaf753970270d7f",
+      "en": "This deep-diving mask creates small ice crystals in the water around you.",
+      "ru": "",
+      "status": "draft",
+      "origin": "corpus",
+      "ids": [
+        317133
+      ],
+      "context": ""
+    },
+    {
+      "key": "7aaf84abf708b8f1",
+      "en": "Blood Moon Weapon Collector",
+      "ru": "Коллекционер оружия кровопролития",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        1133888
+      ],
+      "context": ""
+    },
+    {
+      "key": "7aafcd267de46315",
+      "en": "Craft schematics to manufacture a tier 2 improvement that significantly increases the defenses of gates at your guild's claimed objective.",
+      "ru": "",
+      "status": "draft",
+      "origin": "corpus",
+      "ids": [
+        629717
+      ],
+      "context": ""
+    },
+    {
+      "key": "7ab08f2bc78920c8",
+      "en": "Emergency Barricade",
+      "ru": "Экстренный баррикад",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        338823
+      ],
+      "context": ""
+    },
+    {
+      "key": "7ab0c30326edc30a",
+      "en": "Clear the Stage",
+      "ru": "Очистить сцену",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        608214
+      ],
+      "context": ""
+    },
+    {
+      "key": "7ab125bc23aa1300",
+      "en": "<c=@flavor>\"This looks unlike any type of gear we've seen before.\"<br>—Gatekeeper</c>",
+      "ru": "",
+      "status": "draft",
+      "origin": "corpus",
+      "ids": [
+        223816,
+        503730
+      ],
+      "context": ""
+    },
+    {
+      "key": "7ab1288f0480f583",
+      "en": "Skyscale Lost[pl:\"Lost\"]—Displaced Tower",
+      "ru": "Небоскрёб потерян—Перемещенная башня",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        922685
+      ],
+      "context": ""
+    },
+    {
+      "key": "7ab1cb0d8ed5e302",
+      "en": "%num1%k",
+      "ru": "",
+      "status": "draft",
+      "origin": "corpus",
+      "ids": [
+        636498
+      ],
+      "context": ""
+    },
+    {
+      "key": "7ab1d8244ccd65ec",
+      "en": "Consumables",
+      "ru": "Погашенные суммы",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        175954,
+        586808
+      ],
+      "context": ""
+    },
+    {
+      "key": "7ab2a28459e05e13",
+      "en": "Map-complete all locations in Elon Riverlands.",
+      "ru": "Карта - все места в Элоне Риверлендс.",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        827238,
+        854240
+      ],
+      "context": ""
+    },
+    {
+      "key": "7ab3010844ebb1aa",
+      "en": "Invader's Amulet",
+      "ru": "Амулет взлома",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        215365
+      ],
+      "context": ""
+    },
+    {
+      "key": "7ab3620394a544c6",
+      "en": "Recipe[s]: Zintl Warfists",
+      "ru": "Рецепт[pl:\"Рецепты\"]: Зинтл-военные силы",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        275464
+      ],
+      "context": ""
+    },
+    {
+      "key": "7ab36415f634de25",
+      "en": "• Dragonfall",
+      "ru": "• Драконье",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [],
+      "context": ""
+    },
+    {
+      "key": "7ab4f2f93b15434b",
+      "en": "%str1%%str2%Improvised Mace%str3%%str4%",
+      "ru": "%str1%%str2%Импровизированный Мейс%str3%%str4%",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        625510
+      ],
+      "context": ""
+    },
+    {
+      "key": "7ab6e31d05847be2",
+      "en": "Infuse a Xunlai electrum ingot at the Caliph's Steps in Ember Bay.",
+      "ru": "",
+      "status": "draft",
+      "origin": "corpus",
+      "ids": [
+        830993
+      ],
+      "context": ""
+    },
+    {
+      "key": "7ab71822954d53bd",
+      "en": "Resplendent Avialan Raptor Skin[s]",
+      "ru": "Скрытность кожи Авиалана Раптора",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        862099
+      ],
+      "context": ""
+    },
+    {
+      "key": "7ab75ddd66d0e453",
+      "en": "Pour Water",
+      "ru": "Вода",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        38916,
+        400016,
+        409480,
+        869031,
+        1126373
+      ],
+      "context": ""
+    },
+    {
+      "key": "7ab7c60ac86ba8cf",
+      "en": "Propel yourself forward.",
+      "ru": "Подтолкни себя вперед.",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        833474
+      ],
+      "context": ""
+    },
+    {
+      "key": "7ab88df372d8ea01",
+      "en": "Ranger Trainer<br>• Teaches traits",
+      "ru": "Следопыт Тренер<br>• Учит черты",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [],
+      "context": ""
+    },
+    {
+      "key": "7ab94c5ce5799391",
+      "en": "Jade Sliver[s]",
+      "ru": "Джейд Сливерс",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        1026049
+      ],
+      "context": ""
+    },
+    {
+      "key": "7ab9bbe0534d1de7",
+      "en": "Wave of Destruction",
+      "ru": "Волна разрушения",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        1025789
+      ],
+      "context": ""
+    },
+    {
+      "key": "7aba2c02ebfcbfca",
+      "en": "Flame Legion and Dredge Writings",
+      "ru": "Легион пламени и написание дрежа",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        237679
+      ],
+      "context": ""
+    },
+    {
+      "key": "7abaeb25985bd543",
+      "en": "Daily Living World Season 4",
+      "ru": "Сезон 4 Дневной жизни",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        953540
+      ],
+      "context": ""
+    },
+    {
+      "key": "7abce8184bef187c",
+      "en": "Find the third passcode color.",
+      "ru": "Найдите третий цвет пароля.",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        1199352
+      ],
+      "context": ""
+    },
+    {
+      "key": "7abd0afbe4035087",
+      "en": "%str1%%str2%Inquest Torch%str3%%str4%",
+      "ru": "%str1%%str2%Ведение следствия%str3%%str4%",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        295023
+      ],
+      "context": ""
+    },
+    {
+      "key": "7abd4c7417e2b7c6",
+      "en": "Tiny Crystal Shard",
+      "ru": "Маленький осколок Кристал",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        334562
+      ],
+      "context": ""
+    },
+    {
+      "key": "7abd91cd80afb873",
+      "en": "Orrian Symbol",
+      "ru": "Символ Орриана",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        171948,
+        547632
+      ],
+      "context": ""
+    },
+    {
+      "key": "7ac01e5e099eb0b8",
+      "en": "Belgium",
+      "ru": "Бельгия",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        48732
+      ],
+      "context": ""
+    },
+    {
+      "key": "7ac07dcfbb751559",
+      "en": "Waiting for party. (%num1%/%num2%)",
+      "ru": "Жду вечеринки. (%num1%/%num2%)",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        314893
+      ],
+      "context": ""
+    },
+    {
+      "key": "7ac0d25711f4ec07",
+      "en": "Earn silver placement or better on Sibaha's Advanced Skimmer Course.",
+      "ru": "",
+      "status": "draft",
+      "origin": "corpus",
+      "ids": [
+        972330
+      ],
+      "context": ""
+    },
+    {
+      "key": "7ac0d6d18b6d8320",
+      "en": "Increase Karma gain by 8%%.",
+      "ru": "Increase Karma gain by 8%%.",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        590677
+      ],
+      "context": ""
+    },
+    {
+      "key": "7ac11292f624a8b7",
+      "en": "Blasted Ogres",
+      "ru": "Проклятые огры",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        28394
+      ],
+      "context": ""
+    },
+    {
+      "key": "7ac145263a417e0c",
+      "en": "Highsteppers (Level 71)",
+      "ru": "Высшие ступени (уровень 71)",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [],
+      "context": ""
+    },
+    {
+      "key": "7ac1776e5d8d9c4a",
+      "en": "Tray[s] of Omnomberry Compote",
+      "ru": "Лоток Омномберского компота",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        233016
+      ],
+      "context": ""
+    },
+    {
+      "key": "7ac1b9b94292ce3a",
+      "en": "White Tiger",
+      "ru": "Белый тигр",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        1029151
+      ],
+      "context": ""
+    },
+    {
+      "key": "7ac1ed3d0d287b00",
+      "en": "Potted Blue Moa Fern[s]",
+      "ru": "Голубая моа Фернс",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        628799
+      ],
+      "context": ""
+    },
+    {
+      "key": "7ac2b5895187778f",
+      "en": "Embalm Dye[s]",
+      "ru": "Эмбальм Dyes",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        890479
+      ],
+      "context": ""
+    },
+    {
+      "key": "7ac3265d9b9efaa3",
+      "en": "Deserter's Lantern of the Lost",
+      "ru": "Фонарь потерянных дезертиров",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        298614
+      ],
+      "context": ""
+    },
+    {
+      "key": "7ac3fcd9a29b3320",
+      "en": "As a thief, complete the Seitung Province meta-event.",
+      "ru": "Как вор, завершай мета-технологию в провинции Сейтон.",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        1007490
+      ],
+      "context": ""
+    },
+    {
+      "key": "7ac42a2178bce002",
+      "en": "Recipe[s]: Nadijeh's Greaves",
+      "ru": "Рецепт[pl:\"Рецепты\"]: Гривы Надье",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        850003
+      ],
+      "context": ""
+    },
+    {
+      "key": "7ac54afc30bff6f5",
+      "en": "Fireheart Rise: The Toughstone",
+      "ru": "Поднимайся: Крутой камень",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        575013
+      ],
+      "context": ""
+    },
+    {
+      "key": "7ac54b0944ce6b20",
+      "en": "((1160610))",
+      "ru": "",
+      "status": "draft",
+      "origin": "corpus",
+      "ids": [
+        1160610
+      ],
+      "context": ""
+    },
+    {
+      "key": "7ac57156c6e5f5dc",
+      "en": "Swim-Speed Infusion[s] +30",
+      "ru": "Вливание с плывиной +30",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        893707
+      ],
+      "context": ""
+    },
+    {
+      "key": "7ac602f4481c68bd",
+      "en": "Spit a ball of venom that covers an area with a poisonous cloud.",
+      "ru": "",
+      "status": "draft",
+      "origin": "corpus",
+      "ids": [
+        166906,
+        788591
+      ],
+      "context": ""
+    },
+    {
+      "key": "7ac6778a69406f58",
+      "en": "Recipe[s]: Gobrech's Metal Breather",
+      "ru": "Рецепт[pl:\"Рецепты\"]: Металлический дыр Горбоха",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        575101
+      ],
+      "context": ""
+    },
+    {
+      "key": "7ac707ba29d7fe50",
+      "en": "Only derby participants mounted on warclaws are allowed in the arena. Speak with the coordinator.",
+      "ru": "",
+      "status": "draft",
+      "origin": "corpus",
+      "ids": [
+        1101725
+      ],
+      "context": ""
+    },
+    {
+      "key": "7ac761b69459a7e8",
+      "en": "<c=@flavor>Crafted in the style of the famous centaur pacifist, Ventari.</c>",
+      "ru": "",
+      "status": "draft",
+      "origin": "corpus",
+      "ids": [
+        130585,
+        1179936
+      ],
+      "context": ""
+    },
+    {
+      "key": "7ac7f4730a13ec71",
+      "en": "Mursaat Shadowcraft Mastery",
+      "ru": "Мастерство мурсаатского теня",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        1142504
+      ],
+      "context": ""
+    },
+    {
+      "key": "7ac812ff21ad48ba",
+      "en": "Standard Ammo",
+      "ru": "Стандартный аммо",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        1000832
+      ],
+      "context": ""
+    },
+    {
+      "key": "7ac8179164cb58b2",
+      "en": "0–4 Charges Spent",
+      "ru": "0-4 Потраченные заряды",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        1026058
+      ],
+      "context": ""
+    },
+    {
+      "key": "7ac86f72a9473c2b",
+      "en": "+5 Agony Infusion[s]",
+      "ru": "+5 Агониальные вливания",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        281232
+      ],
+      "context": ""
+    },
+    {
+      "key": "7ac8710b1257b46b",
+      "en": "Dazing Screech",
+      "ru": "Потрясающий скрип",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        41764,
+        92770
+      ],
+      "context": ""
+    },
+    {
+      "key": "7ac8e5113e1e355f",
+      "en": "Snowlord's Gate",
+      "ru": "Ворота Снеголовы",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        29740,
+        426634
+      ],
+      "context": ""
+    },
+    {
+      "key": "7ac92c3ef9afe20b",
+      "en": "Assemble in Lion's Arch.",
+      "ru": "Соберись в Арке Льва.",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        35257
+      ],
+      "context": ""
+    },
+    {
+      "key": "7ac98d68746fb0d3",
+      "en": "Stoic Alder's Journal",
+      "ru": "Журнал Стоика Олдера",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        1127498
+      ],
+      "context": ""
+    },
+    {
+      "key": "7ac9e0284854b249",
+      "en": "Ravaging Steam Shield",
+      "ru": "Взрыв Щита дыма",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        182241
+      ],
+      "context": ""
+    },
+    {
+      "key": "7acaf2f5d4b12d99",
+      "en": "Dark Woods",
+      "ru": "Тёмные Вудсы",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        257638
+      ],
+      "context": ""
+    },
+    {
+      "key": "7acb14d120f8b4df",
+      "en": "<c=@flavor>\"Those Inquest won't hear you coming, and if they do—well, this should quiet things down quickly enough.\"<br>—Slayer Feldera</c>",
+      "ru": "",
+      "status": "draft",
+      "origin": "corpus",
+      "ids": [
+        322735
+      ],
+      "context": ""
+    },
+    {
+      "key": "7acb4888047c5bdd",
+      "en": "Shadow Gust",
+      "ru": "Тень",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        707691
+      ],
+      "context": ""
+    },
+    {
+      "key": "7acbce8d21bd2a9e",
+      "en": "+20%% Quickness Duration",
+      "ru": "+20%% Quickness Duration",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        1074227
+      ],
+      "context": ""
+    },
+    {
+      "key": "7acc2bc76f861664",
+      "en": "Recipe[s]: Suun's Reaver",
+      "ru": "Рецепт[pl:\"Рецепты\"]: Жеребец Суна",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        1009591
+      ],
+      "context": ""
+    },
+    {
+      "key": "7acc3938bbbb0d0d",
+      "en": "Exo-Suit Raptor Skin[s]",
+      "ru": "Кожа экзо-повара",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        885292
+      ],
+      "context": ""
+    },
+    {
+      "key": "7acd04954513a3af",
+      "en": "Recipe[s]: Satchel of Zealot's Exalted Armor",
+      "ru": "Рецепт[pl:\"Рецепты\"]: Сатхель возвышенного ружья Зилота",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        284667
+      ],
+      "context": ""
+    },
+    {
+      "key": "7acd71810b8ab461",
+      "en": "Medium Island Shoulder[s]",
+      "ru": "Островные плечи",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        238087
+      ],
+      "context": ""
+    },
+    {
+      "key": "7acec57a4fd3bb0f",
+      "en": "Removes conditions from allies on use.",
+      "ru": "Устраняет условия от союзников при использовании.",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        1156237
+      ],
+      "context": ""
+    },
+    {
+      "key": "7acff98e4e43f69a",
+      "en": "Add miniatures to your collection, or browse and equip minis from your current collection.",
+      "ru": "Добавьте миниатюрные к вашей коллекции, или проверьте и оборудуйте мини из вашей текущей коллекции.",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        302198
+      ],
+      "context": ""
+    },
+    {
+      "key": "7ad02ef86c47da51",
+      "en": "Wanted: Chief Kronon",
+      "ru": "Захотелось: Начальник Кронон",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        744060
+      ],
+      "context": ""
+    },
+    {
+      "key": "7ad0367df289fc0e",
+      "en": "Wave",
+      "ru": "Волна",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        132462,
+        218023,
+        256837,
+        629175,
+        699812,
+        1004270,
+        1046527,
+        1076486,
+        1101762,
+        1119971,
+        1123399
+      ],
+      "context": ""
+    },
+    {
+      "key": "7ad09efe0fa70064",
+      "en": "Toggle Signature Moves (Disabled)",
+      "ru": "Переключение подписи (недееспособность)",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        264200
+      ],
+      "context": ""
+    },
+    {
+      "key": "7ad0d43cb1dc7323",
+      "en": "Jump Shot",
+      "ru": "Стрельба",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        37308,
+        228865,
+        241194,
+        250577,
+        367198,
+        415640,
+        426285,
+        435215,
+        485211,
+        509930,
+        553167,
+        554231,
+        613446,
+        752322
+      ],
+      "context": ""
+    },
+    {
+      "key": "7ad20d2c388fe769",
+      "en": "• The \"Fractal Savant\" title",
+      "ru": "• Название «Фрактал Сэвант»",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [],
+      "context": ""
+    },
+    {
+      "key": "7ad27897fb32bcd9",
+      "en": "The Weekly Black Lion Supply Package is available!",
+      "ru": "Еженедельный пакет \"Чёрный Льв\" доступен!",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        1091384
+      ],
+      "context": ""
+    },
+    {
+      "key": "7ad39df339ddb123",
+      "en": "<c=@flavor>Contains your choice of an account-bound Pact Fleet weapon skin. Double-click to choose a reward.</c>",
+      "ru": "",
+      "status": "draft",
+      "origin": "corpus",
+      "ids": [
+        1017008
+      ],
+      "context": ""
+    },
+    {
+      "key": "7ad3cec61efed245",
+      "en": "Use a Krait Focusing Crystal to commune with the Krait Obelisk Shard in Caledon Forest.",
+      "ru": "",
+      "status": "draft",
+      "origin": "corpus",
+      "ids": [
+        613179
+      ],
+      "context": ""
+    },
+    {
+      "key": "7ad432b3aecdd3a8",
+      "en": "Mail Dialog",
+      "ru": "Диалог почты",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        50332
+      ],
+      "context": ""
+    },
+    {
+      "key": "7ad4779aeb37796d",
+      "en": "Collect magic on your skimmer in Overgrown Thicket.",
+      "ru": "Собери магию на скиммере в переросшем Тикете.",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        1167758
+      ],
+      "context": ""
+    },
+    {
+      "key": "7ad4824299518a76",
+      "en": "%str1%%str2%Luminescent Pauldrons%str3%%str4%",
+      "ru": "%str1%%str2%Светящиеся пудры%str3%%str4%",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        306455
+      ],
+      "context": ""
+    },
+    {
+      "key": "7ad5a5164297d364",
+      "en": "Major Sigil[s] of Wrath",
+      "ru": "Основные осадки гнева",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        179393
+      ],
+      "context": ""
+    },
+    {
+      "key": "7ad64904d3155640",
+      "en": "Gain power based on your toughness.",
+      "ru": "Получите силу, основываясь на вашей стойкости.",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        278252
+      ],
+      "context": ""
+    },
+    {
+      "key": "7ad6d51af876774f",
+      "en": "Your account is already signed up for the Code of Creation Launch Supply Drop.",
+      "ru": "",
+      "status": "draft",
+      "origin": "corpus",
+      "ids": [
+        1200011
+      ],
+      "context": ""
+    },
+    {
+      "key": "7ad8141327faa737",
+      "en": "**OBJECTS 1824.B.422-435**  ",
+      "ru": "**ОБЕТЫ 1824.B.422-435**",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [],
+      "context": ""
+    },
+    {
+      "key": "7ad82f479bb51e73",
+      "en": "Noxious Water Fish",
+      "ru": "Водные ресурсы",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        1006605
+      ],
+      "context": ""
+    },
+    {
+      "key": "7ad84b21f7e2e870",
+      "en": "Territorial Terrorizer",
+      "ru": "Территориальный террор",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        126967
+      ],
+      "context": ""
+    },
+    {
+      "key": "7ad8b0bfe8c903ea",
+      "en": "A special gift for a hardworking toymaker's apprentice.",
+      "ru": "Особый подарок для ученика трудолюбивой игрушечки.",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        955394
+      ],
+      "context": ""
+    },
+    {
+      "key": "7ad909086e01ad7b",
+      "en": "Cold Potion[s]",
+      "ru": "Холодное зелье",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        320713,
+        909672
+      ],
+      "context": ""
+    },
+    {
+      "key": "7ad935d07dd89cd1",
+      "en": "Hint: Wants to catch a glimpse of a Jade Maw.",
+      "ru": "Подвеска: Хочет увидеть нефритовую бабушку.",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        1037842
+      ],
+      "context": ""
+    },
+    {
+      "key": "7ada1b125ca33a16",
+      "en": "Agent Maziz",
+      "ru": "Агент Мазиз",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        802272
+      ],
+      "context": ""
+    },
+    {
+      "key": "7ada271032fd196b",
+      "en": "Heading Back to the Range",
+      "ru": "Возвращаемся на дальность",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        103870
+      ],
+      "context": ""
+    },
+    {
+      "key": "7adb0892bffd501b",
+      "en": "Outfit Unlocked",
+      "ru": "Неоконченное оборудование",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        296141
+      ],
+      "context": ""
+    },
+    {
+      "key": "7adbe1087f4b0f1b",
+      "en": "League Dominator—Veteran",
+      "ru": "Доминатор Лиги—Ветеран",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        638276
+      ],
+      "context": ""
+    },
+    {
+      "key": "7adc3881528b022c",
+      "en": "Cut Free",
+      "ru": "Свободный отруб",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        49382
+      ],
+      "context": ""
+    },
+    {
+      "key": "7adccdcf297213fa",
+      "en": "%str1%%str2%Acolyte Pants%str3%%str4%",
+      "ru": "%str1%%str2%Аколитные штаны%str3%%str4%",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        293246
+      ],
+      "context": ""
+    },
+    {
+      "key": "7adcf971fbcf2d72",
+      "en": "Rezept[pl:\"Rezepte\"]: Finstere erhabene Maske",
+      "ru": "Резепте: Финстере эрхабен Маске",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [],
+      "context": ""
+    },
+    {
+      "key": "7adcfd079f9a5ae7",
+      "en": "Thackeray's Visage",
+      "ru": "Визаж Такерея",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        779656
+      ],
+      "context": ""
+    },
+    {
+      "key": "7add62fa082a2f5c",
+      "en": "Overfeeding!",
+      "ru": "Перекормить!",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        1126493
+      ],
+      "context": ""
+    },
+    {
+      "key": "7add836648064cdb",
+      "en": "Turtle Jump Jets",
+      "ru": "Черепаха",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        1028356
+      ],
+      "context": ""
+    },
+    {
+      "key": "7ade43797d96818f",
+      "en": "United Kingdom",
+      "ru": "Швейцария",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        46949
+      ],
+      "context": ""
+    },
+    {
+      "key": "7ade73cf4b7c2ba1",
+      "en": "Treacherous Depths",
+      "ru": "Тщательные глубины",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        30867
+      ],
+      "context": ""
+    },
+    {
+      "key": "7adf48def0e30e1a",
+      "en": "%str1%%str2%Solar Astrolabe Hammer%str3%%str4%",
+      "ru": "%str1%%str2%Солнечная астролябия Хаммер%str3%%str4%",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        1103184
+      ],
+      "context": ""
+    },
+    {
+      "key": "7adf4e842ba63da8",
+      "en": "King Toad Z-3[s]",
+      "ru": "Король Жаба Z-3s",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        275708
+      ],
+      "context": ""
+    },
+    {
+      "key": "7adf567a89810443",
+      "en": "<c=@abilitytype>Trick.</c> Scatter caltrops that bleed and cripple foes.",
+      "ru": "",
+      "status": "draft",
+      "origin": "corpus",
+      "ids": [
+        41961,
+        224485
+      ],
+      "context": ""
+    },
+    {
+      "key": "7adf8ac2019cf682",
+      "en": "Quest Reward Accepted: %str1%",
+      "ru": "Принимается награда: %str1%",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        47563
+      ],
+      "context": ""
+    },
+    {
+      "key": "7adfe641694785ae",
+      "en": "-Defeat powerful NPC creatures to earn 25 points for your team, and to capture powerful buffs for everyone on your team.",
+      "ru": "",
+      "status": "draft",
+      "origin": "corpus",
+      "ids": [
+        168215,
+        707430
+      ],
+      "context": ""
+    },
+    {
+      "key": "7ae03bcb46ecf87d",
+      "en": "Maw of the Damned",
+      "ru": "Бабуля проклятых",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        117297
+      ],
+      "context": ""
+    },
+    {
+      "key": "7ae1a1c0ea8efb4e",
+      "en": "WARNING: Reinforcements departing.",
+      "ru": "ПРЕДУПРЕЖДЕНИЕ: Подкрепление уходит.",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        892447
+      ],
+      "context": ""
+    },
+    {
+      "key": "7ae1a89a6ed92c54",
+      "en": "Norn have a special connection to the Spirits of the Wild. Bear, Raven, Wolf, and Snow Leopard are the mightiest of these primal beings, but other, less powerful spirits exist as well.",
+      "ru": "",
+      "status": "draft",
+      "origin": "corpus",
+      "ids": [
+        29159
+      ],
+      "context": ""
+    },
+    {
+      "key": "7ae270f764e04035",
+      "en": "Double-click to open.\nContains materials gathered by the Deldrimor dwarves.",
+      "ru": "",
+      "status": "draft",
+      "origin": "corpus",
+      "ids": [
+        985864
+      ],
+      "context": ""
+    },
+    {
+      "key": "7ae28fac2c7ed038",
+      "en": "+3%% Condition Duration",
+      "ru": "+3%% Condition Duration",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        208743,
+        292170
+      ],
+      "context": ""
+    },
+    {
+      "key": "7ae2a3ecabc0b7b3",
+      "en": "Essence[s] of Illumination",
+      "ru": "Освещение света",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        605088
+      ],
+      "context": ""
+    },
+    {
+      "key": "7ae2ce8836c246b8",
+      "en": "%str1%, you are a proven friend of Michotl. Your efforts have helped our village and we offer our heartfelt thanks. Please come visit us again. You are welcome here any time.\n\n—Huelic",
+      "ru": "",
+      "status": "draft",
+      "origin": "corpus",
+      "ids": [
+        223169
+      ],
+      "context": ""
+    },
+    {
+      "key": "7ae3e89507155f9b",
+      "en": "Take a Mini Angry Chest to Evon Gnashblade to discover how to unlock this mini.",
+      "ru": "",
+      "status": "draft",
+      "origin": "corpus",
+      "ids": [
+        635278
+      ],
+      "context": ""
+    },
+    {
+      "key": "7ae4189817431ae2",
+      "en": "A book about the history of another continent.",
+      "ru": "Книга об истории другого континента.",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        906590
+      ],
+      "context": ""
+    },
+    {
+      "key": "7ae4903a370c990d",
+      "en": "As members of the College of Synergetics, we study how energy patterns form and alchemagical fractals propagate. Few beyond our college understand the philosophical and mystical complexities of our interests. We devoutly research the true nature of the Eternal Alchemy.",
+      "ru": "",
+      "status": "draft",
+      "origin": "corpus",
+      "ids": [
+        27806
+      ],
+      "context": ""
+    },
+    {
+      "key": "7ae57f0ab61e58cf",
+      "en": "World 1 Zone 3: In the cliff walls near a hollow tower.",
+      "ru": "",
+      "status": "draft",
+      "origin": "corpus",
+      "ids": [
+        967068
+      ],
+      "context": ""
+    },
+    {
+      "key": "7ae5ede475750e89",
+      "en": "Baedal Hill",
+      "ru": "Бейдал Хилл",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        985335
+      ],
+      "context": ""
+    },
+    {
+      "key": "7ae6602960785f82",
+      "en": "It's the last day of new toy production, and the toys are misbehaving!",
+      "ru": "",
+      "status": "draft",
+      "origin": "corpus",
+      "ids": [
+        233646
+      ],
+      "context": ""
+    },
+    {
+      "key": "7ae6b88daaa360f9",
+      "en": "This does not affect karma gained from consumable items.",
+      "ru": "",
+      "status": "draft",
+      "origin": "corpus",
+      "ids": [
+        269877
+      ],
+      "context": ""
+    },
+    {
+      "key": "7ae70edc6613fbde",
+      "en": "Hergestellt aus Honigblumen, Tiefland-Kiefernholz-Blöcken, Ektoplasmakugeln und Orichalcumbarren.",
+      "ru": "",
+      "status": "draft",
+      "origin": "corpus",
+      "ids": [],
+      "context": ""
+    },
+    {
+      "key": "7ae7617b813c00d9",
+      "en": "Medium Green",
+      "ru": "Средний зеленый",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        197920
+      ],
+      "context": ""
+    },
+    {
+      "key": "7ae7b5cf6d160c84",
+      "en": "Wing Flap can now be used while diving and pulling up to gain a burst of speed in your movement direction.",
+      "ru": "",
+      "status": "draft",
+      "origin": "corpus",
+      "ids": [
+        832358
+      ],
+      "context": ""
+    },
+    {
+      "key": "7ae8728f607f069e",
+      "en": "Keep (Green)<brx>• Defeat chief engineer to hold and capture objective<br>• Also hold airport, workshop, or wurm tunnel to activate badlands turrets<br>• 100 points on capture<br>• 25 points per scoring tick",
+      "ru": "",
+      "status": "draft",
+      "origin": "corpus",
+      "ids": [
+        287016
+      ],
+      "context": ""
+    },
+    {
+      "key": "7ae90ee8c9cd3874",
+      "en": "Hunter Shoes",
+      "ru": "Обувь охотников",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        183643,
+        318642
+      ],
+      "context": ""
+    },
+    {
+      "key": "7ae98db0e2db52e0",
+      "en": "Raven Leggings Skin[s]",
+      "ru": "Кожаные орехи",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        1101794
+      ],
+      "context": ""
+    },
+    {
+      "key": "7ae99f26bcab6e03",
+      "en": "A recipe to make ascended heavy shoulders with Seraph (+Condition Damage, +Precision, +Concentration, and +Healing Power) stats.",
+      "ru": "",
+      "status": "draft",
+      "origin": "corpus",
+      "ids": [
+        789304
+      ],
+      "context": ""
+    },
+    {
+      "key": "7aeb292864bd71f1",
+      "en": "Learn to craft a glass jar infused with piles of vile essence.",
+      "ru": "",
+      "status": "draft",
+      "origin": "corpus",
+      "ids": [
+        610337
+      ],
+      "context": ""
+    },
+    {
+      "key": "7aeb4ccb8e0093c8",
+      "en": "Mask Color",
+      "ru": "Цвет маски",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        46923
+      ],
+      "context": ""
+    },
+    {
+      "key": "7aed8dee92c229d7",
+      "en": "Instantly grants 10 Tales of Dungeon Delving, which can be traded to dungeon vendors.",
+      "ru": "",
+      "status": "draft",
+      "origin": "corpus",
+      "ids": [
+        1097662
+      ],
+      "context": ""
+    },
+    {
+      "key": "7aedb7afa50fe6e6",
+      "en": "Rocket Turret",
+      "ru": "Ракетный туррет",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        17741,
+        31783,
+        38461,
+        95888,
+        240033,
+        257219,
+        286725,
+        968738
+      ],
+      "context": ""
+    },
+    {
+      "key": "7aef0960160da193",
+      "en": "Find a shelf below the garden island.",
+      "ru": "Найди полку под садовым островом.",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [],
+      "context": ""
+    },
+    {
+      "key": "7aefedf80c0263df",
+      "en": "Here's where the artifacts that I haven't gotten a chance to collect yet are.",
+      "ru": "",
+      "status": "draft",
+      "origin": "corpus",
+      "ids": [
+        1154142
+      ],
+      "context": ""
+    },
+    {
+      "key": "7af0c36dfa16e45c",
+      "en": "Awaiting Your Arrival",
+      "ru": "Жду твоего приезда",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        312183
+      ],
+      "context": ""
+    },
+    {
+      "key": "7af1ba13e0c834d7",
+      "en": "+7%% Strike Damage vs. Icebrood",
+      "ru": "+7%% Strike Damage vs. Icebrood",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [],
+      "context": ""
+    },
+    {
+      "key": "7af20db23350b28d",
+      "en": "Yo-ho, what lies down below!  ",
+      "ru": "Йо-хо, что лежит внизу!",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [],
+      "context": ""
+    },
+    {
+      "key": "7af25ff5d69fe8d5",
+      "en": "%str1%%str2%Glimmering Resin Hammer%str3%%str4%",
+      "ru": "%str1%%str2%Поднимающийся резин Хаммер%str3%%str4%",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        1178892
+      ],
+      "context": ""
+    },
+    {
+      "key": "7af28fde49022b23",
+      "en": "Master of Baubles, World 1",
+      "ru": "Магистр боуллов, мир 1",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        247898
+      ],
+      "context": ""
+    },
+    {
+      "key": "7af2cda39ef7ae2f",
+      "en": "Defender's Spirit Branch",
+      "ru": "Сектор духов Защитника",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        636202
+      ],
+      "context": ""
+    },
+    {
+      "key": "7af2d83eedc7d915",
+      "en": "Langmar Estate must be a target for an active guild mission for this guild.",
+      "ru": "",
+      "status": "draft",
+      "origin": "corpus",
+      "ids": [
+        633641
+      ],
+      "context": ""
+    },
+    {
+      "key": "7af325b06fbd2735",
+      "en": "Sturdy Darksteel Logging Axe",
+      "ru": "Тёмно-черный топор",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        233675
+      ],
+      "context": ""
+    },
+    {
+      "key": "7af3450aff05f478",
+      "en": "Chest[s] of the Ember Bay Hero",
+      "ru": "Грудь Героя Эмбер-Бей",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        739561
+      ],
+      "context": ""
+    },
+    {
+      "key": "7af39f59c2c62145",
+      "en": "Used to craft rings.",
+      "ru": "Раньше готовил кольца.",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        169697,
+        319936,
+        367374,
+        389452,
+        468105,
+        511683
+      ],
+      "context": ""
+    },
+    {
+      "key": "7af46a000e2a3197",
+      "en": "Configure enough level 3 speed wall turrets to discover the level 4 upgrade.",
+      "ru": "",
+      "status": "draft",
+      "origin": "corpus",
+      "ids": [
+        894973
+      ],
+      "context": ""
+    },
+    {
+      "key": "7af48776f46f40d6",
+      "en": "War Room Proprietor<br>• War Room Upgrades",
+      "ru": "Проприор из военного корпуса<br>• Модернизация военных помещений",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        616592
+      ],
+      "context": ""
+    },
+    {
+      "key": "7af4db01502f70d8",
+      "en": "Weighted Mace Head[s]",
+      "ru": "Взвешенные головки мейса",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        634320
+      ],
+      "context": ""
+    },
+    {
+      "key": "7af4dde669b66adb",
+      "en": "Umbral Serpent Backpack Skin[s]",
+      "ru": "Умбральные рюкзаки",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        1050891
+      ],
+      "context": ""
+    },
+    {
+      "key": "7af559092c4e605c",
+      "en": "<c=@flavor>\"If you concentrate hard enough, you can almost feel the power it contains.\"<br>—Glaxx</c>",
+      "ru": "",
+      "status": "draft",
+      "origin": "corpus",
+      "ids": [
+        27626,
+        538494
+      ],
+      "context": ""
+    },
+    {
+      "key": "7af57a142dad8863",
+      "en": "The Trading Post is disabled for beta-event characters.",
+      "ru": "",
+      "status": "draft",
+      "origin": "corpus",
+      "ids": [
+        1085225
+      ],
+      "context": ""
+    },
+    {
+      "key": "7af5a0f24ff151db",
+      "en": "<c=@flavor>\"Hope it makes you luckier than the centaur it came from.\"<br>—Barnaby</c>",
+      "ru": "",
+      "status": "draft",
+      "origin": "corpus",
+      "ids": [
+        194998
+      ],
+      "context": ""
+    },
+    {
+      "key": "7af6622eb9070614",
+      "en": "Glenna has summoned you to the crater in Bloodstone Fen.",
+      "ru": "",
+      "status": "draft",
+      "origin": "corpus",
+      "ids": [
+        787574
+      ],
+      "context": ""
+    },
+    {
+      "key": "7af670dd2718cdc8",
+      "en": "• 100 Shards of Lowland Shore",
+      "ru": "• 100 осколок Лоумлендской Шор",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [],
+      "context": ""
+    },
+    {
+      "key": "7af6c847501e3890",
+      "en": "Straits of Devastation: Bramble Pass",
+      "ru": "Проливы Девастанции: Пропуск для браслетов",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        571620
+      ],
+      "context": ""
+    },
+    {
+      "key": "7af7bfdb803ff032",
+      "en": "Specter",
+      "ru": "Спектер",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        964911,
+        966255,
+        971562
+      ],
+      "context": ""
+    },
+    {
+      "key": "7af8928d814aa38a",
+      "en": "Cannon Law (Level 55)",
+      "ru": "Закон о пушечном оружии (уровень 55)",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [],
+      "context": ""
+    },
+    {
+      "key": "7af89fe8ef8310d2",
+      "en": "Verdant Focus Skin[s]",
+      "ru": "Сосредоточенные кожа",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        131966
+      ],
+      "context": ""
+    },
+    {
+      "key": "7af8add8dd67cb16",
+      "en": "Complete the Obsidian Sanctum jumping puzzle in the Obsidian Sanctum map.",
+      "ru": "",
+      "status": "draft",
+      "origin": "corpus",
+      "ids": [
+        1083620
+      ],
+      "context": ""
+    },
+    {
+      "key": "7af9329b83019dee",
+      "en": "Incantation Magic",
+      "ru": "Магия инстанции",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        1073963
+      ],
+      "context": ""
+    },
+    {
+      "key": "7af949b1cbb2b627",
+      "en": "You did a good job with those shadow fiends and lost spirits, and I wanted to thank you by sending you this letter that will make you richer and more powerful by reading it.\n\n—Scholar Worfmir, Durmand Priory",
+      "ru": "",
+      "status": "draft",
+      "origin": "corpus",
+      "ids": [],
+      "context": ""
+    },
+    {
+      "key": "7af9f914a4313bda",
+      "en": "%str1%%str2%Iron Spear%str3%%str4%",
+      "ru": "%str1%%str2%Железный копье%str3%%str4%",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        294660
+      ],
+      "context": ""
+    },
+    {
+      "key": "7afa65f5628f0169",
+      "en": "Contains materials gathered by the Crystal Bloom.",
+      "ru": "В нем содержатся материалы, собранные Кристальным Блумом.",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [],
+      "context": ""
+    },
+    {
+      "key": "7afa71a12e547fc3",
+      "en": "Track[pl:\"Copies of Track\"] 15: Tarir, the Forgotten City",
+      "ru": "",
+      "status": "draft",
+      "origin": "corpus",
+      "ids": [
+        1170114
+      ],
+      "context": ""
+    },
+    {
+      "key": "7afa7631469c9feb",
+      "en": "Rampager's Intricate Linen Insignia[s]",
+      "ru": "Интриктатный линейный символ Рампаджера",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        44009
+      ],
+      "context": ""
+    },
+    {
+      "key": "7afa855834d8b5d4",
+      "en": "Thunderhead Peaks Insight: Brechnar's Gauntlet",
+      "ru": "Громкие пики: Брэкнарский гончая",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        911738
+      ],
+      "context": ""
+    },
+    {
+      "key": "7afb7f80487e425e",
+      "en": "Gain stacking condition damage when you are hit by a poisoned foe. <c=@reminder>When this triggers, it refreshes the duration of all stacks.</c>",
+      "ru": "",
+      "status": "draft",
+      "origin": "corpus",
+      "ids": [
+        1136095
+      ],
+      "context": ""
+    },
+    {
+      "key": "7afc593d00bb9b10",
+      "en": "%str1%%str2%Prowler Helm%str3%%str4%",
+      "ru": "%str1%%str2%Верхняя хельма%str3%%str4%",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        293311
+      ],
+      "context": ""
+    },
+    {
+      "key": "7afce7252f16f305",
+      "en": "Release a blast of fire in a cone in front of the turret.",
+      "ru": "",
+      "status": "draft",
+      "origin": "corpus",
+      "ids": [
+        232542
+      ],
+      "context": ""
+    },
+    {
+      "key": "7afcfd4435341d23",
+      "en": "Angchu Claymore",
+      "ru": "Анчу Клеймор",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        273009
+      ],
+      "context": ""
+    },
+    {
+      "key": "7afd1e0b7378663f",
+      "en": "Gauntlets",
+      "ru": "Стрелки",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        207347
+      ],
+      "context": ""
+    },
+    {
+      "key": "7afd365a7fb075f1",
+      "en": "Stag Helm Skin[s]",
+      "ru": "Шкуры хельма",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        281196
+      ],
+      "context": ""
+    },
+    {
+      "key": "7afd3c4528f266f7",
+      "en": "%str1%%str2%Dredge Short Bow%str3%%str4%",
+      "ru": "%str1%%str2%Короткий лоб%str3%%str4%",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        294597
+      ],
+      "context": ""
+    },
+    {
+      "key": "7afd9ce8d2cbcf14",
+      "en": "The Human Rise of Rin, Part 1",
+      "ru": "Подъём человека, часть 1",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        307115
+      ],
+      "context": ""
+    },
+    {
+      "key": "7afdb95b03327c12",
+      "en": "%str1%%str2%Wrapped Pistol%str3%%str4%",
+      "ru": "%str1%%str2%Завернутый свисток%str3%%str4%",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        870139
+      ],
+      "context": ""
+    },
+    {
+      "key": "7afef61679620bc1",
+      "en": "<c=@flavor>The alloys used in the forging of this blade come from no single locale. To wield it is to visit all the lands of Tyria.</c>",
+      "ru": "",
+      "status": "draft",
+      "origin": "corpus",
+      "ids": [
+        887926
+      ],
+      "context": ""
+    },
+    {
+      "key": "7aff24dba9652283",
+      "en": "%str1%%str2%Merciless Dagger%str3%%str4%",
+      "ru": "%str1%%str2%Безжалостный кинжал%str3%%str4%",
+      "status": "draft",
+      "origin": "machine-cache",
+      "ids": [
+        636787
+      ],
+      "context": ""
+    }
+  ]
+}

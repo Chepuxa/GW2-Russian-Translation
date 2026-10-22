@@ -1,0 +1,709 @@
+{
+  "$schema": "../../../schema/catalog.schema.json",
+  "format": 1,
+  "language": "ru",
+  "section": "hero/build",
+  "strings": [
+    {
+      "id": 141291,
+      "en": "Profession",
+      "ru": "Профессия",
+      "context": "Герой → Билд: шаблоны, хранилище, контекстные команды и сообщения об ограничениях; семейство строк с точным английским оригиналом.",
+      "src_hash": "36a25de9fed477b9",
+      "status": "reviewed",
+      "evidence": "live-map; observed UI family / exact English match",
+      "verification": "Russian rendering checked in GW2 on 2026-10-22 after patch v2 install; matched by exact English text and UI context, not a new on-screen ID capture. See docs/verification-2026-10-22.md."
+    },
+    {
+      "id": 264386,
+      "en": "Sort by:",
+      "ru": "Сортировка:",
+      "context": "Порядок отображения сохранённых билдов",
+      "src_hash": "b7dce298a2b91400",
+      "status": "reviewed",
+      "evidence": "onscreen-id",
+      "verification": "First contextual review, 2026-10-22; representative screens checked in-game."
+    },
+    {
+      "id": 264417,
+      "en": "Alphabetical",
+      "ru": "По алфавиту",
+      "context": "Герой → Билд: шаблоны, хранилище, контекстные команды и сообщения об ограничениях; семейство строк с точным английским оригиналом.",
+      "src_hash": "016f7cca2ebdda92",
+      "status": "reviewed",
+      "evidence": "live-map; observed UI family / exact English match",
+      "verification": "Russian rendering checked in GW2 on 2026-10-22 after patch v2 install; matched by exact English text and UI context, not a new on-screen ID capture. See docs/verification-2026-10-22.md."
+    },
+    {
+      "id": 296234,
+      "en": "Select a Filter...",
+      "ru": "Фильтр:",
+      "context": "Панель выбора фильтра в хранилище билдов",
+      "src_hash": "bbe95b8ffc5e95c9",
+      "status": "reviewed",
+      "evidence": "onscreen-id",
+      "verification": "Russian rendering checked in GW2 on 2026-10-22 after patch v2 install; matched by exact English text and UI context, not a new on-screen ID capture. See docs/verification-2026-10-22.md.",
+      "notes": "Краткая подпись: прежнее «Выбрать фильтр...» обрезалось на экране."
+    },
+    {
+      "id": 894810,
+      "en": "%str1% Build",
+      "ru": "Билд: %str1%",
+      "context": "Герой → Билд: шаблоны, хранилище, контекстные команды и сообщения об ограничениях; семейство строк с точным английским оригиналом.",
+      "src_hash": "6bcb06f531e5f738",
+      "status": "reviewed",
+      "evidence": "live-map; observed UI family / exact English match",
+      "verification": "Russian rendering checked in GW2 on 2026-10-22 after patch v2 install; matched by exact English text and UI context, not a new on-screen ID capture. See docs/verification-2026-10-22.md."
+    },
+    {
+      "id": 907034,
+      "en": "Clear Build Template",
+      "ru": "Очистить шаблон билда",
+      "context": "Герой → Билд: шаблоны, хранилище, контекстные команды и сообщения об ограничениях; семейство строк с точным английским оригиналом.",
+      "src_hash": "57bbddafbbb1bcab",
+      "status": "reviewed",
+      "evidence": "live-map; observed UI family / exact English match",
+      "verification": "Russian rendering checked in GW2 on 2026-10-22 after patch v2 install; matched by exact English text and UI context, not a new on-screen ID capture. See docs/verification-2026-10-22.md."
+    },
+    {
+      "id": 907296,
+      "en": "Build Template %num1%",
+      "ru": "Шаблон билда %num1%",
+      "context": "Герой → Билд: шаблоны, хранилище, контекстные команды и сообщения об ограничениях; семейство строк с точным английским оригиналом.",
+      "src_hash": "f4aed5d788248081",
+      "status": "reviewed",
+      "evidence": "live-map; observed UI family / exact English match",
+      "verification": "Editor-reviewed; screen verification pending for this revision."
+    },
+    {
+      "id": 907706,
+      "en": "Paste Build Template",
+      "ru": "Вставить шаблон билда",
+      "context": "Герой → Билд: шаблоны, хранилище, контекстные команды и сообщения об ограничениях; семейство строк с точным английским оригиналом.",
+      "src_hash": "6815389ce53e4bdc",
+      "status": "reviewed",
+      "evidence": "live-map; observed UI family / exact English match",
+      "verification": "Russian rendering checked in GW2 on 2026-10-22 after patch v2 install; matched by exact English text and UI context, not a new on-screen ID capture. See docs/verification-2026-10-22.md."
+    },
+    {
+      "id": 908379,
+      "en": "Copy Build Template",
+      "ru": "Скопировать шаблон билда",
+      "context": "Герой → Билд: шаблоны, хранилище, контекстные команды и сообщения об ограничениях; семейство строк с точным английским оригиналом.",
+      "src_hash": "876f4e169f6745ef",
+      "status": "reviewed",
+      "evidence": "live-map; observed UI family / exact English match",
+      "verification": "Russian rendering checked in GW2 on 2026-10-22 after patch v2 install; matched by exact English text and UI context, not a new on-screen ID capture. See docs/verification-2026-10-22.md."
+    },
+    {
+      "id": 908768,
+      "en": "Inspect",
+      "ru": "Просмотреть",
+      "context": "Герой → Билд: шаблоны, хранилище, контекстные команды и сообщения об ограничениях; семейство строк с точным английским оригиналом.",
+      "src_hash": "94617c3e19197f09",
+      "status": "reviewed",
+      "evidence": "live-map; observed UI family / exact English match",
+      "verification": "Russian rendering checked in GW2 on 2026-10-22 after patch v2 install; matched by exact English text and UI context, not a new on-screen ID capture. See docs/verification-2026-10-22.md."
+    },
+    {
+      "id": 913373,
+      "en": "Apply to Build Template",
+      "ru": "Применить к шаблону билда",
+      "context": "Герой → Билд: шаблоны, хранилище, контекстные команды и сообщения об ограничениях; семейство строк с точным английским оригиналом.",
+      "src_hash": "405efd36d4187729",
+      "status": "reviewed",
+      "evidence": "seed-collector; observed UI family / exact English match",
+      "verification": "Editor-reviewed; screen verification pending for this revision."
+    },
+    {
+      "id": 919600,
+      "en": "Currently Active Build Template",
+      "ru": "Активный шаблон билда",
+      "context": "Герой → Билд: шаблоны, хранилище, контекстные команды и сообщения об ограничениях; семейство строк с точным английским оригиналом.",
+      "src_hash": "ae0438673478f818",
+      "status": "reviewed",
+      "evidence": "seed-collector; observed UI family / exact English match",
+      "verification": "Editor-reviewed; screen verification pending for this revision."
+    },
+    {
+      "id": 923190,
+      "en": "Build Template is incompatible with your currently equipped weapon. Weapon skills are temporarily unavailable while this build is active.",
+      "ru": "Этот шаблон билда несовместим с используемым оружием. Пока он активен, умения оружия временно недоступны.",
+      "context": "Герой → Билд: шаблоны, хранилище, контекстные команды и сообщения об ограничениях; семейство строк с точным английским оригиналом.",
+      "src_hash": "a5bf68115528752d",
+      "status": "reviewed",
+      "evidence": "seed-collector; observed UI family / exact English match",
+      "verification": "Editor-reviewed; screen verification pending for this revision."
+    },
+    {
+      "id": 923487,
+      "en": "Build Template contains untrained revenant legends.",
+      "ru": "Шаблон билда содержит неизученные легенды ревенанта.",
+      "context": "Герой → Билд: шаблоны, хранилище, контекстные команды и сообщения об ограничениях; семейство строк с точным английским оригиналом.",
+      "src_hash": "00ad22c336b2cf90",
+      "status": "reviewed",
+      "evidence": "seed-collector; observed UI family / exact English match",
+      "verification": "Editor-reviewed; screen verification pending for this revision."
+    },
+    {
+      "id": 924066,
+      "en": "Build Template contains elements requiring Guild Wars 2 content you do not currently own.",
+      "ru": "Некоторые элементы этого шаблона билда требуют контента Guild Wars 2, которого у вас нет.",
+      "context": "Герой → Билд: шаблоны, хранилище, контекстные команды и сообщения об ограничениях; семейство строк с точным английским оригиналом.",
+      "src_hash": "aada356cea2ed92d",
+      "status": "reviewed",
+      "evidence": "seed-collector; observed UI family / exact English match",
+      "verification": "Editor-reviewed; screen verification pending for this revision."
+    },
+    {
+      "id": 924808,
+      "en": "Build Template contains elements that are not available at your current level.",
+      "ru": "Некоторые элементы этого шаблона билда недоступны на вашем уровне.",
+      "context": "Герой → Билд: шаблоны, хранилище, контекстные команды и сообщения об ограничениях; семейство строк с точным английским оригиналом.",
+      "src_hash": "6716e5fb5398fdbd",
+      "status": "reviewed",
+      "evidence": "seed-collector; observed UI family / exact English match",
+      "verification": "Editor-reviewed; screen verification pending for this revision."
+    },
+    {
+      "id": 925052,
+      "en": "Build Template contains skills you have yet to train.",
+      "ru": "Шаблон билда содержит неизученные умения.",
+      "context": "Герой → Билд: шаблоны, хранилище, контекстные команды и сообщения об ограничениях; семейство строк с точным английским оригиналом.",
+      "src_hash": "99b7066ca5eab776",
+      "status": "reviewed",
+      "evidence": "seed-collector; observed UI family / exact English match",
+      "verification": "Editor-reviewed; screen verification pending for this revision."
+    },
+    {
+      "id": 925274,
+      "en": "Build Template contains specializations you have yet to train.",
+      "ru": "Шаблон билда содержит неизученные специализации.",
+      "context": "Герой → Билд: шаблоны, хранилище, контекстные команды и сообщения об ограничениях; семейство строк с точным английским оригиналом.",
+      "src_hash": "82a6a51a2176978f",
+      "status": "reviewed",
+      "evidence": "seed-collector; observed UI family / exact English match",
+      "verification": "Editor-reviewed; screen verification pending for this revision."
+    },
+    {
+      "id": 925332,
+      "en": "Build Template contains pets that you have not tamed.",
+      "ru": "Шаблон билда содержит питомцев, которых вы ещё не приручили.",
+      "context": "Герой → Билд: шаблоны, хранилище, контекстные команды и сообщения об ограничениях; семейство строк с точным английским оригиналом.",
+      "src_hash": "5e64e193de6014e2",
+      "status": "reviewed",
+      "evidence": "seed-collector; observed UI family / exact English match",
+      "verification": "Editor-reviewed; screen verification pending for this revision."
+    },
+    {
+      "id": 925931,
+      "en": "Build Template contains elements that cannot be used in the current game mode.",
+      "ru": "Некоторые элементы этого шаблона билда недоступны в текущем режиме игры.",
+      "context": "Герой → Билд: шаблоны, хранилище, контекстные команды и сообщения об ограничениях; семейство строк с точным английским оригиналом.",
+      "src_hash": "2c8fffc6e84dd775",
+      "status": "reviewed",
+      "evidence": "seed-collector; observed UI family / exact English match",
+      "verification": "Editor-reviewed; screen verification pending for this revision."
+    },
+    {
+      "id": 926222,
+      "en": "Build Template contains traits you have yet to train.",
+      "ru": "Шаблон билда содержит неизученные черты.",
+      "context": "Герой → Билд: шаблоны, хранилище, контекстные команды и сообщения об ограничениях; семейство строк с точным английским оригиналом.",
+      "src_hash": "bab465a3c86964a8",
+      "status": "reviewed",
+      "evidence": "seed-collector; observed UI family / exact English match",
+      "verification": "Editor-reviewed; screen verification pending for this revision."
+    },
+    {
+      "id": 926472,
+      "en": "Build Template is invalid.",
+      "ru": "Некорректный шаблон билда.",
+      "context": "Герой → Билд: шаблоны, хранилище, контекстные команды и сообщения об ограничениях; семейство строк с точным английским оригиналом.",
+      "src_hash": "f85eb1f420ae2d0a",
+      "status": "reviewed",
+      "evidence": "seed-collector; observed UI family / exact English match",
+      "verification": "Editor-reviewed; screen verification pending for this revision."
+    },
+    {
+      "id": 926608,
+      "en": "Build Template contains elements that can't be used by your character's race.",
+      "ru": "Некоторые элементы этого шаблона билда недоступны персонажам вашей расы.",
+      "context": "Герой → Билд: шаблоны, хранилище, контекстные команды и сообщения об ограничениях; семейство строк с точным английским оригиналом.",
+      "src_hash": "9f5630902b8e77c6",
+      "status": "reviewed",
+      "evidence": "seed-collector; observed UI family / exact English match",
+      "verification": "Editor-reviewed; screen verification pending for this revision."
+    },
+    {
+      "id": 926680,
+      "en": "Build Template is incompatible with your current profession.",
+      "ru": "Этот шаблон билда несовместим с вашей профессией.",
+      "context": "Герой → Билд: шаблоны, хранилище, контекстные команды и сообщения об ограничениях; семейство строк с точным английским оригиналом.",
+      "src_hash": "785a0a6de7f9f325",
+      "status": "reviewed",
+      "evidence": "seed-collector; observed UI family / exact English match",
+      "verification": "Editor-reviewed; screen verification pending for this revision."
+    },
+    {
+      "id": 930327,
+      "en": "Currently unable to change Build Template.",
+      "ru": "Сейчас нельзя сменить шаблон билда.",
+      "context": "Герой → Билд: шаблоны, хранилище, контекстные команды и сообщения об ограничениях; семейство строк с точным английским оригиналом.",
+      "src_hash": "ff8745e94b18d78b",
+      "status": "reviewed",
+      "evidence": "seed-collector; observed UI family / exact English match",
+      "verification": "Editor-reviewed; screen verification pending for this revision."
+    },
+    {
+      "id": 931005,
+      "en": "Store Active Build Template",
+      "ru": "Сохранить активный шаблон билда",
+      "context": "Герой → Билд: шаблоны, хранилище, контекстные команды и сообщения об ограничениях; семейство строк с точным английским оригиналом.",
+      "src_hash": "c08314b0b0404eb0",
+      "status": "reviewed",
+      "evidence": "seed-collector; observed UI family / exact English match",
+      "verification": "Editor-reviewed; screen verification pending for this revision."
+    },
+    {
+      "id": 931103,
+      "en": "Paste Build Template",
+      "ru": "Вставить шаблон билда",
+      "context": "Герой → Билд: шаблоны, хранилище, контекстные команды и сообщения об ограничениях; семейство строк с точным английским оригиналом.",
+      "src_hash": "6815389ce53e4bdc",
+      "status": "reviewed",
+      "evidence": "seed-collector; observed UI family / exact English match",
+      "verification": "Editor-reviewed; screen verification pending for this revision."
+    },
+    {
+      "id": 931738,
+      "en": "Build Storage",
+      "ru": "Хранилище билдов",
+      "context": "Герой → Билд: шаблоны, хранилище, контекстные команды и сообщения об ограничениях; семейство строк с точным английским оригиналом.",
+      "src_hash": "88c5809311e57795",
+      "status": "reviewed",
+      "evidence": "live-map; observed UI family / exact English match",
+      "verification": "Editor-reviewed; screen verification pending for this revision."
+    },
+    {
+      "id": 938382,
+      "en": "Swap to Build Template 1.",
+      "ru": "Переключиться на шаблон билда 1.",
+      "context": "Герой → Билд: шаблоны, хранилище, контекстные команды и сообщения об ограничениях; семейство строк с точным английским оригиналом.",
+      "src_hash": "ac43c521b29ef1a7",
+      "status": "reviewed",
+      "evidence": "seed-collector; observed UI family / exact English match",
+      "verification": "Editor-reviewed; screen verification pending for this revision."
+    },
+    {
+      "id": 938429,
+      "en": "Build Template 9",
+      "ru": "Шаблон билда 9",
+      "context": "Герой → Билд: шаблоны, хранилище, контекстные команды и сообщения об ограничениях; семейство строк с точным английским оригиналом.",
+      "src_hash": "c338ea815bb36a9e",
+      "status": "reviewed",
+      "evidence": "seed-collector; observed UI family / exact English match",
+      "verification": "Editor-reviewed; screen verification pending for this revision."
+    },
+    {
+      "id": 938490,
+      "en": "Swap to Build Template 5.",
+      "ru": "Переключиться на шаблон билда 5.",
+      "context": "Герой → Билд: шаблоны, хранилище, контекстные команды и сообщения об ограничениях; семейство строк с точным английским оригиналом.",
+      "src_hash": "1015388bf3a7e4a2",
+      "status": "reviewed",
+      "evidence": "seed-collector; observed UI family / exact English match",
+      "verification": "Editor-reviewed; screen verification pending for this revision."
+    },
+    {
+      "id": 938509,
+      "en": "Unlock an additional Build Template tab for this character?",
+      "ru": "Открыть дополнительную вкладку шаблона билда для этого персонажа?",
+      "context": "Герой → Билд: шаблоны, хранилище, контекстные команды и сообщения об ограничениях; семейство строк с точным английским оригиналом.",
+      "src_hash": "1be46f042cbbbac8",
+      "status": "reviewed",
+      "evidence": "seed-collector; observed UI family / exact English match",
+      "verification": "Editor-reviewed; screen verification pending for this revision."
+    },
+    {
+      "id": 938553,
+      "en": "Build Template 4",
+      "ru": "Шаблон билда 4",
+      "context": "Герой → Билд: шаблоны, хранилище, контекстные команды и сообщения об ограничениях; семейство строк с точным английским оригиналом.",
+      "src_hash": "40247f81efd6c48b",
+      "status": "reviewed",
+      "evidence": "seed-collector; observed UI family / exact English match",
+      "verification": "Editor-reviewed; screen verification pending for this revision."
+    },
+    {
+      "id": 938726,
+      "en": "Add an extra Build Template tab to a character.",
+      "ru": "Добавляет персонажу вкладку шаблона билда.",
+      "context": "Герой → Билд: шаблоны, хранилище, контекстные команды и сообщения об ограничениях; семейство строк с точным английским оригиналом.",
+      "src_hash": "8388ba11a23d7738",
+      "status": "reviewed",
+      "evidence": "seed-collector; observed UI family / exact English match",
+      "verification": "Editor-reviewed; screen verification pending for this revision."
+    },
+    {
+      "id": 938794,
+      "en": "Swap to Build Template 4.",
+      "ru": "Переключиться на шаблон билда 4.",
+      "context": "Герой → Билд: шаблоны, хранилище, контекстные команды и сообщения об ограничениях; семейство строк с точным английским оригиналом.",
+      "src_hash": "d43249d6a6db037c",
+      "status": "reviewed",
+      "evidence": "seed-collector; observed UI family / exact English match",
+      "verification": "Editor-reviewed; screen verification pending for this revision."
+    },
+    {
+      "id": 938849,
+      "en": "Build Template 5",
+      "ru": "Шаблон билда 5",
+      "context": "Герой → Билд: шаблоны, хранилище, контекстные команды и сообщения об ограничениях; семейство строк с точным английским оригиналом.",
+      "src_hash": "5d1e86abc2db940d",
+      "status": "reviewed",
+      "evidence": "seed-collector; observed UI family / exact English match",
+      "verification": "Editor-reviewed; screen verification pending for this revision."
+    },
+    {
+      "id": 938902,
+      "en": "Build Template 10",
+      "ru": "Шаблон билда 10",
+      "context": "Герой → Билд: шаблоны, хранилище, контекстные команды и сообщения об ограничениях; семейство строк с точным английским оригиналом.",
+      "src_hash": "89c332c74c4bfd9f",
+      "status": "reviewed",
+      "evidence": "seed-collector; observed UI family / exact English match",
+      "verification": "Editor-reviewed; screen verification pending for this revision."
+    },
+    {
+      "id": 938980,
+      "en": "No additional Build Template tabs are available to purchase. Thank you for your support of Guild Wars 2!",
+      "ru": "Все дополнительные вкладки шаблонов билдов уже доступны. Спасибо за поддержку Guild Wars 2!",
+      "context": "Герой → Билд: шаблоны, хранилище, контекстные команды и сообщения об ограничениях; семейство строк с точным английским оригиналом.",
+      "src_hash": "a0532cfaa14bc86e",
+      "status": "reviewed",
+      "evidence": "seed-collector; observed UI family / exact English match",
+      "verification": "Editor-reviewed; screen verification pending for this revision."
+    },
+    {
+      "id": 939349,
+      "en": "Swap to Build Template 2.",
+      "ru": "Переключиться на шаблон билда 2.",
+      "context": "Герой → Билд: шаблоны, хранилище, контекстные команды и сообщения об ограничениях; семейство строк с точным английским оригиналом.",
+      "src_hash": "30a257ceb7f70c39",
+      "status": "reviewed",
+      "evidence": "seed-collector; observed UI family / exact English match",
+      "verification": "Editor-reviewed; screen verification pending for this revision."
+    },
+    {
+      "id": 939385,
+      "en": "Swap to Build Template 9.",
+      "ru": "Переключиться на шаблон билда 9.",
+      "context": "Герой → Билд: шаблоны, хранилище, контекстные команды и сообщения об ограничениях; семейство строк с точным английским оригиналом.",
+      "src_hash": "e8821a1c4de6fbb7",
+      "status": "reviewed",
+      "evidence": "seed-collector; observed UI family / exact English match",
+      "verification": "Editor-reviewed; screen verification pending for this revision."
+    },
+    {
+      "id": 939733,
+      "en": "Build Template 7",
+      "ru": "Шаблон билда 7",
+      "context": "Герой → Билд: шаблоны, хранилище, контекстные команды и сообщения об ограничениях; семейство строк с точным английским оригиналом.",
+      "src_hash": "266bf7d1aee55560",
+      "status": "reviewed",
+      "evidence": "seed-collector; observed UI family / exact English match",
+      "verification": "Editor-reviewed; screen verification pending for this revision."
+    },
+    {
+      "id": 939783,
+      "en": "Add more Build Template tabs to your characters!",
+      "ru": "Добавьте своим персонажам новые вкладки шаблонов билдов!",
+      "context": "Герой → Билд: шаблоны, хранилище, контекстные команды и сообщения об ограничениях; семейство строк с точным английским оригиналом.",
+      "src_hash": "8d0453bad0d930fd",
+      "status": "reviewed",
+      "evidence": "seed-collector; observed UI family / exact English match",
+      "verification": "Editor-reviewed; screen verification pending for this revision."
+    },
+    {
+      "id": 939785,
+      "en": "Build Template 8",
+      "ru": "Шаблон билда 8",
+      "context": "Герой → Билд: шаблоны, хранилище, контекстные команды и сообщения об ограничениях; семейство строк с точным английским оригиналом.",
+      "src_hash": "bc84c42b0af694cb",
+      "status": "reviewed",
+      "evidence": "seed-collector; observed UI family / exact English match",
+      "verification": "Editor-reviewed; screen verification pending for this revision."
+    },
+    {
+      "id": 940076,
+      "en": "Swap to Build Template 7.",
+      "ru": "Переключиться на шаблон билда 7.",
+      "context": "Герой → Билд: шаблоны, хранилище, контекстные команды и сообщения об ограничениях; семейство строк с точным английским оригиналом.",
+      "src_hash": "5336ee54ff732346",
+      "status": "reviewed",
+      "evidence": "seed-collector; observed UI family / exact English match",
+      "verification": "Editor-reviewed; screen verification pending for this revision."
+    },
+    {
+      "id": 940092,
+      "en": "Build Template 3",
+      "ru": "Шаблон билда 3",
+      "context": "Герой → Билд: шаблоны, хранилище, контекстные команды и сообщения об ограничениях; семейство строк с точным английским оригиналом.",
+      "src_hash": "5d4f54833e887a26",
+      "status": "reviewed",
+      "evidence": "seed-collector; observed UI family / exact English match",
+      "verification": "Editor-reviewed; screen verification pending for this revision."
+    },
+    {
+      "id": 940163,
+      "en": "Swap to Build Template 6.",
+      "ru": "Переключиться на шаблон билда 6.",
+      "context": "Герой → Билд: шаблоны, хранилище, контекстные команды и сообщения об ограничениях; семейство строк с точным английским оригиналом.",
+      "src_hash": "da52b7226ef370e1",
+      "status": "reviewed",
+      "evidence": "seed-collector; observed UI family / exact English match",
+      "verification": "Editor-reviewed; screen verification pending for this revision."
+    },
+    {
+      "id": 940241,
+      "en": "Build Template 1",
+      "ru": "Шаблон билда 1",
+      "context": "Герой → Билд: шаблоны, хранилище, контекстные команды и сообщения об ограничениях; семейство строк с точным английским оригиналом.",
+      "src_hash": "4cbe2f6e81a9255f",
+      "status": "reviewed",
+      "evidence": "seed-collector; observed UI family / exact English match",
+      "verification": "Editor-reviewed; screen verification pending for this revision."
+    },
+    {
+      "id": 940270,
+      "en": "Swap to Build Template 8.",
+      "ru": "Переключиться на шаблон билда 8.",
+      "context": "Герой → Билд: шаблоны, хранилище, контекстные команды и сообщения об ограничениях; семейство строк с точным английским оригиналом.",
+      "src_hash": "5a3345d456a1604e",
+      "status": "reviewed",
+      "evidence": "seed-collector; observed UI family / exact English match",
+      "verification": "Editor-reviewed; screen verification pending for this revision."
+    },
+    {
+      "id": 940287,
+      "en": "Swap to Build Template 3.",
+      "ru": "Переключиться на шаблон билда 3.",
+      "context": "Герой → Билд: шаблоны, хранилище, контекстные команды и сообщения об ограничениях; семейство строк с точным английским оригиналом.",
+      "src_hash": "157f8e4c28f44cb5",
+      "status": "reviewed",
+      "evidence": "seed-collector; observed UI family / exact English match",
+      "verification": "Editor-reviewed; screen verification pending for this revision."
+    },
+    {
+      "id": 940304,
+      "en": "Build Template 6",
+      "ru": "Шаблон билда 6",
+      "context": "Герой → Билд: шаблоны, хранилище, контекстные команды и сообщения об ограничениях; семейство строк с точным английским оригиналом.",
+      "src_hash": "182cd8bc3c70c778",
+      "status": "reviewed",
+      "evidence": "seed-collector; observed UI family / exact English match",
+      "verification": "Editor-reviewed; screen verification pending for this revision."
+    },
+    {
+      "id": 940307,
+      "en": "Build Template 2",
+      "ru": "Шаблон билда 2",
+      "context": "Герой → Билд: шаблоны, хранилище, контекстные команды и сообщения об ограничениях; семейство строк с точным английским оригиналом.",
+      "src_hash": "723f04a8ce89c34c",
+      "status": "reviewed",
+      "evidence": "seed-collector; observed UI family / exact English match",
+      "verification": "Editor-reviewed; screen verification pending for this revision."
+    },
+    {
+      "id": 940308,
+      "en": "Swap to Build Template 10.",
+      "ru": "Переключиться на шаблон билда 10.",
+      "context": "Герой → Билд: шаблоны, хранилище, контекстные команды и сообщения об ограничениях; семейство строк с точным английским оригиналом.",
+      "src_hash": "1843478b858d5327",
+      "status": "reviewed",
+      "evidence": "seed-collector; observed UI family / exact English match",
+      "verification": "Editor-reviewed; screen verification pending for this revision."
+    },
+    {
+      "id": 940940,
+      "en": "Store Active Build Template",
+      "ru": "Сохранить активный шаблон билда",
+      "context": "Герой → Билд: шаблоны, хранилище, контекстные команды и сообщения об ограничениях; семейство строк с точным английским оригиналом.",
+      "src_hash": "c08314b0b0404eb0",
+      "status": "reviewed",
+      "evidence": "seed-collector; observed UI family / exact English match",
+      "verification": "Editor-reviewed; screen verification pending for this revision."
+    },
+    {
+      "id": 940979,
+      "en": "Build Template Added to Build Storage",
+      "ru": "Шаблон добавлен в хранилище билдов",
+      "context": "Герой → Билд: шаблоны, хранилище, контекстные команды и сообщения об ограничениях; семейство строк с точным английским оригиналом.",
+      "src_hash": "6594cbe088ec8fd2",
+      "status": "reviewed",
+      "evidence": "seed-collector; observed UI family / exact English match",
+      "verification": "Editor-reviewed; screen verification pending for this revision."
+    },
+    {
+      "id": 941263,
+      "en": "Store Build Template",
+      "ru": "Сохранить шаблон билда",
+      "context": "Герой → Билд: шаблоны, хранилище, контекстные команды и сообщения об ограничениях; семейство строк с точным английским оригиналом.",
+      "src_hash": "8cd21b31dc508c1c",
+      "status": "reviewed",
+      "evidence": "live-map; observed UI family / exact English match",
+      "verification": "Russian rendering checked in GW2 on 2026-10-22 after patch v2 install; matched by exact English text and UI context, not a new on-screen ID capture. See docs/verification-2026-10-22.md."
+    },
+    {
+      "id": 942487,
+      "en": "Click to unlock this template tab using gems.",
+      "ru": "Нажмите, чтобы открыть эту вкладку шаблона за самоцветы.",
+      "context": "Герой → Билд: шаблоны, хранилище, контекстные команды и сообщения об ограничениях; семейство строк с точным английским оригиналом.",
+      "src_hash": "6555153a381d67e9",
+      "status": "reviewed",
+      "evidence": "live-map; observed UI family / exact English match",
+      "verification": "Editor-reviewed; screen verification pending for this revision."
+    },
+    {
+      "id": 945742,
+      "en": "Activating Build Template %str1%",
+      "ru": "Активация шаблона билда %str1%",
+      "context": "Герой → Билд: шаблоны, хранилище, контекстные команды и сообщения об ограничениях; семейство строк с точным английским оригиналом.",
+      "src_hash": "0961cfcb3393a994",
+      "status": "reviewed",
+      "evidence": "seed-collector; observed UI family / exact English match",
+      "verification": "Editor-reviewed; screen verification pending for this revision."
+    },
+    {
+      "id": 946003,
+      "en": "Stored in Account Build Storage",
+      "ru": "Сохранено в хранилище билдов учётной записи",
+      "context": "Герой → Билд: шаблоны, хранилище, контекстные команды и сообщения об ограничениях; семейство строк с точным английским оригиналом.",
+      "src_hash": "db686414c0e43df0",
+      "status": "reviewed",
+      "evidence": "live-map; observed UI family / exact English match",
+      "verification": "Editor-reviewed; screen verification pending for this revision."
+    },
+    {
+      "id": 946649,
+      "en": "Click to Store Build Template",
+      "ru": "Нажмите, чтобы сохранить шаблон билда",
+      "context": "Герой → Билд: шаблоны, хранилище, контекстные команды и сообщения об ограничениях; семейство строк с точным английским оригиналом.",
+      "src_hash": "97a3741406f94fd1",
+      "status": "reviewed",
+      "evidence": "seed-collector; observed UI family / exact English match",
+      "verification": "Editor-reviewed; screen verification pending for this revision."
+    },
+    {
+      "id": 946771,
+      "en": "Build Template %num1% (Inactive)",
+      "ru": "Шаблон билда %num1% (неактивен)",
+      "context": "Герой → Билд: шаблоны, хранилище, контекстные команды и сообщения об ограничениях; семейство строк с точным английским оригиналом.",
+      "src_hash": "8a4f922dce687162",
+      "status": "reviewed",
+      "evidence": "seed-collector; observed UI family / exact English match",
+      "verification": "Editor-reviewed; screen verification pending for this revision."
+    },
+    {
+      "id": 947318,
+      "en": "Click to add the currently displayed Build Template to account Build Storage. This space is shared by all characters.",
+      "ru": "Нажмите, чтобы добавить этот шаблон в хранилище билдов учётной записи. Оно доступно всем вашим персонажам.",
+      "context": "Герой → Билд: шаблоны, хранилище, контекстные команды и сообщения об ограничениях; семейство строк с точным английским оригиналом.",
+      "src_hash": "6a7a3a439a4b7310",
+      "status": "reviewed",
+      "evidence": "seed-collector; observed UI family / exact English match",
+      "verification": "Editor-reviewed; screen verification pending for this revision."
+    },
+    {
+      "id": 947726,
+      "en": "Build Template %num1% (Active)",
+      "ru": "Шаблон билда %num1% (активен)",
+      "context": "Герой → Билд: шаблоны, хранилище, контекстные команды и сообщения об ограничениях; семейство строк с точным английским оригиналом.",
+      "src_hash": "236f48e9051fe2af",
+      "status": "reviewed",
+      "evidence": "live-map; observed UI family / exact English match",
+      "verification": "Editor-reviewed; screen verification pending for this revision."
+    },
+    {
+      "id": 948250,
+      "en": "Build Templates",
+      "ru": "Шаблоны билдов",
+      "context": "Герой → Билд: шаблоны, хранилище, контекстные команды и сообщения об ограничениях; семейство строк с точным английским оригиналом.",
+      "src_hash": "693c9dd306659e58",
+      "status": "reviewed",
+      "evidence": "seed-collector; observed UI family / exact English match",
+      "verification": "Editor-reviewed; screen verification pending for this revision."
+    },
+    {
+      "id": 948367,
+      "en": "Build Templates are accessed from the Build tab of your Hero panel [lbracket]%str1%[rbracket]. They are used to quickly switch between different skills, specializations, and trait selections. You can share builds with others in chat.",
+      "ru": "Шаблоны билдов находятся на вкладке «Билд» окна героя [lbracket]%str1%[rbracket]. Они позволяют быстро переключать наборы умений, специализаций и черт. Билдами можно делиться в чате.",
+      "context": "Герой → Билд: шаблоны, хранилище, контекстные команды и сообщения об ограничениях; семейство строк с точным английским оригиналом.",
+      "src_hash": "99ee03062fc44a6d",
+      "status": "reviewed",
+      "evidence": "seed-collector; observed UI family / exact English match",
+      "verification": "Editor-reviewed; screen verification pending for this revision."
+    },
+    {
+      "id": 948536,
+      "en": "Click to unlock Build Storage Spaces using gems.",
+      "ru": "Нажмите, чтобы открыть новые ячейки хранилища билдов за самоцветы.",
+      "context": "Герой → Билд: шаблоны, хранилище, контекстные команды и сообщения об ограничениях; семейство строк с точным английским оригиналом.",
+      "src_hash": "330a17e3261d6247",
+      "status": "reviewed",
+      "evidence": "live-map; observed UI family / exact English match",
+      "verification": "Editor-reviewed; screen verification pending for this revision."
+    },
+    {
+      "id": 948838,
+      "en": "Right-click for more options.",
+      "ru": "Щёлкните правой кнопкой мыши, чтобы открыть меню.",
+      "context": "Герой → Билд: шаблоны, хранилище, контекстные команды и сообщения об ограничениях; семейство строк с точным английским оригиналом.",
+      "src_hash": "961d9b6d2fe610c4",
+      "status": "reviewed",
+      "evidence": "live-map; observed UI family / exact English match",
+      "verification": "Editor-reviewed; screen verification pending for this revision."
+    },
+    {
+      "id": 949410,
+      "en": "Unnamed Template",
+      "ru": "Шаблон без названия",
+      "context": "Герой → Билд: шаблоны, хранилище, контекстные команды и сообщения об ограничениях; семейство строк с точным английским оригиналом.",
+      "src_hash": "a049b97015098877",
+      "status": "reviewed",
+      "evidence": "live-map; observed UI family / exact English match",
+      "verification": "Editor-reviewed; screen verification pending for this revision."
+    },
+    {
+      "id": 949956,
+      "en": "Activating Template",
+      "ru": "Активация шаблона",
+      "context": "Герой → Билд: шаблоны, хранилище, контекстные команды и сообщения об ограничениях; семейство строк с точным английским оригиналом.",
+      "src_hash": "94de0a30d3ce8dc5",
+      "status": "reviewed",
+      "evidence": "live-map; observed UI family / exact English match",
+      "verification": "Editor-reviewed; screen verification pending for this revision."
+    },
+    {
+      "id": 950299,
+      "en": "This build does not match the current character's profession. Store this Build Template in Build Storage to use it later.",
+      "ru": "Этот билд предназначен для другой профессии. Сохраните его в хранилище билдов, чтобы использовать позже.",
+      "context": "Герой → Билд: шаблоны, хранилище, контекстные команды и сообщения об ограничениях; семейство строк с точным английским оригиналом.",
+      "src_hash": "c78f132e777210c6",
+      "status": "reviewed",
+      "evidence": "seed-collector; observed UI family / exact English match",
+      "verification": "Editor-reviewed; screen verification pending for this revision."
+    },
+    {
+      "id": 962055,
+      "en": "Revert all the recent changes you made while viewing this Build Template. This feature will be temporarily locked if you enter combat while editing a Build Template.",
+      "ru": "Отменить все изменения, внесённые при просмотре этого шаблона билда. Если во время редактирования начнётся бой, эта функция будет временно заблокирована.",
+      "context": "Герой → Билд: шаблоны, хранилище, контекстные команды и сообщения об ограничениях; семейство строк с точным английским оригиналом.",
+      "src_hash": "7c01bce4084fc3fe",
+      "status": "reviewed",
+      "evidence": "live-map; observed UI family / exact English match",
+      "verification": "Editor-reviewed; screen verification pending for this revision."
+    }
+  ]
+}

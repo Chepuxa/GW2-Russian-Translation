@@ -1,0 +1,98 @@
+{
+  "$schema": "../../../schema/catalog.schema.json",
+  "format": 1,
+  "language": "ru",
+  "section": "hero/fashion",
+  "strings": [
+    {
+      "id": 280325,
+      "en": "Open Gem Store",
+      "ru": "Открыть магазин самоцветов",
+      "context": "Кнопка магазина обликов; никаких покупок при проверке",
+      "src_hash": "b9dfd6b2ee09ce3c",
+      "status": "reviewed",
+      "evidence": "onscreen-id",
+      "verification": "First contextual review, 2026-10-22; representative screens checked in-game."
+    },
+    {
+      "id": 296315,
+      "en": "Collection",
+      "ru": "Коллекция",
+      "context": "Коллекция доступных обликов в разделе передвижения",
+      "src_hash": "029c127bd7198081",
+      "status": "reviewed",
+      "evidence": "onscreen-id",
+      "verification": "First contextual review, 2026-10-22; representative screens checked in-game."
+    },
+    {
+      "id": 1071073,
+      "en": "Randomize %str1%",
+      "ru": "Случайный выбор: %str1%",
+      "context": "Общий шаблон флажка случайного выбора; подстановка вида облика сохраняется",
+      "src_hash": "30215c69c1f2848f",
+      "status": "reviewed",
+      "evidence": "onscreen-id",
+      "verification": "First contextual review, 2026-10-22; representative screens checked in-game."
+    },
+    {
+      "id": 1162632,
+      "en": "Tools",
+      "ru": "Инструменты",
+      "context": "Главное меню облика: внешний вид инструментов",
+      "src_hash": "b9f5831e2730ccbd",
+      "status": "reviewed",
+      "evidence": "onscreen-id",
+      "verification": "First contextual review, 2026-10-22; representative screens checked in-game."
+    },
+    {
+      "id": 1162734,
+      "en": "Travel",
+      "ru": "Передвижение",
+      "context": "Главное меню облика: ездовые животные, планер и лодка",
+      "src_hash": "185b96b86b3e4602",
+      "status": "reviewed",
+      "evidence": "onscreen-id",
+      "verification": "First contextual review, 2026-10-22; representative screens checked in-game."
+    },
+    {
+      "id": 1163710,
+      "en": "Wardrobe",
+      "ru": "Гардероб",
+      "context": "Главное меню раздела внешнего вида",
+      "src_hash": "1452aed650ada383",
+      "status": "reviewed",
+      "evidence": "onscreen-id",
+      "verification": "First contextual review, 2026-10-22; representative screens checked in-game."
+    },
+    {
+      "id": 1163964,
+      "en": "Fashion",
+      "ru": "Облик",
+      "context": "Основной раздел внешнего вида персонажа",
+      "src_hash": "84cd785cf6feb05b",
+      "status": "reviewed",
+      "evidence": "onscreen-id",
+      "verification": "First contextual review, 2026-10-22; representative screens checked in-game."
+    },
+    {
+      "id": 1164166,
+      "en": "Fashion:",
+      "ru": "Облик:",
+      "context": "Путь навигации внутри раздела внешнего вида",
+      "src_hash": "6ef32fdf4b004d7d",
+      "status": "reviewed",
+      "evidence": "onscreen-id",
+      "verification": "First contextual review, 2026-10-22; representative screens checked in-game."
+    },
+    {
+      "id": 1183605,
+      "en": "Current Fashion",
+      "ru": "Текущий облик",
+      "context": "Название активного набора внешнего вида",
+      "src_hash": "9d3494083b0e4ac8",
+      "status": "reviewed",
+      "evidence": "onscreen-id",
+      "verification": "First contextual review, 2026-10-22; representative screens checked in-game."
+    }
+  ]
+}

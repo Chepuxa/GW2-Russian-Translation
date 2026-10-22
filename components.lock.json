@@ -1,0 +1,907 @@
+{
+  "format": 1,
+  "project_version": "0.6.0-local",
+  "module_version": "0.10.0-ru-local6",
+  "components": [
+    {
+      "name": "Nexus",
+      "version": "2026.2.17.1210",
+      "repository": "https://github.com/RaidcoreGG/Nexus",
+      "binary": "game/d3d11.dll",
+      "sha256": "8b123807fc2ccc090eb13286d5df2628ba78f7b9980886c1ab3881e919ca2992"
+    },
+    {
+      "name": "GlyphCore",
+      "version": "0.1.29",
+      "repository": "https://github.com/nourlie/GlyphCore",
+      "binary": "game/version.dll",
+      "sha256": "0a883316ed0ea396e1e5cde32e395063730c1cf9d5e70d9c41cb025dda840678"
+    },
+    {
+      "name": "Text Translator",
+      "version": "0.2.0",
+      "repository": "https://github.com/ideka/text-translator-public",
+      "binary": "game/addons/text_translator.dll",
+      "sha256": "daccabe02db368d59374d2a88f8d58f4d9b6b8141091cde8aa800819573c07dd"
+    },
+    {
+      "name": "Local Translator",
+      "version": "0.10.0",
+      "repository": "https://github.com/NikeGipple/gw2-nexus-local-translator",
+      "commit": "cfed4621c79322dec68a9cc0b7848a41060e4c07",
+      "source": "components/local-translator/source",
+      "license": "MIT"
+    },
+    {
+      "name": "OPUS-MT EN-RU INT8",
+      "repository": "https://huggingface.co/rohanksaxena/opus-mt-en-ru",
+      "revision": "3e60bacffde1e346edc65b9d057be7d441872779",
+      "license": "CC BY 4.0"
+    },
+    {
+      "name": "Alegreya Sans Medium",
+      "source": "assets/fonts/AlegreyaSans-Medium.ttf",
+      "license": "OFL-1.1"
+    },
+    {
+      "name": "GitHub CLI",
+      "version": "2.103.0",
+      "repository": "https://github.com/cli/cli",
+      "license": "MIT",
+      "archive": {
+        "url": "https://github.com/cli/cli/releases/download/v2.103.0/gh_2.103.0_windows_amd64.zip",
+        "sha256": "80c846a5b8432672ca6373b34ce9de998c9686aaa1885c845f2e1ee81f713726",
+        "files": [
+          {
+            "member": "bin/gh.exe",
+            "path": "game/addons/text_translator/modules/local_translator_ru/tools/github/gh.exe",
+            "sha256": "8c090d7cb86e4db3cd8b969f832fe4855c2cf486ffdc35b4d2db77e164e847d1"
+          },
+          {
+            "member": "LICENSE",
+            "path": "game/addons/text_translator/modules/local_translator_ru/tools/github/LICENSE.txt",
+            "sha256": "8999137010582da29456c10e0a628bf3fa7ead05ab3ae5f424ad25cd0dd94574"
+          }
+        ]
+      }
+    }
+  ],
+  "runtime_files": [
+    {
+      "path": "game/addons/text_translator/modules/local_translator_ru/_internal/_asyncio.pyd",
+      "size": 75056,
+      "sha256": "1774c3242c9ad14729d4a9f006368b4f26753bca2831453a455f96d8beacdb40"
+    },
+    {
+      "path": "game/addons/text_translator/modules/local_translator_ru/_internal/_bz2.pyd",
+      "size": 88880,
+      "sha256": "d3830698b0ad3ab1512d42c4dabf07ac4809bf7761fcd3e22518563d32e0b350"
+    },
+    {
+      "path": "game/addons/text_translator/modules/local_translator_ru/_internal/_ctypes.pyd",
+      "size": 131888,
+      "sha256": "441655d1c076bda8b250c0f1360a83fae18ad9cf7901f589d9faf1ae6afb379c"
+    },
+    {
+      "path": "game/addons/text_translator/modules/local_translator_ru/_internal/_decimal.pyd",
+      "size": 263984,
+      "sha256": "1a72e5616729b03ecd0190b2fda0e39807efbccf0598b8db3501c4ed9a98057f"
+    },
+    {
+      "path": "game/addons/text_translator/modules/local_translator_ru/_internal/_hashlib.pyd",
+      "size": 70448,
+      "sha256": "24aa07ac5b77bac70dc9bc8a171e65c529f42ba200f740c9eb0d3256be7ae80c"
+    },
+    {
+      "path": "game/addons/text_translator/modules/local_translator_ru/_internal/_lzma.pyd",
+      "size": 168240,
+      "sha256": "fddfc76d9697476cd226d3c9b2f0f5a97f4b8b0fcb7cca9025534acb1131d86a"
+    },
+    {
+      "path": "game/addons/text_translator/modules/local_translator_ru/_internal/_multiprocessing.pyd",
+      "size": 39728,
+      "sha256": "c91e57c0e3dcb9b6edad2b5d9c0428d72f86033464928b9d0f680b1b7add8efb"
+    },
+    {
+      "path": "game/addons/text_translator/modules/local_translator_ru/_internal/_overlapped.pyd",
+      "size": 59696,
+      "sha256": "b0dfdf90205bcad6b09505da14369c3354a4c6e74311bdbceaabc862dd0eae38"
+    },
+    {
+      "path": "game/addons/text_translator/modules/local_translator_ru/_internal/_queue.pyd",
+      "size": 36144,
+      "sha256": "65b250e9b2ddced8472ffcc5e8323e8d72136680c19fc3948e83815b126926e9"
+    },
+    {
+      "path": "game/addons/text_translator/modules/local_translator_ru/_internal/_socket.pyd",
+      "size": 87344,
+      "sha256": "2e121ae5def1a4e83caa53c8e461767b43ede8bfcf343242f75a12209c0069e5"
+    },
+    {
+      "path": "game/addons/text_translator/modules/local_translator_ru/_internal/_sqlite3.pyd",
+      "size": 127792,
+      "sha256": "041ca88d04f681d611462113138cfae31ce6e9b2f0d5b1a03c452ac13e358fba"
+    },
+    {
+      "path": "game/addons/text_translator/modules/local_translator_ru/_internal/_ssl.pyd",
+      "size": 180528,
+      "sha256": "e44e04cf71ede1c1644adc6dab8dd9c89e0194436aec76302b2fdbfe4fdfcec2"
+    },
+    {
+      "path": "game/addons/text_translator/modules/local_translator_ru/_internal/_uuid.pyd",
+      "size": 29488,
+      "sha256": "942f759559552216c15cc368c5d87e7161cb6d1203f02753aad31028dda55dbc"
+    },
+    {
+      "path": "game/addons/text_translator/modules/local_translator_ru/_internal/_wmi.pyd",
+      "size": 41264,
+      "sha256": "f6999adaf91df470253a96d735f88773c88736025f160b47e4bc5f02ee3bc8ad"
+    },
+    {
+      "path": "game/addons/text_translator/modules/local_translator_ru/_internal/api-ms-win-core-console-l1-1-0.dll",
+      "size": 22872,
+      "sha256": "015bd08815c7b934a8952c3a7578e9ce59f21136e8a880d42bbd414bec2c6058"
+    },
+    {
+      "path": "game/addons/text_translator/modules/local_translator_ru/_internal/api-ms-win-core-datetime-l1-1-0.dll",
+      "size": 22896,
+      "sha256": "5534812cdbdae94ba45cb216e5eb9af686b853948df54365103555abbbaf9d9a"
+    },
+    {
+      "path": "game/addons/text_translator/modules/local_translator_ru/_internal/api-ms-win-core-debug-l1-1-0.dll",
+      "size": 22872,
+      "sha256": "837d2b1b2cd03e03fc6ccb050698b6b5763af17c201304872342a5eae9e0a2d2"
+    },
+    {
+      "path": "game/addons/text_translator/modules/local_translator_ru/_internal/api-ms-win-core-errorhandling-l1-1-0.dll",
+      "size": 22872,
+      "sha256": "de43b165f568c276c00e95acd454e3092f352a18e95874595f4f4658c06d2ec7"
+    },
+    {
+      "path": "game/addons/text_translator/modules/local_translator_ru/_internal/api-ms-win-core-fibers-l1-1-0.dll",
+      "size": 22872,
+      "sha256": "3cebc45bf479ad74cfabf2c6bfd4994d7ad639ed1221025981d19cedf9ce0416"
+    },
+    {
+      "path": "game/addons/text_translator/modules/local_translator_ru/_internal/api-ms-win-core-fibers-l1-1-1.dll",
+      "size": 22872,
+      "sha256": "5ef70308bcca628ce6b0e2856b15b1c7ae340c3f9bbbc4c1071d8c191a34a5c3"
+    },
+    {
+      "path": "game/addons/text_translator/modules/local_translator_ru/_internal/api-ms-win-core-file-l1-1-0.dll",
+      "size": 27008,
+      "sha256": "250ac829f2617bcac1c6e5b8c4f630462e20765863ba573526a3e11bbfb94a9a"
+    },
+    {
+      "path": "game/addons/text_translator/modules/local_translator_ru/_internal/api-ms-win-core-file-l1-2-0.dll",
+      "size": 22888,
+      "sha256": "ae14079a114733f60ce87b92cba42acd8083c2cd67594e53bc37dc0b97a4b465"
+    },
+    {
+      "path": "game/addons/text_translator/modules/local_translator_ru/_internal/api-ms-win-core-file-l2-1-0.dll",
+      "size": 22912,
+      "sha256": "914bf26a298713119477ea0a8e7bd43171b91344ebe24fb47ad77c49686e3d87"
+    },
+    {
+      "path": "game/addons/text_translator/modules/local_translator_ru/_internal/api-ms-win-core-handle-l1-1-0.dll",
+      "size": 22896,
+      "sha256": "ab5489955e371b15f77906c08ec3c7affe2c7a46a08c514ca628768b4478974b"
+    },
+    {
+      "path": "game/addons/text_translator/modules/local_translator_ru/_internal/api-ms-win-core-heap-l1-1-0.dll",
+      "size": 22872,
+      "sha256": "c70f9644d8377fa39c5b71f2e9734c1400d7598904fdeb772e8502099982dcb7"
+    },
+    {
+      "path": "game/addons/text_translator/modules/local_translator_ru/_internal/api-ms-win-core-interlocked-l1-1-0.dll",
+      "size": 22888,
+      "sha256": "f8129710188e407bb0e6f46d30aeba277d67b947ece5fe09e883fde2323f3ae6"
+    },
+    {
+      "path": "game/addons/text_translator/modules/local_translator_ru/_internal/api-ms-win-core-kernel32-legacy-l1-1-1.dll",
+      "size": 22888,
+      "sha256": "5200b16cb2ddc61cfc07373a9a84aa85a3ab50806ca96c879c883275832944c1"
+    },
+    {
+      "path": "game/addons/text_translator/modules/local_translator_ru/_internal/api-ms-win-core-libraryloader-l1-1-0.dll",
+      "size": 22872,
+      "sha256": "48786fb88b001dcd1f63acea903d3ca9cc0b3060d5a325e3f2f3cbc3bfd53166"
+    },
+    {
+      "path": "game/addons/text_translator/modules/local_translator_ru/_internal/api-ms-win-core-localization-l1-2-0.dll",
+      "size": 22872,
+      "sha256": "9ec3898f7eba91faa28b51616c211a2689e3a13aeef8de6e13cb674e49d689eb"
+    },
+    {
+      "path": "game/addons/text_translator/modules/local_translator_ru/_internal/api-ms-win-core-memory-l1-1-0.dll",
+      "size": 22896,
+      "sha256": "3a6cbc524c99e1cd80d5368f5601402a37ad602528b1ab628093573ef638eb3b"
+    },
+    {
+      "path": "game/addons/text_translator/modules/local_translator_ru/_internal/api-ms-win-core-namedpipe-l1-1-0.dll",
+      "size": 22888,
+      "sha256": "97145ef89c44949fcf0f04ac834a8bc7d687ef49ee73ae9fc32f3c11136b7201"
+    },
+    {
+      "path": "game/addons/text_translator/modules/local_translator_ru/_internal/api-ms-win-core-processenvironment-l1-1-0.dll",
+      "size": 22872,
+      "sha256": "8bc7c10b1851aea644e9c9f381cdb935e091fee6b0be3d3aedc6fffaac96adb7"
+    },
+    {
+      "path": "game/addons/text_translator/modules/local_translator_ru/_internal/api-ms-win-core-processthreads-l1-1-0.dll",
+      "size": 22912,
+      "sha256": "d8030b777617c71f0f94564607699dbf7561487d779db9756aed378c5675213f"
+    },
+    {
+      "path": "game/addons/text_translator/modules/local_translator_ru/_internal/api-ms-win-core-processthreads-l1-1-1.dll",
+      "size": 22872,
+      "sha256": "f5e676713340f73a03a3d41a6ec9883b431da7d16c7f07bd0a920fb80e6c0753"
+    },
+    {
+      "path": "game/addons/text_translator/modules/local_translator_ru/_internal/api-ms-win-core-profile-l1-1-0.dll",
+      "size": 22872,
+      "sha256": "f023d47e44d3eea6b0743580f57e8c6ba81e79d5ebfa7da26250076c647b980e"
+    },
+    {
+      "path": "game/addons/text_translator/modules/local_translator_ru/_internal/api-ms-win-core-rtlsupport-l1-1-0.dll",
+      "size": 22888,
+      "sha256": "9746d8930704153578a628c010638a5f818ffe5a927e25591b108e256dc6afca"
+    },
+    {
+      "path": "game/addons/text_translator/modules/local_translator_ru/_internal/api-ms-win-core-string-l1-1-0.dll",
+      "size": 22896,
+      "sha256": "7c53ae24c982d16ffd1bf7f918d115b11b7f30e57bc7feaa18cb9781e4abb926"
+    },
+    {
+      "path": "game/addons/text_translator/modules/local_translator_ru/_internal/api-ms-win-core-synch-l1-1-0.dll",
+      "size": 22896,
+      "sha256": "56d9d62ca5dba79a6581b8d574a7d8b2a64a5ecb71e47dcf06ed0285708b1859"
+    },
+    {
+      "path": "game/addons/text_translator/modules/local_translator_ru/_internal/api-ms-win-core-synch-l1-2-0.dll",
+      "size": 22888,
+      "sha256": "f6482bbec5612c39ecb4822787a333f2b7570f7a5f922a4059be41ba957bb372"
+    },
+    {
+      "path": "game/addons/text_translator/modules/local_translator_ru/_internal/api-ms-win-core-sysinfo-l1-1-0.dll",
+      "size": 22896,
+      "sha256": "272d02765fdd3582618236c2d309abba069642f9bc1062ede069d0c144e17007"
+    },
+    {
+      "path": "game/addons/text_translator/modules/local_translator_ru/_internal/api-ms-win-core-sysinfo-l1-2-0.dll",
+      "size": 22912,
+      "sha256": "8a0900788859d0eb51c2f48f50cc6ed376a120b518100fa20e11d7702ccde260"
+    },
+    {
+      "path": "game/addons/text_translator/modules/local_translator_ru/_internal/api-ms-win-core-timezone-l1-1-0.dll",
+      "size": 22896,
+      "sha256": "ff35de6c03812b332e140f17dade25c5dd4775156da9eeb1eaae3fddd27236ec"
+    },
+    {
+      "path": "game/addons/text_translator/modules/local_translator_ru/_internal/api-ms-win-core-util-l1-1-0.dll",
+      "size": 22896,
+      "sha256": "191ef3e98641a57296f19d572d8eb62489470ff1ef6030d136af170c2f835173"
+    },
+    {
+      "path": "game/addons/text_translator/modules/local_translator_ru/_internal/api-ms-win-crt-conio-l1-1-0.dll",
+      "size": 22872,
+      "sha256": "54ee5ec719a051496ff60aa00dbeaa94b9a7d2cdac27fe9b7317f1a666b6a2aa"
+    },
+    {
+      "path": "game/addons/text_translator/modules/local_translator_ru/_internal/api-ms-win-crt-convert-l1-1-0.dll",
+      "size": 26992,
+      "sha256": "8b94662429171019fcd63c70bbf2095a075170599704a5e7dcdbe3da13f3a429"
+    },
+    {
+      "path": "game/addons/text_translator/modules/local_translator_ru/_internal/api-ms-win-crt-environment-l1-1-0.dll",
+      "size": 22912,
+      "sha256": "39e5929593709e8af3bc9e0a75ec1155778d6f4a247f4cdfc58928ad6db88434"
+    },
+    {
+      "path": "game/addons/text_translator/modules/local_translator_ru/_internal/api-ms-win-crt-filesystem-l1-1-0.dll",
+      "size": 22872,
+      "sha256": "5a8ecebac32edf4e1f3c5c6c1c8ea1a1add6cda4f9c9cb26f752fb295bea6865"
+    },
+    {
+      "path": "game/addons/text_translator/modules/local_translator_ru/_internal/api-ms-win-crt-heap-l1-1-0.dll",
+      "size": 22872,
+      "sha256": "c71080cbcb43bf1f8f3e391deb12a582eb0abefc80946f340675a2c616e4feb4"
+    },
+    {
+      "path": "game/addons/text_translator/modules/local_translator_ru/_internal/api-ms-win-crt-locale-l1-1-0.dll",
+      "size": 22896,
+      "sha256": "6c68648e524187e03c4ad9aaa4a99113c6ee9f29fb39cc0ed93f951975138e63"
+    },
+    {
+      "path": "game/addons/text_translator/modules/local_translator_ru/_internal/api-ms-win-crt-math-l1-1-0.dll",
+      "size": 31064,
+      "sha256": "d4fbcccbe29371cbce431e43b2eb4f7ba9a6f04a3d740a071f02457a505e9dc8"
+    },
+    {
+      "path": "game/addons/text_translator/modules/local_translator_ru/_internal/api-ms-win-crt-private-l1-1-0.dll",
+      "size": 76120,
+      "sha256": "29bf3d90617d3781d19b332d6ceb9f20ba5ce082ec74bf6c34d5d4aee56e48a1"
+    },
+    {
+      "path": "game/addons/text_translator/modules/local_translator_ru/_internal/api-ms-win-crt-process-l1-1-0.dll",
+      "size": 22896,
+      "sha256": "47c1935942e3ac0812e4dcf18c0e265e565f0194a3349111c299712f5565f7ac"
+    },
+    {
+      "path": "game/addons/text_translator/modules/local_translator_ru/_internal/api-ms-win-crt-runtime-l1-1-0.dll",
+      "size": 26968,
+      "sha256": "72adc1b3677e0814d9c4ebf0964000e84bb2acf67336c8963061665e44f78029"
+    },
+    {
+      "path": "game/addons/text_translator/modules/local_translator_ru/_internal/api-ms-win-crt-stdio-l1-1-0.dll",
+      "size": 26968,
+      "sha256": "900afc3989673c9bb1a687ed38c192f46db9e6ba6d11a668898a539e7fc23798"
+    },
+    {
+      "path": "game/addons/text_translator/modules/local_translator_ru/_internal/api-ms-win-crt-string-l1-1-0.dll",
+      "size": 26968,
+      "sha256": "fcf12466cc12fd3b73611fc0763a5a1f9d44e90349513c34a0c83b0f36421793"
+    },
+    {
+      "path": "game/addons/text_translator/modules/local_translator_ru/_internal/api-ms-win-crt-time-l1-1-0.dll",
+      "size": 22912,
+      "sha256": "886e57c4a6adb299b38f02945369f590a67da4e79a798359fc60aaa067212d7c"
+    },
+    {
+      "path": "game/addons/text_translator/modules/local_translator_ru/_internal/api-ms-win-crt-utility-l1-1-0.dll",
+      "size": 22912,
+      "sha256": "5f8f26b216ade615b67a41f6fbbb910972fc6153315a65bb8f09912be50215b1"
+    },
+    {
+      "path": "game/addons/text_translator/modules/local_translator_ru/_internal/base_library.zip",
+      "size": 1333490,
+      "sha256": "dd843ba0a1db459e9cca8ee5328a6cb5544d1d14fccab958bb54ae2040ebf7d3"
+    },
+    {
+      "path": "game/addons/text_translator/modules/local_translator_ru/_internal/contribution_editor.js",
+      "size": 22656,
+      "sha256": "f1199a34edce63bead07116f30492a3416b9b3ef3668be0fbf3ed1b92f11377a"
+    },
+    {
+      "path": "game/addons/text_translator/modules/local_translator_ru/_internal/contribution_ui.html",
+      "size": 19354,
+      "sha256": "787a99f7d27bc9bd6cc3a26a46902a2c3fd5f209dd874345a725f13a2add68c9"
+    },
+    {
+      "path": "game/addons/text_translator/modules/local_translator_ru/_internal/ctranslate2/__init__.py",
+      "size": 3163,
+      "sha256": "1caccf1074fceb46b75c1711851ff9d09af8d404d8a5b80a99510c67d1e75abf"
+    },
+    {
+      "path": "game/addons/text_translator/modules/local_translator_ru/_internal/ctranslate2/_ext.cp312-win_amd64.pyd",
+      "size": 735744,
+      "sha256": "f7a411bad586d8aa179051d33ed78224c23992c67bfa045a333a71a8cf5e6732"
+    },
+    {
+      "path": "game/addons/text_translator/modules/local_translator_ru/_internal/ctranslate2/converters/__init__.py",
+      "size": 507,
+      "sha256": "b9f6237177f6b0ae1f89701453ab482725a636e2e32857ff287dc658b5dee25b"
+    },
+    {
+      "path": "game/addons/text_translator/modules/local_translator_ru/_internal/ctranslate2/converters/converter.py",
+      "size": 3601,
+      "sha256": "4246fc3462cb9a0a8c4fa1d9905abad73c1bc72ab736559c6b12d9e80a7e60e4"
+    },
+    {
+      "path": "game/addons/text_translator/modules/local_translator_ru/_internal/ctranslate2/converters/eole_ct2.py",
+      "size": 12623,
+      "sha256": "b115ef3daae4f55fb8ba65e93313ee25541e90c2ecb72359ef1363c8016d86f8"
+    },
+    {
+      "path": "game/addons/text_translator/modules/local_translator_ru/_internal/ctranslate2/converters/fairseq.py",
+      "size": 13457,
+      "sha256": "a2cb46678011565c20abd3f1ab21ea6c9bca40f72dec32a59df50cd491ebcdcd"
+    },
+    {
+      "path": "game/addons/text_translator/modules/local_translator_ru/_internal/ctranslate2/converters/marian.py",
+      "size": 11274,
+      "sha256": "d7fecfdc46c80cf39dc896ed6ff2e9f8b0813c16fd03c13d3a1ce8c85c136fae"
+    },
+    {
+      "path": "game/addons/text_translator/modules/local_translator_ru/_internal/ctranslate2/converters/openai_gpt2.py",
+      "size": 3304,
+      "sha256": "d6b5ca3366544591d646fe17675df97cf9155a9338ad31beabb551ece0fa77e0"
+    },
+    {
+      "path": "game/addons/text_translator/modules/local_translator_ru/_internal/ctranslate2/converters/opennmt_py.py",
+      "size": 13852,
+      "sha256": "e85302c7da8612dd90125f6f2569f246be252698aee93862e702aaa61cf4ced2"
+    },
+    {
+      "path": "game/addons/text_translator/modules/local_translator_ru/_internal/ctranslate2/converters/opennmt_tf.py",
+      "size": 16222,
+      "sha256": "b81469db0cf9c6b89241c03f7344b47a463bc2ce91a515ffd0429e31174cefeb"
+    },
+    {
+      "path": "game/addons/text_translator/modules/local_translator_ru/_internal/ctranslate2/converters/opus_mt.py",
+      "size": 1254,
+      "sha256": "e4a6cf693881861a2b3f33294ee8087c827c4a072a1df2546c9ad628137e0e3b"
+    },
+    {
+      "path": "game/addons/text_translator/modules/local_translator_ru/_internal/ctranslate2/converters/transformers.py",
+      "size": 168727,
+      "sha256": "fcf47794a70cd0f4d625baa71a74dc5bef0dfaa7a03f8c3847ecd97dddaf2a6e"
+    },
+    {
+      "path": "game/addons/text_translator/modules/local_translator_ru/_internal/ctranslate2/converters/utils.py",
+      "size": 3817,
+      "sha256": "c3b346dfd971fbd74e74be7b3aa2954dd0bffe8a64b8ff110028354cb9542703"
+    },
+    {
+      "path": "game/addons/text_translator/modules/local_translator_ru/_internal/ctranslate2/ctranslate2.dll",
+      "size": 59297792,
+      "sha256": "ca1127837d032bf8217d0cbcd68e8cef1f93bda3111eff00ced98795d9e51160"
+    },
+    {
+      "path": "game/addons/text_translator/modules/local_translator_ru/_internal/ctranslate2/cudnn64_9.dll",
+      "size": 266288,
+      "sha256": "9edbcdff73b0af070eb160b2ce66e59feca04aa017351d8eedcc5e8e149967d2"
+    },
+    {
+      "path": "game/addons/text_translator/modules/local_translator_ru/_internal/ctranslate2/extensions.py",
+      "size": 21940,
+      "sha256": "90336dd07f4abdf3427373eb446cdf923f4592f9daf388b63b963eadabfa5245"
+    },
+    {
+      "path": "game/addons/text_translator/modules/local_translator_ru/_internal/ctranslate2/libiomp5md.dll",
+      "size": 1614192,
+      "sha256": "982233366b0afcda1e0f55a0b134097e35b779613f54ddb69e685e6cd06b755f"
+    },
+    {
+      "path": "game/addons/text_translator/modules/local_translator_ru/_internal/ctranslate2/logging.py",
+      "size": 1221,
+      "sha256": "3fd7af1ddc6e331fe21efc098c401212afa3e74eb61fae0f979f9f263c44b879"
+    },
+    {
+      "path": "game/addons/text_translator/modules/local_translator_ru/_internal/ctranslate2/models/__init__.py",
+      "size": 497,
+      "sha256": "e77a7df2e7a6b6ebd53f3f312bbfcb6ce841894249bbe73e35d98e1c981d5eeb"
+    },
+    {
+      "path": "game/addons/text_translator/modules/local_translator_ru/_internal/ctranslate2/specs/__init__.py",
+      "size": 653,
+      "sha256": "f4669bb52c9ccf39d8aa2a944ba5ef50b8bca50dffdd1351a205e86c63f41bcd"
+    },
+    {
+      "path": "game/addons/text_translator/modules/local_translator_ru/_internal/ctranslate2/specs/attention_spec.py",
+      "size": 3791,
+      "sha256": "9cd4852cdde6680e79c9d3fe6480318aa545537ded3c088720a3838575fac5b7"
+    },
+    {
+      "path": "game/addons/text_translator/modules/local_translator_ru/_internal/ctranslate2/specs/common_spec.py",
+      "size": 1608,
+      "sha256": "7eb7930e140ccb93d8a1f06b8a3e3f14382b2a890c600a5648f2290126489497"
+    },
+    {
+      "path": "game/addons/text_translator/modules/local_translator_ru/_internal/ctranslate2/specs/model_spec.py",
+      "size": 25736,
+      "sha256": "6ad0806330c4233c89d5309ac8519956eb47a9259ad70c3ebdb6743a2209aa1f"
+    },
+    {
+      "path": "game/addons/text_translator/modules/local_translator_ru/_internal/ctranslate2/specs/transformer_spec.py",
+      "size": 34894,
+      "sha256": "2e6b2188da435db2e0a65b48009fc6eab9af679c3d1b89cae7f98044f1b7d7cc"
+    },
+    {
+      "path": "game/addons/text_translator/modules/local_translator_ru/_internal/ctranslate2/specs/wav2vec2_spec.py",
+      "size": 2106,
+      "sha256": "3484ecb8eb9fd85e5b535f9a5e2b7cf9612d595f5f1f612aec0efce7b532621a"
+    },
+    {
+      "path": "game/addons/text_translator/modules/local_translator_ru/_internal/ctranslate2/specs/wav2vec2bert_spec.py",
+      "size": 3529,
+      "sha256": "520b6c2560bd98c809edb9f84ffc60d6e5cad2ba80e3ef6d4f628c19580f2a7c"
+    },
+    {
+      "path": "game/addons/text_translator/modules/local_translator_ru/_internal/ctranslate2/specs/whisper_spec.py",
+      "size": 2447,
+      "sha256": "fef9b5b1ce723a8c0e2788b2bdcc4c5eb82df9470b26b653f0eb4fb1c5177104"
+    },
+    {
+      "path": "game/addons/text_translator/modules/local_translator_ru/_internal/ctranslate2/version.py",
+      "size": 53,
+      "sha256": "d069fa84032fe7a69d3518c7fbbf2ffc01079514496217942f16680a92d81a54"
+    },
+    {
+      "path": "game/addons/text_translator/modules/local_translator_ru/_internal/ctranslate2-4.8.3.dist-info/entry_points.txt",
+      "size": 466,
+      "sha256": "6479288eeb7f4e65511e5d1b2481a6d9bf70aabf7c18026ac4df6b949b50b21b"
+    },
+    {
+      "path": "game/addons/text_translator/modules/local_translator_ru/_internal/ctranslate2-4.8.3.dist-info/INSTALLER",
+      "size": 4,
+      "sha256": "ceebae7b8927a3227e5303cf5e0f1f7b34bb542ad7250ac03fbcde36ec2f1508"
+    },
+    {
+      "path": "game/addons/text_translator/modules/local_translator_ru/_internal/ctranslate2-4.8.3.dist-info/METADATA",
+      "size": 11268,
+      "sha256": "0d5d32b6da1b133773e0ad69c4741ec76cd4c35e856a330f391672f9c873eb56"
+    },
+    {
+      "path": "game/addons/text_translator/modules/local_translator_ru/_internal/ctranslate2-4.8.3.dist-info/RECORD",
+      "size": 5302,
+      "sha256": "4490ec709855e3c4ce4a35ddab67d938fe579f3885a9d1dc9baabf50cc2760f3"
+    },
+    {
+      "path": "game/addons/text_translator/modules/local_translator_ru/_internal/ctranslate2-4.8.3.dist-info/REQUESTED",
+      "size": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "game/addons/text_translator/modules/local_translator_ru/_internal/ctranslate2-4.8.3.dist-info/top_level.txt",
+      "size": 12,
+      "sha256": "d6151a5b370522e4a8d81008507140dceb20b2ee92d608aad32e91a2cbfc1ce4"
+    },
+    {
+      "path": "game/addons/text_translator/modules/local_translator_ru/_internal/ctranslate2-4.8.3.dist-info/WHEEL",
+      "size": 101,
+      "sha256": "547199cfb31450578b25778938b82f94e190e69e750e6c850e3b6d657fa1a30f"
+    },
+    {
+      "path": "game/addons/text_translator/modules/local_translator_ru/_internal/glossary_ru.default.json",
+      "size": 2550,
+      "sha256": "bb400c4cba1052fdc4de20e9baa549b324e219d5e382230bfd8136b6795dca44"
+    },
+    {
+      "path": "game/addons/text_translator/modules/local_translator_ru/_internal/libcrypto-3-x64.dll",
+      "size": 8003376,
+      "sha256": "8bf9eb08309b119f05058a77850165a43fc684988cb66416d8618dc1bc233b72"
+    },
+    {
+      "path": "game/addons/text_translator/modules/local_translator_ru/_internal/libffi-8.dll",
+      "size": 43824,
+      "sha256": "710509106efbee520c518eb4ba536935e7dca9a72b346d08547589aa7bbc8473"
+    },
+    {
+      "path": "game/addons/text_translator/modules/local_translator_ru/_internal/libssl-3-x64.dll",
+      "size": 1599280,
+      "sha256": "efcf88682f06cbb76d2fb6aaf7d13876c2cfffcd2921032362b17628ed3b059d"
+    },
+    {
+      "path": "game/addons/text_translator/modules/local_translator_ru/_internal/MSVCP140.dll",
+      "size": 643512,
+      "sha256": "7c26614e1d733892c2deac7e245ce115504b1d80592dd0a01b08e3e5a55f89ca"
+    },
+    {
+      "path": "game/addons/text_translator/modules/local_translator_ru/_internal/numpy/_core/_multiarray_tests.cp312-win_amd64.pyd",
+      "size": 65536,
+      "sha256": "f09f60242eaed510e1af6384284f53ff56ae42770a62e630bd415bc2b6854d66"
+    },
+    {
+      "path": "game/addons/text_translator/modules/local_translator_ru/_internal/numpy/_core/_multiarray_umath.cp312-win_amd64.pyd",
+      "size": 3855872,
+      "sha256": "9c10617e66e992b5ac6d9f78fe7cedd0011618e1c2f89d09a185bb63073e2c90"
+    },
+    {
+      "path": "game/addons/text_translator/modules/local_translator_ru/_internal/numpy/fft/_pocketfft_umath.cp312-win_amd64.pyd",
+      "size": 276480,
+      "sha256": "4f008612d6b9e2ab3820ee17a1c758c499e45e80a36764c9dfb7bf304b066f03"
+    },
+    {
+      "path": "game/addons/text_translator/modules/local_translator_ru/_internal/numpy/linalg/_umath_linalg.cp312-win_amd64.pyd",
+      "size": 112640,
+      "sha256": "03bc9de2d6d8e2d9ea3ec781f3c16bcbc9960095cc02ca588f4229cd1560c661"
+    },
+    {
+      "path": "game/addons/text_translator/modules/local_translator_ru/_internal/numpy/random/_bounded_integers.cp312-win_amd64.pyd",
+      "size": 208896,
+      "sha256": "927c1673ba698a85e6253b4d8d2223eb019b021792c54604489767c694d2ab93"
+    },
+    {
+      "path": "game/addons/text_translator/modules/local_translator_ru/_internal/numpy/random/_common.cp312-win_amd64.pyd",
+      "size": 174080,
+      "sha256": "712a7bb4b2d3e56548cdf255eb4e6c1ca0737d7d81d76f09bdccebb0703ae572"
+    },
+    {
+      "path": "game/addons/text_translator/modules/local_translator_ru/_internal/numpy/random/_generator.cp312-win_amd64.pyd",
+      "size": 624640,
+      "sha256": "0fa509dcf5ae21910cb2b3c74271977d0fac7fab15ffd5f32017e08b97e71de6"
+    },
+    {
+      "path": "game/addons/text_translator/modules/local_translator_ru/_internal/numpy/random/_mt19937.cp312-win_amd64.pyd",
+      "size": 92672,
+      "sha256": "e6938df4dd3a193b7d9171d3e192702be3a70de2ebe866cf6fcd92f9e368349d"
+    },
+    {
+      "path": "game/addons/text_translator/modules/local_translator_ru/_internal/numpy/random/_pcg64.cp312-win_amd64.pyd",
+      "size": 105984,
+      "sha256": "8eb5569b221d40884093def83d897376bddd99c9279f182b9db3145b9b897d34"
+    },
+    {
+      "path": "game/addons/text_translator/modules/local_translator_ru/_internal/numpy/random/_philox.cp312-win_amd64.pyd",
+      "size": 89088,
+      "sha256": "cc0c03e2c1443e8981300ddb9cc5ceb504e7f8494323d4ec0a1ad95ae16fbf75"
+    },
+    {
+      "path": "game/addons/text_translator/modules/local_translator_ru/_internal/numpy/random/_sfc64.cp312-win_amd64.pyd",
+      "size": 64000,
+      "sha256": "20c551734cd2b2be2425c8773b795f1e92de8826ebbe6c1103cd0fa6b5c94408"
+    },
+    {
+      "path": "game/addons/text_translator/modules/local_translator_ru/_internal/numpy/random/bit_generator.cp312-win_amd64.pyd",
+      "size": 173056,
+      "sha256": "c7f637df1fa0db9fe4bba6c05dac680d89aed245401423f1ffd16d93366a35a7"
+    },
+    {
+      "path": "game/addons/text_translator/modules/local_translator_ru/_internal/numpy/random/mtrand.cp312-win_amd64.pyd",
+      "size": 522752,
+      "sha256": "e8bdaf22830ceaabc596854a816d39d96d1d60e96c2e12a9a17950b624d480a1"
+    },
+    {
+      "path": "game/addons/text_translator/modules/local_translator_ru/_internal/numpy-2.5.4.dist-info/DELVEWHEEL",
+      "size": 462,
+      "sha256": "071835e9599badbf48ff13018c74eec31bf7e6e566cf17cc6a131eeff34b09ea"
+    },
+    {
+      "path": "game/addons/text_translator/modules/local_translator_ru/_internal/numpy-2.5.4.dist-info/entry_points.txt",
+      "size": 220,
+      "sha256": "ec26fade0c8bdac211a6c1dd003a65eb16885b925395423e93fcaa115af4052c"
+    },
+    {
+      "path": "game/addons/text_translator/modules/local_translator_ru/_internal/numpy-2.5.4.dist-info/INSTALLER",
+      "size": 4,
+      "sha256": "ceebae7b8927a3227e5303cf5e0f1f7b34bb542ad7250ac03fbcde36ec2f1508"
+    },
+    {
+      "path": "game/addons/text_translator/modules/local_translator_ru/_internal/numpy-2.5.4.dist-info/licenses/LICENSE.txt",
+      "size": 45831,
+      "sha256": "a804dff0ead9fadc5293456410bcbfc32bf024be9c4513459663fb7b442d2341"
+    },
+    {
+      "path": "game/addons/text_translator/modules/local_translator_ru/_internal/numpy-2.5.4.dist-info/licenses/numpy/_core/include/numpy/libdivide/LICENSE.txt",
+      "size": 1039,
+      "sha256": "d544761558b510866c21f7e8a2d5716fca76e0b98117e3b6b86314db7244d150"
+    },
+    {
+      "path": "game/addons/text_translator/modules/local_translator_ru/_internal/numpy-2.5.4.dist-info/licenses/numpy/_core/src/common/pythoncapi-compat/COPYING",
+      "size": 704,
+      "sha256": "aea41976c720f91bd19725c16916a1ace40eb1ea42620d340e587a5de4bbcea0"
+    },
+    {
+      "path": "game/addons/text_translator/modules/local_translator_ru/_internal/numpy-2.5.4.dist-info/licenses/numpy/_core/src/highway/LICENSE",
+      "size": 21155,
+      "sha256": "d208152e2777ffd0126eacc1bd21c0320d69e4e6b622d21a2a12a47e8ef73763"
+    },
+    {
+      "path": "game/addons/text_translator/modules/local_translator_ru/_internal/numpy-2.5.4.dist-info/licenses/numpy/_core/src/multiarray/dragon4_LICENSE.txt",
+      "size": 1441,
+      "sha256": "b0fd592d4ead563148e3977e7b589169d46a5ef2ff133c755a81af880a3fc919"
+    },
+    {
+      "path": "game/addons/text_translator/modules/local_translator_ru/_internal/numpy-2.5.4.dist-info/licenses/numpy/_core/src/npysort/x86-simd-sort/LICENSE.md",
+      "size": 1542,
+      "sha256": "a732977853530066790c42817087f4829b518dd98d340c916acbfd227e39d3cb"
+    },
+    {
+      "path": "game/addons/text_translator/modules/local_translator_ru/_internal/numpy-2.5.4.dist-info/licenses/numpy/_core/src/umath/svml/LICENSE",
+      "size": 1573,
+      "sha256": "585483905b13d4b42f800c55ba99e89d6e2e33ccd5f503e201c07531d148ff41"
+    },
+    {
+      "path": "game/addons/text_translator/modules/local_translator_ru/_internal/numpy-2.5.4.dist-info/licenses/numpy/fft/pocketfft/LICENSE.md",
+      "size": 1523,
+      "sha256": "8db000e158c162e7249787852d8c69764706502ccee725c06641b31c1e95c8af"
+    },
+    {
+      "path": "game/addons/text_translator/modules/local_translator_ru/_internal/numpy-2.5.4.dist-info/licenses/numpy/linalg/lapack_lite/LICENSE.txt",
+      "size": 2314,
+      "sha256": "19060ef465e1797d682ee0fc3081bd25ab1395e995e43d25c9d13c95d9a3cd6b"
+    },
+    {
+      "path": "game/addons/text_translator/modules/local_translator_ru/_internal/numpy-2.5.4.dist-info/licenses/numpy/ma/LICENSE",
+      "size": 1616,
+      "sha256": "d78dbb208b80d92b4d333e41a4baae50d12444f46e53199fa7726a91de6e2da7"
+    },
+    {
+      "path": "game/addons/text_translator/modules/local_translator_ru/_internal/numpy-2.5.4.dist-info/licenses/numpy/random/LICENSE.md",
+      "size": 3582,
+      "sha256": "b4bc2f4fa1c95778f1ed3dd8f14706bece399475b978f9f34b5d3cd72521b48a"
+    },
+    {
+      "path": "game/addons/text_translator/modules/local_translator_ru/_internal/numpy-2.5.4.dist-info/licenses/numpy/random/src/distributions/LICENSE.md",
+      "size": 2805,
+      "sha256": "cf5619f25b112d5ce7c896efffc8e610bcb345dfadcc19f2c1460aa48fff2c9e"
+    },
+    {
+      "path": "game/addons/text_translator/modules/local_translator_ru/_internal/numpy-2.5.4.dist-info/licenses/numpy/random/src/mt19937/LICENSE.md",
+      "size": 2986,
+      "sha256": "92c10699884321f1c2947fe2a70ab23b0fbf1507f756d89dd08f38c61fc3d4fa"
+    },
+    {
+      "path": "game/addons/text_translator/modules/local_translator_ru/_internal/numpy-2.5.4.dist-info/licenses/numpy/random/src/pcg64/LICENSE.md",
+      "size": 1176,
+      "sha256": "41190663b77bee5302386495a07b7eabfbfa571aa0ae2f11da6764162062fc4f"
+    },
+    {
+      "path": "game/addons/text_translator/modules/local_translator_ru/_internal/numpy-2.5.4.dist-info/licenses/numpy/random/src/philox/LICENSE.md",
+      "size": 1540,
+      "sha256": "322ac46d870c8aeead6c53adcccc839296fb3c8e456eae155081297daf7f8013"
+    },
+    {
+      "path": "game/addons/text_translator/modules/local_translator_ru/_internal/numpy-2.5.4.dist-info/licenses/numpy/random/src/sfc64/LICENSE.md",
+      "size": 1253,
+      "sha256": "28cad82ce1379dc529df30da78ec012d7d0d1d576b03ddcb93388aee53659f59"
+    },
+    {
+      "path": "game/addons/text_translator/modules/local_translator_ru/_internal/numpy-2.5.4.dist-info/licenses/numpy/random/src/splitmix64/LICENSE.md",
+      "size": 340,
+      "sha256": "454ec7350e478e037061850b67395753b425b1cb0a34bbc26290b020bf89d763"
+    },
+    {
+      "path": "game/addons/text_translator/modules/local_translator_ru/_internal/numpy-2.5.4.dist-info/METADATA",
+      "size": 6635,
+      "sha256": "e2b909d6a37d76c2bc130f528d7fed0c517322bce16dc7846b6a6df30e200403"
+    },
+    {
+      "path": "game/addons/text_translator/modules/local_translator_ru/_internal/numpy-2.5.4.dist-info/RECORD",
+      "size": 113275,
+      "sha256": "75a3d6fcc0800d79d1424ebd27023165ba80a44a60cb8c005ad161b2dcd494da"
+    },
+    {
+      "path": "game/addons/text_translator/modules/local_translator_ru/_internal/numpy-2.5.4.dist-info/WHEEL",
+      "size": 85,
+      "sha256": "e743de01ba6503a3e4234858398a1e69c07d512d51e8482ec9f3a7b1c707d165"
+    },
+    {
+      "path": "game/addons/text_translator/modules/local_translator_ru/_internal/numpy.libs/libscipy_openblas64_-ed4f167a5330424524f45258e7ca2c8d.dll",
+      "size": 20589056,
+      "sha256": "ed4f167a5330424524f45258e7ca2c8d7f03c0cba1f30ee4985553ac1f88ecf8"
+    },
+    {
+      "path": "game/addons/text_translator/modules/local_translator_ru/_internal/numpy.libs/msvcp140-a4c2229bdc2a2a630acdc095b4d86008.dll",
+      "size": 575056,
+      "sha256": "a4c2229bdc2a2a630acdc095b4d86008e5c3e3bc7773174354f3da4f5beb9cde"
+    },
+    {
+      "path": "game/addons/text_translator/modules/local_translator_ru/_internal/pyexpat.pyd",
+      "size": 226096,
+      "sha256": "236914334bdaf6986cae2c9b2395231cb1cf9fc12baaa3beb0503005737f0175"
+    },
+    {
+      "path": "game/addons/text_translator/modules/local_translator_ru/_internal/python312.dll",
+      "size": 6985520,
+      "sha256": "e39aa2da5ea2d310d89994f71bf913a0a137ebaf9f692a565b8c896081512f28"
+    },
+    {
+      "path": "game/addons/text_translator/modules/local_translator_ru/_internal/select.pyd",
+      "size": 34608,
+      "sha256": "7618630e4c33ea24e757363e54a3c4edd2e0ce8da036b34a50aabb2b0bdf150f"
+    },
+    {
+      "path": "game/addons/text_translator/modules/local_translator_ru/_internal/sentencepiece/_sentencepiece.cp312-win_amd64.pyd",
+      "size": 1459712,
+      "sha256": "6fb545d1295cb7a4e87ae1884ea0eb3775d8261caed4132d1db5266b113bb781"
+    },
+    {
+      "path": "game/addons/text_translator/modules/local_translator_ru/_internal/sqlite3.dll",
+      "size": 1623344,
+      "sha256": "fcb5037bce6ad124d304352e215a756dfcb9256796c5d0caa8a148d5dea056ca"
+    },
+    {
+      "path": "game/addons/text_translator/modules/local_translator_ru/_internal/ucrtbase.dll",
+      "size": 1362264,
+      "sha256": "3239227d27667ba20d10a880751924e5719de0078f9fce232d149d383f7681f6"
+    },
+    {
+      "path": "game/addons/text_translator/modules/local_translator_ru/_internal/unicodedata.pyd",
+      "size": 1143600,
+      "sha256": "db4a648eae21677607f3db4b60549a51054f5ba60ba4144f86dc6afcb70bd97e"
+    },
+    {
+      "path": "game/addons/text_translator/modules/local_translator_ru/_internal/VCRUNTIME140.dll",
+      "size": 124544,
+      "sha256": "d5e4d9a3e835fa679450145d6a7d94e36573a509317111904d9b3712c30d9066"
+    },
+    {
+      "path": "game/addons/text_translator/modules/local_translator_ru/_internal/VCRUNTIME140_1.dll",
+      "size": 49792,
+      "sha256": "1f2d41c4aa5db0bc33ebf7b66d72943a817d7ce6cbe880502a9403823633093f"
+    },
+    {
+      "path": "game/addons/text_translator/modules/local_translator_ru/_internal/xxhash/_xxhash.cp312-win_amd64.pyd",
+      "size": 70144,
+      "sha256": "815db8258aa21570ad759771ded4d0402b1b128324eb7971b0c7bbe246aa9a57"
+    },
+    {
+      "path": "game/addons/text_translator/modules/local_translator_ru/_internal/yaml/_yaml.cp312-win_amd64.pyd",
+      "size": 253952,
+      "sha256": "4fd0e84f50261ed0886cffcdd8008b055af3352546e649c3d741b50eae1f9b5f"
+    },
+    {
+      "path": "game/addons/text_translator/modules/local_translator_ru/Local_Translator_RU.exe",
+      "size": 5012432,
+      "sha256": "0535ab33cc165195a0b3a21decbffd07cdce07888ccaf3a5dc7973249e3ea827"
+    },
+    {
+      "path": "game/addons/text_translator/modules/local_translator_ru/module.toml",
+      "size": 169,
+      "sha256": "fe9d4bfb4a2c581864e2d539c039a5b06e569ea7adfdb31205a093f5fa4fda93"
+    },
+    {
+      "path": "game/addons/text_translator/modules/local_translator_ru/RU/glossary_ru.json",
+      "size": 2550,
+      "sha256": "bb400c4cba1052fdc4de20e9baa549b324e219d5e382230bfd8136b6795dca44"
+    },
+    {
+      "path": "game/addons/text_translator/modules/local_translator_ru/RU/model/config.json",
+      "size": 233,
+      "sha256": "72901fbd8abd89fb5cf4a388f26fc681f5c4c58a1e1a88b30b879f107270e7ee"
+    },
+    {
+      "path": "game/addons/text_translator/modules/local_translator_ru/RU/model/model.bin",
+      "size": 78276475,
+      "sha256": "f5ae1da30bcb61e877c549be8fb5a434193893eb97509ccd0b954465f9a8f80c"
+    },
+    {
+      "path": "game/addons/text_translator/modules/local_translator_ru/RU/model/README.md",
+      "size": 1250,
+      "sha256": "885537ac5b699e12b8dbbe7f82f670826c4ee4633203bab46d94e251571cff56"
+    },
+    {
+      "path": "game/addons/text_translator/modules/local_translator_ru/RU/model/shared_vocabulary.json",
+      "size": 2362787,
+      "sha256": "b7316527801953077381d37db3780b6efce1f56bc3429d07c2236fe5f84e8ca8"
+    },
+    {
+      "path": "game/addons/text_translator/modules/local_translator_ru/RU/model/source.spm",
+      "size": 802781,
+      "sha256": "16bebef1389a0b8ab452772c4e35b9e605e5713f8ac7baa71ca701394eaa086d"
+    },
+    {
+      "path": "game/addons/text_translator/modules/local_translator_ru/RU/model/target.spm",
+      "size": 1080169,
+      "sha256": "745998e51ba5b058e38b7ac7765c25c43ed5c1c39cc92b27163b9b2e323c9d7c"
+    },
+    {
+      "path": "game/addons/text_translator/modules/local_translator_ru/tools/github/gh.exe",
+      "size": 41781560,
+      "sha256": "8c090d7cb86e4db3cd8b969f832fe4855c2cf486ffdc35b4d2db77e164e847d1"
+    },
+    {
+      "path": "game/addons/text_translator/modules/local_translator_ru/tools/github/LICENSE.txt",
+      "size": 1089,
+      "sha256": "8999137010582da29456c10e0a628bf3fa7ead05ab3ae5f424ad25cd0dd94574"
+    },
+    {
+      "path": "game/addons/text_translator/modules/local_translator_ru/tools/gw2-dat-tool.exe",
+      "size": 7460864,
+      "sha256": "49b4b394eeeeface4f5f66583c65a484ba5539c1b4deee551d2474eee5bb7a70"
+    },
+    {
+      "path": "game/addons/text_translator/modules/local_translator_ru/UPSTREAM-LICENSE.txt",
+      "size": 1088,
+      "sha256": "c33ddee9297e429fd5ad0911afb30bc20cd7354781c05331421d6eecdec72a2e"
+    },
+    {
+      "path": "game/addons/text_translator.dll",
+      "size": 7454720,
+      "sha256": "daccabe02db368d59374d2a88f8d58f4d9b6b8141091cde8aa800819573c07dd"
+    },
+    {
+      "path": "game/d3d11.dll",
+      "size": 7618048,
+      "sha256": "8b123807fc2ccc090eb13286d5df2628ba78f7b9980886c1ab3881e919ca2992"
+    },
+    {
+      "path": "game/glyphCore/AlegreyaSans-OFL.txt",
+      "size": 4405,
+      "sha256": "0677891e6a143f297350d260ad766ad33bfc18ed5fa4f213acf648d6b597ec1a"
+    },
+    {
+      "path": "game/glyphCore/cyrillic.ttf",
+      "size": 264612,
+      "sha256": "4b89fe7804fd1485ec2757795a53ffdb66e1206dd56f844c2d72b3c944815b43"
+    },
+    {
+      "path": "game/version.dll",
+      "size": 12740608,
+      "sha256": "0a883316ed0ea396e1e5cde32e395063730c1cf9d5e70d9c41cb025dda840678"
+    }
+  ],
+  "module_source_sha256": "cf9af61653dcfe2ce0e1a1f35dfe5aff63290dbca497a8e4de92d77c58c56fcf"
+}

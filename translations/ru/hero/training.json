@@ -1,0 +1,388 @@
+{
+  "$schema": "../../../schema/catalog.schema.json",
+  "format": 1,
+  "language": "ru",
+  "section": "hero/training",
+  "strings": [
+    {
+      "id": 566398,
+      "en": "Specializations are now unlocked. You can now spend hero points in the training tab on specializations. Once you begin training a specialization, you can set your active specialization in the build tab of the hero panel.",
+      "ru": "Вам доступны специализации. Изучайте их за очки героя на вкладке «Обучение». Начав изучение специализации, вы сможете выбрать её на вкладке «Билд» окна героя.",
+      "context": "Герой → Обучение: очки героя, изучение умений и специализаций; подписи и сообщения обучения.",
+      "src_hash": "fed1d703ec49860f",
+      "status": "reviewed",
+      "evidence": "seed-collector; observed UI family / exact English match",
+      "verification": "Editor-reviewed; screen verification pending for this revision."
+    },
+    {
+      "id": 566679,
+      "en": "Unspent Hero Points",
+      "ru": "Неиспользованные очки героя",
+      "context": "Герой → Обучение: очки героя, изучение умений и специализаций; подписи и сообщения обучения.",
+      "src_hash": "5be91c74c87ebcae",
+      "status": "reviewed",
+      "evidence": "live-map; observed UI family / exact English match",
+      "verification": "Editor-reviewed; screen verification pending for this revision."
+    },
+    {
+      "id": 566951,
+      "en": "%num1% Unspent Hero Points",
+      "ru": "Неиспользованные очки героя: %num1%",
+      "context": "Герой → Обучение: очки героя, изучение умений и специализаций; подписи и сообщения обучения.",
+      "src_hash": "29597083dbbce5d2",
+      "status": "reviewed",
+      "evidence": "live-map; observed UI family / exact English match",
+      "verification": "Editor-reviewed; screen verification pending for this revision."
+    },
+    {
+      "id": 567188,
+      "en": "Corruption Training",
+      "ru": "Обучение порче",
+      "context": "Герой → Обучение → некромант: направление умений порчи (Blood Is Power, Corrosive Poison Cloud и др.). Заголовок наблюдался на экране.",
+      "src_hash": "524d73a8bc6cae79",
+      "status": "reviewed",
+      "evidence": "live-map; observed UI family / exact English match",
+      "verification": "Russian rendering checked in GW2 on 2026-10-22 after patch v2 install; matched by exact English text and UI context, not a new on-screen ID capture. See docs/verification-2026-10-22.md."
+    },
+    {
+      "id": 568911,
+      "en": "Hero Points",
+      "ru": "Очки героя",
+      "context": "Герой → Обучение: очки героя, изучение умений и специализаций; подписи и сообщения обучения.",
+      "src_hash": "38c7004ee28ba6b7",
+      "status": "reviewed",
+      "evidence": "seed-collector; observed UI family / exact English match",
+      "verification": "Editor-reviewed; screen verification pending for this revision."
+    },
+    {
+      "id": 570381,
+      "en": "Spectral Training",
+      "ru": "Обучение призрачным умениям",
+      "context": "Некромант: направление обучения спектральным умениям",
+      "src_hash": "f14e6c44e1f8b000",
+      "status": "reviewed",
+      "evidence": "onscreen-id",
+      "verification": "First contextual review, 2026-10-22; representative screens checked in-game."
+    },
+    {
+      "id": 572433,
+      "en": "Signet Training",
+      "ru": "Обучение печатям",
+      "context": "Некромант: направление обучения умениям-печатям",
+      "src_hash": "ad2a7d3393a4f6d4",
+      "status": "reviewed",
+      "evidence": "onscreen-id",
+      "verification": "First contextual review, 2026-10-22; representative screens checked in-game."
+    },
+    {
+      "id": 574548,
+      "en": "Train",
+      "ru": "Изучить",
+      "context": "Герой → Обучение: очки героя, изучение умений и специализаций; подписи и сообщения обучения.",
+      "src_hash": "2b2889352ab6b251",
+      "status": "reviewed",
+      "evidence": "seed-collector; observed UI family / exact English match",
+      "verification": "Editor-reviewed; screen verification pending for this revision."
+    },
+    {
+      "id": 575971,
+      "en": "Not enough hero points.",
+      "ru": "Недостаточно очков героя.",
+      "context": "Герой → Обучение: очки героя, изучение умений и специализаций; подписи и сообщения обучения.",
+      "src_hash": "e58beadf64213e46",
+      "status": "reviewed",
+      "evidence": "seed-collector; observed UI family / exact English match",
+      "verification": "Editor-reviewed; screen verification pending for this revision."
+    },
+    {
+      "id": 576018,
+      "en": "Unlock New Slot Skills with Hero Points",
+      "ru": "Изучайте новые умения за очки героя",
+      "context": "Герой → Обучение: очки героя, изучение умений и специализаций; подписи и сообщения обучения.",
+      "src_hash": "fdb51ad0c952105d",
+      "status": "reviewed",
+      "evidence": "seed-collector; observed UI family / exact English match",
+      "verification": "Editor-reviewed; screen verification pending for this revision."
+    },
+    {
+      "id": 576372,
+      "en": "Well Training",
+      "ru": "Обучение колодцам",
+      "context": "Некромант: направление обучения умениям-колодцам",
+      "src_hash": "6f21c53ea5dbc76e",
+      "status": "reviewed",
+      "evidence": "onscreen-id",
+      "verification": "First contextual review, 2026-10-22; representative screens checked in-game."
+    },
+    {
+      "id": 576515,
+      "en": "Hero Points",
+      "ru": "Очки героя",
+      "context": "Герой → Обучение: очки героя, изучение умений и специализаций; подписи и сообщения обучения.",
+      "src_hash": "38c7004ee28ba6b7",
+      "status": "reviewed",
+      "evidence": "seed-collector; observed UI family / exact English match",
+      "verification": "Editor-reviewed; screen verification pending for this revision."
+    },
+    {
+      "id": 577756,
+      "en": "Minion Training",
+      "ru": "Обучение призыву",
+      "context": "Некромант: направление обучения призыву прислужников",
+      "src_hash": "3f45b02a16289004",
+      "status": "reviewed",
+      "evidence": "onscreen-id",
+      "verification": "First contextual review, 2026-10-22; representative screens checked in-game."
+    },
+    {
+      "id": 586001,
+      "en": "Traits are now unlocked. Spending hero points in specializations earns you traits. Once unlocked, you can select them in the build tab for your specialization.",
+      "ru": "Вам доступны черты. Изучайте специализации за очки героя, чтобы открывать новые черты. Выбирать открытые черты можно на вкладке «Билд» в соответствующей специализации.",
+      "context": "Герой → Обучение: очки героя, изучение умений и специализаций; подписи и сообщения обучения.",
+      "src_hash": "b71fb33dcc5cfe07",
+      "status": "reviewed",
+      "evidence": "seed-collector; observed UI family / exact English match",
+      "verification": "Editor-reviewed; screen verification pending for this revision."
+    },
+    {
+      "id": 586921,
+      "en": "Elite Specializations",
+      "ru": "Элитные специализации",
+      "context": "Группа элитных специализаций в обучении",
+      "src_hash": "f07f1502c0cd82d8",
+      "status": "reviewed",
+      "evidence": "onscreen-id",
+      "verification": "First contextual review, 2026-10-22; representative screens checked in-game."
+    },
+    {
+      "id": 587162,
+      "en": "Traits",
+      "ru": "Черты",
+      "context": "Герой → Обучение: очки героя, изучение умений и специализаций; подписи и сообщения обучения.",
+      "src_hash": "f2fceb9201c8e147",
+      "status": "reviewed",
+      "evidence": "seed-collector; observed UI family / exact English match",
+      "verification": "Editor-reviewed; screen verification pending for this revision."
+    },
+    {
+      "id": 587842,
+      "en": "Build",
+      "ru": "Билд",
+      "context": "Основной раздел навыков и специализаций в заголовке",
+      "src_hash": "ac898e121103683f",
+      "status": "reviewed",
+      "evidence": "onscreen-id",
+      "verification": "First contextual review, 2026-10-22; representative screens checked in-game."
+    },
+    {
+      "id": 587971,
+      "en": "Training",
+      "ru": "Обучение",
+      "context": "Основной раздел изучения умений и специализаций",
+      "src_hash": "8c4fa896c5ed7230",
+      "status": "reviewed",
+      "evidence": "onscreen-id",
+      "verification": "First contextual review, 2026-10-22; representative screens checked in-game."
+    },
+    {
+      "id": 587999,
+      "en": "Specializations",
+      "ru": "Специализации",
+      "context": "Герой → Обучение: очки героя, изучение умений и специализаций; подписи и сообщения обучения.",
+      "src_hash": "1fcf0dd9c7a6623d",
+      "status": "reviewed",
+      "evidence": "seed-collector; observed UI family / exact English match",
+      "verification": "Editor-reviewed; screen verification pending for this revision."
+    },
+    {
+      "id": 588963,
+      "en": "Specializations",
+      "ru": "Специализации",
+      "context": "Герой → Обучение: очки героя, изучение умений и специализаций; подписи и сообщения обучения.",
+      "src_hash": "1fcf0dd9c7a6623d",
+      "status": "reviewed",
+      "evidence": "seed-collector; observed UI family / exact English match",
+      "verification": "Editor-reviewed; screen verification pending for this revision."
+    },
+    {
+      "id": 589462,
+      "en": "Traits",
+      "ru": "Черты",
+      "context": "Герой → Обучение: очки героя, изучение умений и специализаций; подписи и сообщения обучения.",
+      "src_hash": "f2fceb9201c8e147",
+      "status": "reviewed",
+      "evidence": "seed-collector; observed UI family / exact English match",
+      "verification": "Editor-reviewed; screen verification pending for this revision."
+    },
+    {
+      "id": 590403,
+      "en": "Hero Points",
+      "ru": "Очки героя",
+      "context": "Герой → Обучение: очки героя, изучение умений и специализаций; подписи и сообщения обучения.",
+      "src_hash": "38c7004ee28ba6b7",
+      "status": "reviewed",
+      "evidence": "seed-collector; observed UI family / exact English match",
+      "verification": "Editor-reviewed; screen verification pending for this revision."
+    },
+    {
+      "id": 590482,
+      "en": "Train",
+      "ru": "Изучить",
+      "context": "Герой → Обучение: очки героя, изучение умений и специализаций; подписи и сообщения обучения.",
+      "src_hash": "2b2889352ab6b251",
+      "status": "reviewed",
+      "evidence": "live-map; observed UI family / exact English match",
+      "verification": "Editor-reviewed; screen verification pending for this revision."
+    },
+    {
+      "id": 600473,
+      "en": "Specializations",
+      "ru": "Специализации",
+      "context": "Герой → Обучение: очки героя, изучение умений и специализаций; подписи и сообщения обучения.",
+      "src_hash": "1fcf0dd9c7a6623d",
+      "status": "reviewed",
+      "evidence": "seed-collector; observed UI family / exact English match",
+      "verification": "Editor-reviewed; screen verification pending for this revision."
+    },
+    {
+      "id": 602993,
+      "en": "Specializations",
+      "ru": "Специализации",
+      "context": "Группа базовых специализаций в обучении",
+      "src_hash": "1fcf0dd9c7a6623d",
+      "status": "reviewed",
+      "evidence": "onscreen-id",
+      "verification": "First contextual review, 2026-10-22; representative screens checked in-game."
+    },
+    {
+      "id": 604983,
+      "en": "Skills",
+      "ru": "Умения",
+      "context": "Группа направлений обучения умениям",
+      "src_hash": "c375e2e8a3949f24",
+      "status": "reviewed",
+      "evidence": "onscreen-id",
+      "verification": "First contextual review, 2026-10-22; representative screens checked in-game."
+    },
+    {
+      "id": 608383,
+      "en": "Specializations",
+      "ru": "Специализации",
+      "context": "Герой → Обучение: очки героя, изучение умений и специализаций; подписи и сообщения обучения.",
+      "src_hash": "1fcf0dd9c7a6623d",
+      "status": "reviewed",
+      "evidence": "seed-collector; observed UI family / exact English match",
+      "verification": "Editor-reviewed; screen verification pending for this revision."
+    },
+    {
+      "id": 626835,
+      "en": "Specializations",
+      "ru": "Специализации",
+      "context": "Герой → Обучение: очки героя, изучение умений и специализаций; подписи и сообщения обучения.",
+      "src_hash": "1fcf0dd9c7a6623d",
+      "status": "reviewed",
+      "evidence": "live-map; observed UI family / exact English match",
+      "verification": "Editor-reviewed; screen verification pending for this revision."
+    },
+    {
+      "id": 633878,
+      "en": "Elite specializations can now be unlocked in the training tab of the Hero panel. You must complete all core specializations in order to start training an elite specialization. Hero points are used to train elite specializations. Once you begin training an elite specialization, you can set it as active in the bottom specialization slot of the Build tab.",
+      "ru": "Элитные специализации доступны для изучения на вкладке «Обучение» окна героя. Сначала необходимо полностью изучить все базовые специализации. Обучение требует очков героя. Начав изучение элитной специализации, вы сможете выбрать её в нижней ячейке специализаций на вкладке «Билд».",
+      "context": "Герой → Обучение: очки героя, изучение умений и специализаций; подписи и сообщения обучения.",
+      "src_hash": "eaa2762bb3dd0a73",
+      "status": "reviewed",
+      "evidence": "seed-collector; observed UI family / exact English match",
+      "verification": "Editor-reviewed; screen verification pending for this revision."
+    },
+    {
+      "id": 635002,
+      "en": "Elite specializations can now be unlocked in the training tab of the Hero panel. These offer your profession access to new weapons, utilities, and mechanics. You must complete all core specializations in order to start training an elite specialization. Hero points are used to train elite specializations. Once you begin training an elite specialization, you can set it as active in the bottom specialization slot of the Build tab.",
+      "ru": "Элитные специализации доступны для изучения на вкладке «Обучение» окна героя. Они открывают вашей профессии новое оружие, вспомогательные умения и механики. Сначала необходимо полностью изучить все базовые специализации. Обучение требует очков героя. Начав изучение элитной специализации, вы сможете выбрать её в нижней ячейке специализаций на вкладке «Билд».",
+      "context": "Герой → Обучение: очки героя, изучение умений и специализаций; подписи и сообщения обучения.",
+      "src_hash": "d4916f6bae1974c5",
+      "status": "reviewed",
+      "evidence": "seed-collector; observed UI family / exact English match",
+      "verification": "Editor-reviewed; screen verification pending for this revision."
+    },
+    {
+      "id": 779695,
+      "en": "Specializations",
+      "ru": "Специализации",
+      "context": "Герой → Обучение: очки героя, изучение умений и специализаций; подписи и сообщения обучения.",
+      "src_hash": "1fcf0dd9c7a6623d",
+      "status": "reviewed",
+      "evidence": "live-map; observed UI family / exact English match",
+      "verification": "Editor-reviewed; screen verification pending for this revision."
+    },
+    {
+      "id": 927285,
+      "en": "This skill is not yet trained. Additional training in <c=%str1%>%str2%</c> is needed.",
+      "ru": "Это умение ещё не изучено. Продолжите обучение: <c=%str1%>%str2%</c>.",
+      "context": "Герой → Обучение: очки героя, изучение умений и специализаций; подписи и сообщения обучения.",
+      "src_hash": "f8944f1a7b7b6d77",
+      "status": "reviewed",
+      "evidence": "seed-collector; observed UI family / exact English match",
+      "verification": "Editor-reviewed; screen verification pending for this revision."
+    },
+    {
+      "id": 929748,
+      "en": "This trait is not yet trained. Additional training in <c=%str1%>%str2%</c> is needed.",
+      "ru": "Эта черта ещё не изучена. Продолжите обучение: <c=%str1%>%str2%</c>.",
+      "context": "Герой → Обучение: очки героя, изучение умений и специализаций; подписи и сообщения обучения.",
+      "src_hash": "15e49f887eab1914",
+      "status": "reviewed",
+      "evidence": "seed-collector; observed UI family / exact English match",
+      "verification": "Editor-reviewed; screen verification pending for this revision."
+    },
+    {
+      "id": 930303,
+      "en": "This specialization is not yet trained. Additional training in <c=%str1%>%str2%</c> is needed.",
+      "ru": "Эта специализация ещё не изучена. Продолжите обучение: <c=%str1%>%str2%</c>.",
+      "context": "Герой → Обучение: очки героя, изучение умений и специализаций; подписи и сообщения обучения.",
+      "src_hash": "490ea83c55fd40d9",
+      "status": "reviewed",
+      "evidence": "seed-collector; observed UI family / exact English match",
+      "verification": "Editor-reviewed; screen verification pending for this revision."
+    },
+    {
+      "id": 978909,
+      "en": "Training complete",
+      "ru": "Обучение завершено",
+      "context": "Герой → Обучение: очки героя, изучение умений и специализаций; подписи и сообщения обучения.",
+      "src_hash": "1bebbefb5573579d",
+      "status": "reviewed",
+      "evidence": "seed-collector; observed UI family / exact English match",
+      "verification": "Editor-reviewed; screen verification pending for this revision."
+    },
+    {
+      "id": 999175,
+      "en": "Specializations",
+      "ru": "Специализации",
+      "context": "Герой → Обучение: очки героя, изучение умений и специализаций; подписи и сообщения обучения.",
+      "src_hash": "1fcf0dd9c7a6623d",
+      "status": "reviewed",
+      "evidence": "live-map; observed UI family / exact English match",
+      "verification": "Editor-reviewed; screen verification pending for this revision."
+    },
+    {
+      "id": 1051277,
+      "en": "Spend hero points to train a skill.\n\n<c=@reminder>Skills can be learned in the Training tab of the Hero panel by spending hero points. </c>",
+      "ru": "Потратьте очки героя, чтобы изучить умение.\n\n<c=@reminder>Умения изучаются за очки героя на вкладке «Обучение» окна героя. </c>",
+      "context": "Герой → Обучение: очки героя, изучение умений и специализаций; подписи и сообщения обучения.",
+      "src_hash": "d395bb7a83c51340",
+      "status": "reviewed",
+      "evidence": "seed-collector; observed UI family / exact English match",
+      "verification": "Editor-reviewed; screen verification pending for this revision."
+    },
+    {
+      "id": 1186486,
+      "en": "Training Completed",
+      "ru": "Обучение завершено",
+      "context": "Герой → Обучение: очки героя, изучение умений и специализаций; подписи и сообщения обучения.",
+      "src_hash": "c57f3ffb6ad9df38",
+      "status": "reviewed",
+      "evidence": "seed-collector; observed UI family / exact English match",
+      "verification": "Editor-reviewed; screen verification pending for this revision."
+    }
+  ]
+}

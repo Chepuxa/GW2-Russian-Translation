@@ -1,0 +1,38 @@
+{
+  "format": 1,
+  "state": "partial-machine-cache",
+  "corpus_originals": 134253,
+  "cached_lines": 115159,
+  "unique_drafts": 146693,
+  "untranslated_drafts": 31534,
+  "files": {
+    "cache_ru.glossary.json": {
+      "bytes": 2469,
+      "sha256": "d3a3803bb9ecee8cc9948dec16a78dbd134be9c9fb518ecb3703ee2e5913d77d"
+    },
+    "cache_ru.jsonl": {
+      "bytes": 10500613,
+      "sha256": "b9b0ab3e4bd291801d4dec44133d5ef88306d163d817fabef230709f685f9bbc"
+    },
+    "corpus-english.csv": {
+      "bytes": 7189101,
+      "sha256": "4a4820cdc28e7647ae80c7d362bd7f5803457eb515e57521dd015261f01fbee5"
+    },
+    "glossary_ru.json": {
+      "bytes": 2550,
+      "sha256": "bb400c4cba1052fdc4de20e9baa549b324e219d5e382230bfd8136b6795dca44"
+    },
+    "live-map.csv": {
+      "bytes": 438652,
+      "sha256": "3a984664086eb27bbb22c6ea50fe44c3e28f8b9d90c0ed6e66f5fe05a62b084c"
+    },
+    "precache-progress.json": {
+      "bytes": 265,
+      "sha256": "9607306ead731e0fc958d38e4bdc3780c78f47f18856374e2f7ecb60a0e6908e"
+    },
+    "seed_ids.csv": {
+      "bytes": 11631461,
+      "sha256": "71cc447c3ab875ace6f8a744204253cd3da607e43177057fb96141b05a1e77dd"
+    }
+  }
+}

@@ -1,0 +1,248 @@
+{
+  "$schema": "../../../schema/catalog.schema.json",
+  "format": 1,
+  "language": "ru",
+  "section": "hero/equipment",
+  "strings": [
+    {
+      "id": 296301,
+      "en": "All",
+      "ru": "Все",
+      "context": "Фильтр списка снаряжения: все категории",
+      "src_hash": "0215f75da328c749",
+      "status": "reviewed",
+      "evidence": "onscreen-id",
+      "verification": "First contextual review, 2026-10-22; representative screens checked in-game."
+    },
+    {
+      "id": 296304,
+      "en": "Hero:",
+      "ru": "Герой:",
+      "context": "Путь навигации над списком предметов",
+      "src_hash": "26926fcd1ff3b7ef",
+      "status": "reviewed",
+      "evidence": "onscreen-id",
+      "verification": "First contextual review, 2026-10-22; representative screens checked in-game."
+    },
+    {
+      "id": 296318,
+      "en": "Equipment",
+      "ru": "Снаряжение",
+      "context": "Главное меню снаряжения",
+      "src_hash": "8bdb2a437092ab4c",
+      "status": "reviewed",
+      "evidence": "onscreen-id",
+      "verification": "First contextual review, 2026-10-22; representative screens checked in-game."
+    },
+    {
+      "id": 296319,
+      "en": "Headgear",
+      "ru": "Головные уборы",
+      "context": "Категория снаряжения: головной убор",
+      "src_hash": "9f9b9ce11bea9d1f",
+      "status": "reviewed",
+      "evidence": "onscreen-id",
+      "verification": "First contextual review, 2026-10-22; representative screens checked in-game."
+    },
+    {
+      "id": 296320,
+      "en": "Shoulders",
+      "ru": "Наплечники",
+      "context": "Категория снаряжения: броня плеч",
+      "src_hash": "73c621782e707bc7",
+      "status": "reviewed",
+      "evidence": "onscreen-id",
+      "verification": "First contextual review, 2026-10-22; representative screens checked in-game."
+    },
+    {
+      "id": 296321,
+      "en": "Chest",
+      "ru": "Нагрудники",
+      "context": "Категория снаряжения: броня корпуса",
+      "src_hash": "cd11f94de4a6054e",
+      "status": "reviewed",
+      "evidence": "onscreen-id",
+      "verification": "First contextual review, 2026-10-22; representative screens checked in-game."
+    },
+    {
+      "id": 296322,
+      "en": "Gloves",
+      "ru": "Перчатки",
+      "context": "Категория снаряжения: броня рук",
+      "src_hash": "62d1c15fe2ceb4b3",
+      "status": "reviewed",
+      "evidence": "onscreen-id",
+      "verification": "First contextual review, 2026-10-22; representative screens checked in-game."
+    },
+    {
+      "id": 296323,
+      "en": "Leggings",
+      "ru": "Поножи",
+      "context": "Категория снаряжения: броня ног",
+      "src_hash": "b40432ec295f4e0e",
+      "status": "reviewed",
+      "evidence": "onscreen-id",
+      "verification": "First contextual review, 2026-10-22; representative screens checked in-game."
+    },
+    {
+      "id": 296324,
+      "en": "Boots",
+      "ru": "Сапоги",
+      "context": "Категория снаряжения: броня ступней",
+      "src_hash": "788c1403a9eecd70",
+      "status": "reviewed",
+      "evidence": "onscreen-id",
+      "verification": "First contextual review, 2026-10-22; representative screens checked in-game."
+    },
+    {
+      "id": 296325,
+      "en": "Weapon",
+      "ru": "Оружие",
+      "context": "Категория наземного оружия",
+      "src_hash": "9105158d6b48f7f5",
+      "status": "reviewed",
+      "evidence": "onscreen-id",
+      "verification": "First contextual review, 2026-10-22; representative screens checked in-game."
+    },
+    {
+      "id": 296326,
+      "en": "Aquatic Weapon",
+      "ru": "Подводное оружие",
+      "context": "Категория оружия для подводного боя",
+      "src_hash": "e82dff4a3534c7b7",
+      "status": "reviewed",
+      "evidence": "onscreen-id",
+      "verification": "First contextual review, 2026-10-22; representative screens checked in-game."
+    },
+    {
+      "id": 296327,
+      "en": "Aquatic Headgear",
+      "ru": "Дыхательные аппараты",
+      "context": "Категория головного снаряжения для подводного боя",
+      "src_hash": "56309bed9172b519",
+      "status": "reviewed",
+      "evidence": "onscreen-id",
+      "verification": "First contextual review, 2026-10-22; representative screens checked in-game."
+    },
+    {
+      "id": 296328,
+      "en": "Back",
+      "ru": "Предметы на спину",
+      "context": "Категория снаряжения для слота спины; это не кнопка возврата",
+      "src_hash": "20aa14d7ea35552b",
+      "status": "reviewed",
+      "evidence": "onscreen-id",
+      "verification": "First contextual review, 2026-10-22; representative screens checked in-game."
+    },
+    {
+      "id": 302199,
+      "en": "Miniatures",
+      "ru": "Миниатюры",
+      "context": "Главное меню снаряжения: миниатюрные спутники",
+      "src_hash": "8cfb6c4786798644",
+      "status": "reviewed",
+      "evidence": "onscreen-id",
+      "verification": "First contextual review, 2026-10-22; representative screens checked in-game."
+    },
+    {
+      "id": 302216,
+      "en": "Finishers",
+      "ru": "Добивания",
+      "context": "Главное меню снаряжения: анимации добивания",
+      "src_hash": "6e89903455871e6e",
+      "status": "reviewed",
+      "evidence": "onscreen-id",
+      "verification": "First contextual review, 2026-10-22; representative screens checked in-game."
+    },
+    {
+      "id": 313989,
+      "en": "Mail Carriers",
+      "ru": "Почтальоны",
+      "context": "Главное меню снаряжения: внешний вид доставщиков почты",
+      "src_hash": "635665bb5a600c0f",
+      "status": "reviewed",
+      "evidence": "onscreen-id",
+      "verification": "First contextual review, 2026-10-22; representative screens checked in-game."
+    },
+    {
+      "id": 903105,
+      "en": "Novelties",
+      "ru": "Развлечения",
+      "context": "Главное меню снаряжения: игрушки и предметы для развлечений",
+      "src_hash": "9373988b88c465c9",
+      "status": "reviewed",
+      "evidence": "onscreen-id",
+      "verification": "First contextual review, 2026-10-22; representative screens checked in-game."
+    },
+    {
+      "id": 914683,
+      "en": "Rename",
+      "ru": "Переименовать",
+      "context": "Контекстное меню вкладки снаряжения",
+      "src_hash": "86972cd5056465ad",
+      "status": "reviewed",
+      "evidence": "onscreen-text-exact",
+      "verification": "Russian rendering checked in GW2 on 2026-10-22 after patch v2 install; matched by exact English text and UI context, not a new on-screen ID capture. See docs/verification-2026-10-22.md."
+    },
+    {
+      "id": 937874,
+      "en": "Unequip All Items",
+      "ru": "Снять всё снаряжение",
+      "context": "Контекстное меню вкладки снаряжения",
+      "src_hash": "bfad38d517104b2f",
+      "status": "reviewed",
+      "evidence": "onscreen-text-exact",
+      "verification": "First contextual review, 2026-10-22; representative screens checked in-game."
+    },
+    {
+      "id": 947008,
+      "en": "Copy Equipment Template",
+      "ru": "Копировать шаблон снаряжения",
+      "context": "Контекстное меню вкладки снаряжения",
+      "src_hash": "d798e0fdc76f3027",
+      "status": "reviewed",
+      "evidence": "onscreen-text-exact",
+      "verification": "First contextual review, 2026-10-22; representative screens checked in-game."
+    },
+    {
+      "id": 947171,
+      "en": "Paste Equipment Template",
+      "ru": "Вставить шаблон снаряжения",
+      "context": "Контекстное меню вкладки снаряжения",
+      "src_hash": "0300b2eab9a43f24",
+      "status": "reviewed",
+      "evidence": "onscreen-text-exact",
+      "verification": "First contextual review, 2026-10-22; representative screens checked in-game."
+    },
+    {
+      "id": 1007472,
+      "en": "Fishing",
+      "ru": "Рыбалка",
+      "context": "Главное меню снаряжения: рыболовные принадлежности",
+      "src_hash": "71365ba0e5fc754d",
+      "status": "reviewed",
+      "evidence": "onscreen-id",
+      "verification": "First contextual review, 2026-10-22; representative screens checked in-game."
+    },
+    {
+      "id": 1025324,
+      "en": "Jade Bot",
+      "ru": "Нефритовый бот",
+      "context": "Главное меню снаряжения: личный нефритовый бот",
+      "src_hash": "ebab4f793afa5eaa",
+      "status": "reviewed",
+      "evidence": "onscreen-id",
+      "verification": "First contextual review, 2026-10-22; representative screens checked in-game."
+    },
+    {
+      "id": 1074158,
+      "en": "Relic",
+      "ru": "Реликвии",
+      "context": "Категория списка снаряжения: реликвии",
+      "src_hash": "773d5b4a85c2b385",
+      "status": "reviewed",
+      "evidence": "onscreen-id",
+      "verification": "First contextual review, 2026-10-22; representative screens checked in-game."
+    }
+  ]
+}

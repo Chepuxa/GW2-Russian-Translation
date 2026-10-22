@@ -1,0 +1,114 @@
+{
+  "_id": "69e7cb8a1c25756d4cbc785a",
+  "id": "rohanksaxena/opus-mt-en-ru",
+  "private": false,
+  "pipeline_tag": "translation",
+  "tags": [
+    "translation",
+    "ctranslate2",
+    "opus-mt",
+    "unreal-engine",
+    "en",
+    "ru",
+    "license:cc-by-4.0",
+    "region:us"
+  ],
+  "downloads": 30,
+  "likes": 0,
+  "modelId": "rohanksaxena/opus-mt-en-ru",
+  "author": "rohanksaxena",
+  "sha": "3e60bacffde1e346edc65b9d057be7d441872779",
+  "lastModified": "2026-04-21T19:44:06Z",
+  "gated": false,
+  "disabled": false,
+  "widgetData": [
+    {
+      "text": "My name is Wolfgang and I live in Berlin"
+    },
+    {
+      "text": "My name is Sarah and I live in London"
+    }
+  ],
+  "model-index": null,
+  "config": {
+    "tokenizer_config": {}
+  },
+  "cardData": {
+    "license": "cc-by-4.0",
+    "tags": [
+      "translation",
+      "ctranslate2",
+      "opus-mt",
+      "unreal-engine"
+    ],
+    "language": [
+      "en",
+      "ru"
+    ]
+  },
+  "siblings": [
+    {
+      "rfilename": ".gitattributes",
+      "blobId": "df42fd966679c0c1d0aa59d78d59140333618c78",
+      "size": 1613
+    },
+    {
+      "rfilename": "README.md",
+      "blobId": "52923fbd2d4db2addd4948ce584ad248a5eb18f0",
+      "size": 1250
+    },
+    {
+      "rfilename": "config.json",
+      "blobId": "5875dd832fcb028f0f3b82c552832c5187d45d2a",
+      "size": 233
+    },
+    {
+      "rfilename": "model.bin",
+      "blobId": "71e80f717b0de0cdef5cf42ceae4681f20b02136",
+      "size": 78276475,
+      "lfs": {
+        "sha256": "f5ae1da30bcb61e877c549be8fb5a434193893eb97509ccd0b954465f9a8f80c",
+        "size": 78276475,
+        "pointerSize": 133
+      }
+    },
+    {
+      "rfilename": "shared_vocabulary.json",
+      "blobId": "e02f67195c79068c53b664b9632afc810dc421c9",
+      "size": 2362787
+    },
+    {
+      "rfilename": "source.spm",
+      "blobId": "baaebfef254b5e34c55a5192824b6335a34a488b",
+      "size": 802781,
+      "lfs": {
+        "sha256": "16bebef1389a0b8ab452772c4e35b9e605e5713f8ac7baa71ca701394eaa086d",
+        "size": 802781,
+        "pointerSize": 131
+      }
+    },
+    {
+      "rfilename": "target.spm",
+      "blobId": "10a2b533747fb2a222106eb4ff9ce0b5d06c2718",
+      "size": 1080169,
+      "lfs": {
+        "sha256": "745998e51ba5b058e38b7ac7765c25c43ed5c1c39cc92b27163b9b2e323c9d7c",
+        "size": 1080169,
+        "pointerSize": 132
+      }
+    },
+    {
+      "rfilename": "tokenizer_config.json",
+      "blobId": "462aca4d61e8761db1243aeec9703e325f6fab6f",
+      "size": 42
+    },
+    {
+      "rfilename": "vocab.json",
+      "blobId": "39833c62b978f23b3429c9109dc4ee88e339c2d5",
+      "size": 2601758
+    }
+  ],
+  "spaces": [],
+  "createdAt": "2026-04-21T19:10:02Z",
+  "usedStorage": 80159425
+}
